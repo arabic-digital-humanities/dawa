@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مفهوم الاستشراق</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تاريخ الاستشراق وتطوره</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دوافع الاستشراق</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1- الدافع الديني</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2- الدافع الاستعماري</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3- الدافع السياسي</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4- الدافع الاقتصادي</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5- الدافع العلمي</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شبهات الاستشراق حول السنة النبوية</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: السنة في مفهوم المستشرقين</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الطعن في رسالة النبي صلى الله عليه وسلم</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الطعن في شخصية النبي صلى الله عليه وسلم</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: الطعن في الأحاديث النبوية سندا ومتنا</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>علاقة المستشرقين بالمذاهب والفرق القديمة والحديثة</tit>
+        <id>87</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1- الاستشراق والمعتزلة</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2- الاستشراق والقرآنيون</tit>
+        <id>90</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3- الاستشراق والعقلانيون المعاصرون</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>100</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر ومراجع</tit>
+        <id>102</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

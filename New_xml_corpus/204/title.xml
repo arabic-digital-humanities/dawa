@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مواقف التابعين</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة:</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: من مواقف سعيد بن المسيب - رحمه الله -</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: من مواقف الحسن البصري - رحمه الله -</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - موقفه مع الحجاج بن يوسف الثقفي:</tit>
+        <id>6</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - موقف الحسن من عمر بن هبيرة:</tit>
+        <id>7</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - موقفه مع القراء:</tit>
+        <id>9</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: من مواقف عمر بن عبد العزيز - رضي الله عنه -</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - أقبل سليمان بن عبد الملك</tit>
+        <id>11</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(أ) من مواقفه الحكيمة قبل الخلافة:</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - وحج سليمان بن عبد الملك</tit>
+        <id>12</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - ومن أعظم مواقف الحكمة مع سليمان بن عبد الملك</tit>
+        <id>12</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ب) مواقفه بعد أن ولي الخلافة:</tit>
+        <id>13</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: من مواقف أبي حنيفة النعمان بن ثابت - رحمه الله -:</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: مواقف أتباع التابعين</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة:</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: من مواقف الإمام مالك بن أنس - رحمه الله -:</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: من مواقف الإمام الشافعي - رحمه الله -</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: من مواقف الإمام أحمد بن حنبل - رحمه الله -</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

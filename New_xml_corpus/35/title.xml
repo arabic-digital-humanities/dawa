@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الإيمان بالله عز وجل صنع رجالا كانوا أغمارا في الجاهلية فأصبحوا سادة العالم</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعاليم الاسلام قوة روحية ومادية معا وعدالة اجتماعية ورحمة، لجميع الناس</tit>
+        <id>20</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاقتصاد في الإسلام</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدفاع</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أسباب تدهور المجتمع الاسلامى الأول</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الغزو الصليبي المتكالب على المسلمين</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>زحف التتار على الممالك الاسلامية الشرقية</tit>
+        <id>54</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تركيا والغرب</tit>
+        <id>61</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثورة الشعوب الاسلامية الحديثة على الاستعمار الغربي أينما كان</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقلص ظل الاستعمار الثقيل من بلدان المسلمين</tit>
+        <id>78</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لا يزال المسلمون متدهورين رغم الحوادث التى انتابهم</tit>
+        <id>81</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقليد المسلمين للغرب هو الذي صدهم عن تعاليم الاسلام السمحاء</tit>
+        <id>87</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هل يجعل المسلمون حدا لهذه التدهورات الخطيرة أم تستمر الى ما لا نهاية لها؟</tit>
+        <id>91</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاحتلال الفرنسي للجزائر</tit>
+        <id>105</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فضائع الاستعمار الفرنسي إبان الاحتلال</tit>
+        <id>111</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>عوامل ثورة الجزائر الكبرى</tit>
+        <id>114</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاستعداد للثورة</tit>
+        <id>125</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تخطيط للثورة وتنسيقها في الداخل والخارج</tit>
+        <id>128</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تكوين جبهة التحرير</tit>
+        <id>134</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تنيه</tit>
+        <id>140</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بداية الثورة في الجزائر</tit>
+        <id>143</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أعمال جبهة التحرير</tit>
+        <id>145</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>موقف الحكومة الفرنسية من الثورة وصداها في الداخل والخارج</tit>
+        <id>151</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الحكومة الفرنسية الاشتراكية</tit>
+        <id>155</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطف الزعماء الخمس من الجو</tit>
+        <id>160</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الهجوم المثلث على مصر</tit>
+        <id>163</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاضراب العام الذي دام ثمانية أيام</tit>
+        <id>164</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأسلاك الشائكة على طول حدود الجزائر شرقا وغربا ((ومراقبة البواخر من ناحية البحر))</tit>
+        <id>168</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>القانون الاطاري</tit>
+        <id>170</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سقوط الحكومات الفرنسية على التوالي</tit>
+        <id>171</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تصاعد الثورة في الداخل والخارج</tit>
+        <id>174</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النابالم في الفيتنام</tit>
+        <id>180</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النابالم في الجزائر (بقلم جان لاكنر)</tit>
+        <id>182</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هزائم مريعة في جبل مزى للجيوش الفرنسية الجيش الفرنسى يستعمل النابالم</tit>
+        <id>184</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صدى الثورة في الخارج</tit>
+        <id>187</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تخطيط للعمليات العسكرية الفرنسية</tit>
+        <id>190</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>عملية التطهير المعروفة بعملية (جوميل)</tit>
+        <id>194</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اصطدام التطرف الفرنسى بالواقع الجزائري</tit>
+        <id>201</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>معاملة جنرالات فرنسا للشعب الجزائري ومخططاتهم الحربية</tit>
+        <id>205</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثورة معمري الجزائر مع الجيش الفرنسى على الحكومة المركزية في باريس وسقوط الجمهورية الرابعة</tit>
+        <id>209</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نداء الجنرال ديغول لتولي رئاسة الحكم</tit>
+        <id>212</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صعود الجنرال ديغول الى الحكم</tit>
+        <id>216</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تجديد الدستور الفرنسى</tit>
+        <id>221</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أول خطبة للجنرال ديغول بين فيها حل القضية الجزائرية</tit>
+        <id>224</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تأسيس حكومة في جزائرية في الخارج</tit>
+        <id>226</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>انتخابات تشريعية في الجزائر وفي فرنسا</tit>
+        <id>228</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجنرال ديغول رئيس للجمهورية</tit>
+        <id>230</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فشل فرنسا واعترافها بتقرير المصير</tit>
+        <id>232</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اعتكاف الحكومة الجزائرية المؤقتة على دراسة تقرير المصير</tit>
+        <id>238</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رئيس الحكومة الفرنسية يقول تصريح الجنرال هو تأكيد لسياسة فرنسا في الجزائر</tit>
+        <id>243</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة من الجنرال ديغول الى القيادة العسكرية الفرنسية في الجزائر</tit>
+        <id>248</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>254</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

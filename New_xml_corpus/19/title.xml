@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الكوادر الدعوية</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>علم الخطابة</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخطابة</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الآداب الخطابية</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>زاد الخطيب</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التنسيق</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فنون الخطابة الإسلامية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخطابة في صدر الإسلام</tit>
+        <id>26</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من خطب الرسول صلى الله عليه وسلم</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطبته في عشيرته</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أول خطبة خطبها بمكة حين دعا قومه</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في أول جمعة جمعها بالمدينة</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة له عليه الصلاة والسلام</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة له عليه الصلاة والسلام</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في حجة الوداع</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته يوم فتح مكة</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة له يوم أحد</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته بالخيف</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة له عليه الصلاة والسلام</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة له عليه الصلاة والسلام</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة له عليه الصلاة والسلام</tit>
+        <id>50</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في الاستسقاء</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في مرض موته</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعليق على خطب النبي -صلى الله عليه وسلم</tit>
+        <id>54</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من خطب أبي بكر رضى الله عنه</tit>
+        <id>56</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته بعد وفاة الرسول صلى الله عليه وسلم</tit>
+        <id>58</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في سقيفة بني ساعدة</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته بعد بيعة السقيفة</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطب عمر بن الخطاب رضي الله عنه</tit>
+        <id>62</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطبته بعد توليه الخلافة</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في منهجه</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته في الدعاء</tit>
+        <id>65</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة لعمر بن الخطاب</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة لعمر يبين فيها وجوب شكر الله</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبته بعد بيعته</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطب عثمان رضي الله عنه</tit>
+        <id>69</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطبة لعثمان بن عفان &quot;رضي الله عنه&quot; يحذر الناس من خداع الدنيا</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة لعلي كرم الله وجهه</tit>
+        <id>71</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطبة لعمر بن عبد العزيز رضي الله عنه</tit>
+        <id>72</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطب لعمر عبد العزيز</tit>
+        <id>74</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطبة للمأمون</tit>
+        <id>76</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطب من العصر الحديث</tit>
+        <id>77</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطبة الجمعة: أسلوب الدعوة إلى الله</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة الجمعة: ففروا إلى الله</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة الجمعة: بين محمد -صلى الله عليه وسلم- وأصحابه</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة الجمعة: تمييع الشباب</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مكانة السنة</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عوامل مساعدة للخطيب</tit>
+        <id>104</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفهرس</tit>
+        <id>112</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

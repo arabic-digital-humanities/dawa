@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>القسم الأول: المجتمع المسلم</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المجتمع</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>منهج بناء المجتمع المسلم</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الأول من الأصول التي ترتكز عليها عقيدة المسلم: عقيدة التوحيد وصلتها بالسلوك الإنساني</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الثاني: العبادة وأثرها في الفرد والمجتمع</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الثالث: تنظيم المعاملات حسب أحكام الشريعة الإسلامية</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الرابع: الأخلاق الإسلامية وأثرها في العلاقات الاجتماعية</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الخامس: الأمر بالمعروف والنهي عن المنكر ودوره التربوي</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل السادس: طلب العلم ودوره في وعي المجتمع</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل السابع: ضرورة العمل وقيمته</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الثامن: الدعوى إلى الاعتزاز بالإسلام</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وسائل تقوية الروابط الاجتماعية</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معاجلة بعض المشكلات الاجتماعية</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خصائص المجتمع المسلم</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القسم الثاني: الأسرة في الإسلام</tit>
+        <id>82</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأسرة</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الزواج</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسس الزواج</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عقد الزواج</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المهر</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الولاية في الزواج</tit>
+        <id>103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشهادة</tit>
+        <id>106</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النسوة المحرمات</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعدد الزوجات</tit>
+        <id>112</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعائم الأسرة</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلات العائلية الناشئة عن الزواج وحلولها - المشكلة الأولى: الطلاق</tit>
+        <id>137</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلة الثانية: الخلع</tit>
+        <id>151</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلة الثالثة: الظهار</tit>
+        <id>154</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلة الرابعة: الإيلاء</tit>
+        <id>156</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلة الخامسة: اللعان</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>162</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فهارس</tit>
+        <id>164</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فهرس المصادر والمراجع</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهرس الموضوعات</tit>
+        <id>167</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعريف بالمؤلف</tit>
+        <id>179</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>(1)</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المؤلف</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(2)</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(3)</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العقيدة والقيادة</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مع التراث العربي الإسلامي</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(2)</tit>
+        <id>43</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(3)</tit>
+        <id>45</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(4)</tit>
+        <id>48</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مع المشير مونتكومري</tit>
+        <id>55</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(2)</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(3)</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(4)</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(5)</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(6)</tit>
+        <id>68</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(7)</tit>
+        <id>74</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(8)</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(9)</tit>
+        <id>79</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مع القادة الآخرين</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>83</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(2)</tit>
+        <id>85</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(3)</tit>
+        <id>91</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإسلام والنصر</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أثر الإسلام في العرب</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(2)</tit>
+        <id>99</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(3)</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(4)</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإسلام في مجال التربية العسكرية</tit>
+        <id>106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - التدريب الفردي</tit>
+        <id>106</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - التدريب الإجمالي</tit>
+        <id>113</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - الحرب العادلة</tit>
+        <id>117</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - الحرب النفسية</tit>
+        <id>120</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - عزة الإسلام</tit>
+        <id>125</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التطبيق العملي في عهد النبوة</tit>
+        <id>127</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مستهل</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>128</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مع الرسول القائد عليه أفضل الصلاة والسلام</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في مكة المكرمة</tit>
+        <id>136</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>136</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>1 - الأهوال</tit>
+        <id>136</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - الهجرة</tit>
+        <id>141</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>في المدينة المنورة</tit>
+        <id>145</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - الأعمال التمهيدية</tit>
+        <id>145</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>أ- في بدر</tit>
+        <id>147</id>
+        <lvl>6</lvl>
+    </title>
+    <title>
+        <tit>2 - الجهاد الحاسم</tit>
+        <id>147</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ب- بعد بدر</tit>
+        <id>154</id>
+        <lvl>6</lvl>
+    </title>
+    <title>
+        <tit>3 - القدوة الحسنة</tit>
+        <id>161</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - المثال الرائع</tit>
+        <id>164</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>في مكة</tit>
+        <id>168</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - التعذيب</tit>
+        <id>168</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - في الحبشة</tit>
+        <id>170</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>1 - المجتمع الجديد</tit>
+        <id>175</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>في المدينة</tit>
+        <id>175</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - في بدر</tit>
+        <id>178</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - في أحد</tit>
+        <id>192</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - كارثة الرجيع</tit>
+        <id>195</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>5 - يوم الأحزاب</tit>
+        <id>196</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>6 - محاسبة الغادرين</tit>
+        <id>198</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>7 - إخلاص الأنصار</tit>
+        <id>199</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>8 - يوم الحديبية</tit>
+        <id>202</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>9 - في مؤتة</tit>
+        <id>203</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>10 - اختبار العقيدة</tit>
+        <id>205</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>11 - الجهاد بالمال</tit>
+        <id>208</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>12 - خير القرون</tit>
+        <id>210</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>مع الصحابة والتابعين</tit>
+        <id>212</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - المخطط الأول للفتح</tit>
+        <id>212</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - بعث أسامة</tit>
+        <id>215</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - حرب الردة</tit>
+        <id>220</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - في اليرموك</tit>
+        <id>225</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - في معركة الجسر</tit>
+        <id>228</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6 - في القادسية</tit>
+        <id>230</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>7 - في فتح المدائن</tit>
+        <id>233</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>8 - نماذج بطولية</tit>
+        <id>235</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>9 - في إفريقية</tit>
+        <id>239</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>10 - في الأندلس</tit>
+        <id>243</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>11 - انتصار عقيدة</tit>
+        <id>245</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>12 - المثال الشخصي</tit>
+        <id>251</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التطبيق العملي بعد الفتح الإسلامي العظيم</tit>
+        <id>261</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مستهل</tit>
+        <id>262</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - العالم</tit>
+        <id>265</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>- 1 - أسد بن الفرات مصنف كتاب الأسدية وفاتح جزيرتي قوصرة وصقلية</tit>
+        <id>265</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - الفاتح</tit>
+        <id>272</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - الإنسان</tit>
+        <id>283</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - القائد</tit>
+        <id>284</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>5 - أسد في التاريخ</tit>
+        <id>289</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>1 - أيامه الأولى</tit>
+        <id>290</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>- 2 - صلاح الدين الأيوبي قاهر الصليبيين ومحرر بيت المقدس</tit>
+        <id>290</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - الوزير</tit>
+        <id>293</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - السلطان</tit>
+        <id>296</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - في دمشق</tit>
+        <id>299</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>5 - معركة حطين</tit>
+        <id>300</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>6 - معارك استثمار الفوز</tit>
+        <id>305</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>7 - استعادة القدس</tit>
+        <id>308</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>8 - مجمل الفتح</tit>
+        <id>312</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>9 - الإنسان</tit>
+        <id>316</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>10 - في المصادر الأجنبية</tit>
+        <id>325</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>- 3 - الملك المظفر قطز قاهر التتار</tit>
+        <id>335</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - السلطان</tit>
+        <id>335</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - الموقف العام</tit>
+        <id>337</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - موقف أوروبا</tit>
+        <id>338</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - زحف التتار</tit>
+        <id>341</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>5 - الحشد</tit>
+        <id>346</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>6 - المعركة</tit>
+        <id>348</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>7 - أسباب النصر</tit>
+        <id>352</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>8 - الشهيد</tit>
+        <id>356</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>1 - أيامه الأولى</tit>
+        <id>358</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>- 4 - السلطان محمد الفاتح فاتح القسطنطينية</tit>
+        <id>358</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - محاولات الفتح الأولى</tit>
+        <id>360</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - أهمية القسطنطينية</tit>
+        <id>363</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - آخر الأباطرة</tit>
+        <id>365</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>5 - نقض العهد</tit>
+        <id>367</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>6 - التمهيد للفتح</tit>
+        <id>371</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>8 - إكمال الإعداد</tit>
+        <id>379</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>9 - الزحف</tit>
+        <id>381</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>10 - الحصار</tit>
+        <id>383</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>11 - المناوشات</tit>
+        <id>391</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>12 - سفن البر</tit>
+        <id>394</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>13 - القتال البحري</tit>
+        <id>397</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>14 - تضييق الخناق</tit>
+        <id>399</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>15 - الحرب النفسية</tit>
+        <id>403</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>16 - اليأس</tit>
+        <id>406</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>17 - قبيل الهجوم العام</tit>
+        <id>410</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>18 - الهجوم العام</tit>
+        <id>419</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>19 - الفاتح في القسطنطينية</tit>
+        <id>427</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>20 - صدى الفتح</tit>
+        <id>437</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>21 - الفتوح</tit>
+        <id>447</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>22 - وقع النعي</tit>
+        <id>462</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>23 - الإنسان</tit>
+        <id>465</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>488</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(1)</tit>
+        <id>488</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(2)</tit>
+        <id>493</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(3)</tit>
+        <id>499</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(4)</tit>
+        <id>508</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(5)</tit>
+        <id>512</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أ) الفرد</tit>
+        <id>514</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ب) الدولة</tit>
+        <id>519</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المصادر</tit>
+        <id>535</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المراجع</tit>
+        <id>549</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - المراجع العربية</tit>
+        <id>549</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - المراجع التركية</tit>
+        <id>553</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - المراجع الإنكليزية</tit>
+        <id>554</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفهرس</tit>
+        <id>556</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

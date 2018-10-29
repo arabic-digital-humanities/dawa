@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ضيوف القضية</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بين يدي الكتاب</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المحور الأول النشأة والأسباب</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بين مكة والمدينة</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجهل والخوارج</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثقافة العنف</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا الأسباب العامة</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا الأسباب الخاصة بمجتمعاتنا</tit>
+        <id>18</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحور الثاني كيف نغير المنكر</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصور في الفهم</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>آثار مدمرة</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقومات الإنكار باللسان</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق المعاهدين</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بين القول والفعل</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تشويه صورة الإسلام</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور الثالث الأحزاب والجماعات</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مراعاة الظروف</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعيار السليم</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور الرابع فتنة التكفير</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أي نفاق</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>منهج السلف</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وقاية وعلاج</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور الخامس كيف تطبق الشريعة الإسلامية في دول العالم الإسلامي</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تنوع السبل</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحاكم والهيئات العلمية</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التربية والدعوة</tit>
+        <id>58</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العمل السلمي</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور السادس الحصاد المر</tit>
+        <id>61</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حسن النية لا يكفي</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشر الأوهام</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

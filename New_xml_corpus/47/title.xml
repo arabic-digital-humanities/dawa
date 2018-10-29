@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>العجلة.</tit>
+        <id>2</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 1 بعض الآفات التي تصيب بعض الدعاة.</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ضعف اليقين.</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التقصير في عمل اليوم والليلة.</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 2 أصول العقيدة (1).</tit>
+        <id>20</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>علاقة الدعوة بأصول الإسلام.</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعريف العقيدة وأصولها الستة.</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الأول: الإيمان بالله.</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الثاني: الإيمان بالملائكة.</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الثالث: الإيمان بالنبيين والكتب المنزلة على المرسلين.</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 3 أصول العقيدة (2).</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الركن الرابع: الإيمان بالكتب.</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الخامس: الإيمان باليوم الآخر.</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن السادس: الإيمان بالقدر.</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 4 العبادة.</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الركن الأعظم بعد الشهادتين: الصلاة.</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الثاني بعد الصلاة: الزكاة.</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الثالث بعد الصلاة: الصيام.</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الرابع بعد الصلاة: الحج.</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 5 الأخلاق.</tit>
+        <id>77</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>علاقة الأخلاق بالعقيدة.</tit>
+        <id>78</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>علاقة الأخلاق بالعبادة.</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعريف الأخلاق وأهميتها.</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مكانة الأخلاق في الإسلام.</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خصائص الأخلاق في الإسلام.</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 6 خصائص الإسلام.</tit>
+        <id>96</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خاصية العالمية.</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاصية الإنسانية.</tit>
+        <id>104</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 7 المبادئ العشرة لعلم أصول الدعوة.</tit>
+        <id>113</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>معنى أصول الدعوة، وموضوعه، وحكم تعلمه.</tit>
+        <id>114</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موضوع علم أصول الدعوة.</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فضائل علم أصول الدعوة.</tit>
+        <id>122</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشأة علم أصول الدعوة، والمراحل التي مر بها.</tit>
+        <id>124</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>روافد علم أصول الدعوة، ونسبته، وثمرته، ومسائله، ومصادره.</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 8 التصور الإسلامي للمعرفة بأنواعها المختلفة.</tit>
+        <id>132</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين العلم والمعرفة.</tit>
+        <id>133</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحس في الفكر الإسلامي.</tit>
+        <id>136</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلاقة بين العقل والنقل.</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 9 دعوة المسلمين.</tit>
+        <id>152</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أصناف المدعوين.</tit>
+        <id>153</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصول الشرعية في دعوة الكفار والمنافقين.</tit>
+        <id>158</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصول الشرعية في دعوة المسلمين.</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 10 أهم الصفات التي يجب علي الداعية أن يتصف بها.</tit>
+        <id>171</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإيمان.</tit>
+        <id>172</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاجتهاد في الطاعات والتقرب بها إلى الله.</tit>
+        <id>177</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التجرد والزهد.</tit>
+        <id>178</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أن يكون في نفسه قدوة حسنة.</tit>
+        <id>181</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أن يكون قوي الحجة مستظهرا للأدلة.</tit>
+        <id>184</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلم.</tit>
+        <id>187</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 11 المدعوون.</tit>
+        <id>190</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من هو المدعو؟.</tit>
+        <id>191</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوة القرآن المشركين للإيمان.</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوة القرآن اليهود للإيمان.</tit>
+        <id>197</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوة القرآن النصارى للإيمان.</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوة القرآن المنافقين للإيمان.</tit>
+        <id>205</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 12 المصادر التي يعتمد عليها الداعية في دعوته المصدر الأول: القرآن الكريم.</tit>
+        <id>209</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التعريف بالمصدر الأول: القرآن الكريم.</tit>
+        <id>210</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بيان القرآن الكريم للأحكام الشرعية.</tit>
+        <id>216</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية القرآن الكريم في حياة الداعية والمجتمع.</tit>
+        <id>220</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 13 المصدر الثاني: السنة.</tit>
+        <id>228</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التعريف بالسنة وأهميتها في التشريع.</tit>
+        <id>229</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أقسام السنة من حيث ورودها إلينا.</tit>
+        <id>236</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 14 الثقافة التي يحتاج إليها الداعية.</tit>
+        <id>249</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الثقافة الدينية.</tit>
+        <id>250</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معرفة علوم القرآن.</tit>
+        <id>255</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الثقافة التاريخية.</tit>
+        <id>265</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الثقافة الأدبية والواقعية.</tit>
+        <id>267</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 15 ركائز الدعوة في الإسلام.</tit>
+        <id>270</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التصور الإسلامي للكون والحياة.</tit>
+        <id>271</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التصور الإسلامي للإنسان والمجتمع.</tit>
+        <id>283</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 16 علاقة الإسلام بالدعوات السابقة.</tit>
+        <id>289</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإسلام هو الدين القيم الذي فطر الله الناس عليه.</tit>
+        <id>290</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حكمة اختلاف الشرائع من أمة لأمة.</tit>
+        <id>300</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 17 الأخلاق ومكانتها في الإسلام - أهم الأخلاق التي يجب على الداعية أن يتخلق بها (1).</tit>
+        <id>307</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأخلاق ومكانتها في الإسلام.</tit>
+        <id>308</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الأخلاق التي يجب أن يتخلق بها الداعية: الإخلاص.</tit>
+        <id>310</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من أهم الأخلاق التي تلزم الداعية: الشجاعة.</tit>
+        <id>316</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 18 أهم الأخلاق التي يجب على الداعية أن يتخلق بها (2).</tit>
+        <id>324</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من أهم الأخلاق التي يجب على الداعية أن يتخلق بها: الإيجابية.</tit>
+        <id>325</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الأخلاق التي يجب على الداعية أن يتخلق بها التضحية.</tit>
+        <id>336</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 19 أهم الأخلاق التي يجب على الداعية أن يتخلق بها (3).</tit>
+        <id>342</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من الأخلاق التي يجب أن يتخلق بها الداعية: الصبر.</tit>
+        <id>343</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الأخلاق التي يجب أن يتخلق بها الداعية: الرفق.</tit>
+        <id>352</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 20 أهم الأخلاق التي يجب على الداعية أن يتخلق بها (4).</tit>
+        <id>360</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من الأخلاق التي يجب أن يتخلق بها الداعية: العدل.</tit>
+        <id>361</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الأخلاق التي يجب أن يتخلق بها الداعية: العفو.</tit>
+        <id>367</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 21 من خصائص الإسلام: الربانية والوسطية والوضوح.</tit>
+        <id>376</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من خصائص الإسلام: الربانية.</tit>
+        <id>377</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من خصائص الإسلام: الوسطية.</tit>
+        <id>383</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من خصائص الإسلام: الوضوح.</tit>
+        <id>388</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

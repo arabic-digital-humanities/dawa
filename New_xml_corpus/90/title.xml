@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الرسالة الأولى البيت السعيد</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإيمان بالله وتقواه</tit>
+        <id>6</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دعائم بناء الأسرة المسلمة</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دور الزوج في الحفاظ على بيت الزوجية والمعاشرة بالمعروف</tit>
+        <id>8</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المعاشرة بالمعروف</tit>
+        <id>8</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دور الزوجة في الحفاظ على بيت الزوجية والمعاشرة بالمعروف</tit>
+        <id>11</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الرسالة الثانية خلاف الزوجين</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من أسباب الخلاف بين الزوجين</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من وسائل علاج الاختلاف بين الزوجين</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الوسيلة الأخيرة في معالجة الاختلاف</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

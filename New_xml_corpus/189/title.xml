@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>منهج المبطلين في إثارة الأباطيل عن القرآن</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>القرآن كتاب الله المحفوظ</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجمع الكتابي للقرآن الكريم</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جمع القرآن الكريم في عهد أبي بكر</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل نقل شيء من القرآن بطريق الآحاد؟</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجمع العثماني</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل القرآن الكريم من إنشاء محمد - صلى الله عليه وسلم -؟</tit>
+        <id>38</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: دلالة آيات العتاب</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: أحداث تشهد بوحي القرآن</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الكتاب المعجز</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: الإخبار بالغيوب</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: هل في القرآن ما يدل على أنه من كلام النبي - صلى الله عليه وسلم -</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المصادر المزعومة للقرآن الكريم</tit>
+        <id>60</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: هل القرآن منقول من الكتاب المقدس؟</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أ. حقائق الإيمان بين القرآن والكتاب المقدس</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ب. قصص الأنبياء والأمم السابقة بين القرآن والكتاب المقدس</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ج. الأحكام التشريعية بين القرآن والكتاب المقدس</tit>
+        <id>71</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: هل تعلم النبي - صلى الله عليه وسلم - القرآن من بحيرا وورقة بن نوفل؟</tit>
+        <id>73</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: هل القرآن منحول من شعر امرئ القيس؟</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: هل القرآن منحول من شعر أمية ابن أبي الصلت؟</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الناسخ والمنسوخ في القرآن</tit>
+        <id>84</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هل تغير النص القرآني في عصر الصحابة الكرام وبعدهم؟</tit>
+        <id>98</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: اختلاف مصاحف الصحابة</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: اختلاف الصدر الأول في قراءة بعض آيات القرآن الكريم</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: هل أسقط ابن مسعود - رضي الله عنه - المعوذتين من مصحفه؟</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: هل أسقط ابن مسعود - رضي الله عنه - الفاتحة من مصحفه؟</tit>
+        <id>111</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: هل أخطأ نساخ القرآن في كتابة بعض كلماته</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: هل في القرآن زيادة أو سقط أو جمل لم تكتمل</tit>
+        <id>114</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأباطيل المتعلقة بذات الله وصفاته وأفعاله</tit>
+        <id>116</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: نسبة صفات النقص إلى الله تعالى</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: هل يضل الله عباده؟</tit>
+        <id>123</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: هل يأمر الله بالفحشاء؟</tit>
+        <id>127</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: هل يتحسر الله؟</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: هل الكبر صفة محمودة؟</tit>
+        <id>129</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: هل الله لا يعلم الأشياء إلا بعد حدوثها؟</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سابعا: هل شك القرآن في عدد قوم يونس عليه السلام؟</tit>
+        <id>133</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأباطيل المتعلقة بما في القرآن عن أنبياء الله تعالى</tit>
+        <id>137</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: هل وقع آدم في الشرك؟</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: هل شك إبراهيم عليه السلام؟</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: هل شك يونس عليه السلام في قدرة الله؟</tit>
+        <id>148</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: هم يوسف عليه السلام</tit>
+        <id>149</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأباطيل المتعلقة بشخص النبي - صلى الله عليه وسلم -</tit>
+        <id>153</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: قصة الغرانيق</tit>
+        <id>153</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: سحر النبي - صلى الله عليه وسلم -</tit>
+        <id>162</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: هل النبي - صلى الله عليه وسلم - مصاب بالصرع؟</tit>
+        <id>165</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القرآن والمسيحية</tit>
+        <id>170</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: القرآن وألوهية المسيح</tit>
+        <id>170</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: هل امتدح القرآن النصارى؟</tit>
+        <id>176</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: من أتباع المسيح؟</tit>
+        <id>179</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: سؤال أهل الكتاب</tit>
+        <id>181</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: التوثيق المزعوم لكتب أهل الكتاب في القرآن</tit>
+        <id>184</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: هل الذكر المحفوظ هو كتب أهل الكتاب؟</tit>
+        <id>191</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سابعا: هل نسب القرأن إلى المسيح صفة الخالقية</tit>
+        <id>193</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأخطاء المزعومة في القرآن الكريم</tit>
+        <id>194</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: العين الحمئة</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: مريم أخت هارون</tit>
+        <id>198</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: هل القلوب العاقلة في الصدور؟</tit>
+        <id>199</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: النجوم التي ترجم بها الشياطين</tit>
+        <id>202</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: هل القرآن يشجع على فعل المعاصي؟</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: الجنة والخمر</tit>
+        <id>205</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سابعا: هل أخطأ القرآن في ذكر السامري في عهد موسى</tit>
+        <id>207</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثامنا: هل أخطأ القرآن بذكر هامان المصري</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تاسعا: هل يؤمن اليهود برسالة المسيح عليه السلام</tit>
+        <id>209</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأخطاء اللغوية المزعومة في القرآن الكريم</tit>
+        <id>210</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: الأخطاء النحوية المزعومة في القرآن</tit>
+        <id>210</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الأخطاء البيانية المزعومة</tit>
+        <id>224</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسألة السادسة: هل يعود الضمير على غير مذكور في السياق</tit>
+        <id>232</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسألة السابعة: هل في القرآن ما هو لغو ولا معنى له</tit>
+        <id>233</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التناقضات المزعومة في القرآن الكريم</tit>
+        <id>235</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سوء الفهم لبعض آيات القرآن الكريم وألفاظه</tit>
+        <id>257</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المرأة في القرآن</tit>
+        <id>261</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: القوامة وظلم الزوجة</tit>
+        <id>266</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الأمر بضرب الزوجة</tit>
+        <id>270</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: تعدد الزوجات</tit>
+        <id>274</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: حقوق المرأة والميراث</tit>
+        <id>279</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: شهادة المرأة</tit>
+        <id>283</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: طلاق المرأة</tit>
+        <id>286</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الرق والاسترقاق في القرآن الكريم</tit>
+        <id>290</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>300</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أهم المصادر والمراجع</tit>
+        <id>302</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

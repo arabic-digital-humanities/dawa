@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في معنى البصيرة</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المحور الأول البصيرة فيما يدعو إليه</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل فيما يدعو إليه الداعية</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل منهج الأنبياء هو الدعوة إلى الله تعالى لا إلى شخص ولا إلى جماعة</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل العلم قبل الدعوة</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في فضل العلم والتعليم</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في علم العقيدة</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل واجبنا نحو العقيدة</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شبهات وردود</tit>
+        <id>37</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فساد العقيدة هو سبب مصائب المسلمين</tit>
+        <id>38</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قاعدة الغاية تبرر الوسيلة</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أصحاب المنهج الحق</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في منهج الدعوة إلى الله تعالى</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإكثار من الحديث عن العقيدة</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في علم السنة</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حث السلف على التمسك بالسنة</tit>
+        <id>49</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>احتراز</tit>
+        <id>51</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في الوسائل لفهم نصوص الوحيين</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في العناية بمعرفة الأحكام</tit>
+        <id>54</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حث الأئمة على التفقه</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خطر الإفتاء بغير علم</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في ضرورة الاعتناء بمعرفة القواعد والضوابط العامة للدين ومقاصد الشريعة وأصولها</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور الثاني البصيرة في حال المدعوين وكيفية دعوتهم</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل البصيرة في حال المدعوين وكيفية دعوتهم</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعنى اللغوي للحكمة</tit>
+        <id>72</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل الدعوة إلى الله بالحكمة</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المراد من الحكمة في باب الدعوة</tit>
+        <id>73</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>معاني الحكمة في القرآن الكريم</tit>
+        <id>73</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في أركان الحكمة</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الركن الأول العلم</tit>
+        <id>75</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الركن الثاني الحلم</tit>
+        <id>76</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الركن الثالث الأناة</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل تطبيقات الحكمة في أبواب التعليم والفتوى وغيرهما</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسألة الأولى الحكمة في باب التعليم</tit>
+        <id>80</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اختيار المتعلم</tit>
+        <id>80</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>اختيار الفن المناسب للمتعلم</tit>
+        <id>81</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من الحكمة جعلهم يتفاعلون معه</tit>
+        <id>82</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من الحكمة كتمان بعض العلم للحاجة</tit>
+        <id>83</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>اختيار الوقت المناسب</tit>
+        <id>85</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استعمال وسائل للتفهيم وتقنيات التعليم</tit>
+        <id>85</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسألة الثانية الحكمة في باب الفتوى</tit>
+        <id>86</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الزيادة على الجواب</tit>
+        <id>86</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإجابة عما فيه فائدة</tit>
+        <id>86</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>حسم مادة الشر عند المستفتي</tit>
+        <id>87</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التمييز بين المستفتين</tit>
+        <id>88</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسألة الثالثة وسائل تأليف القلوب</tit>
+        <id>89</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشفاعة لمن احتاج إليها</tit>
+        <id>89</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الهدية</tit>
+        <id>91</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عيادة المرضى والشاكين</tit>
+        <id>92</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الزيارة</tit>
+        <id>92</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعانة المالية</tit>
+        <id>94</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>فصل الدعوة إلى الله بالموعظة الحسنة</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العظة مسلك الأنبياء في الدعوة</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القصص وأثرها في الوعظ</tit>
+        <id>97</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحري الصحيح الثابت واجتناب ما سواه</tit>
+        <id>99</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأمثال وأثرها في الوعظ</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بعض الأمثال في السنة النبوية</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من صور الحسن في الموعظة</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصورة الأولى الاختصار فيها</tit>
+        <id>103</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الصورة الثانية التنويع فيها</tit>
+        <id>104</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>فصل التنويع في الخطاب الدعوي</tit>
+        <id>107</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>من أخطاء الخطباء</tit>
+        <id>108</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>الأسلوب الأمثل للمحاضرات</tit>
+        <id>109</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>الصورة الثالثة ترك وعظ المنشغل عنك</tit>
+        <id>110</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الصورة الرابعة اللين في الموعظة</tit>
+        <id>111</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الصورة الخامسة استعمال السر والعلانية في الموعظة</tit>
+        <id>113</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الصورة السادسة الترغيب والترهيب</tit>
+        <id>115</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أساس المجادلة الرغبة في الوصول إلى الحق</tit>
+        <id>116</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في المجادلة بالتي هي أحسن</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أدب القرآن السامي في هذا الباب</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حاجة الداعية إلى فن الجدل والمناظرة</tit>
+        <id>119</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خلاصة نفيسة للعلامة السعدي</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في تأثير القدوة الصالحة على الناس</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدعوة بالعمل قبل القول</tit>
+        <id>125</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كلمة جامعة عن آداب الداعية</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خلاصة</tit>
+        <id>131</id>
+        <lvl>3</lvl>
+    </title>
+</dataroot>

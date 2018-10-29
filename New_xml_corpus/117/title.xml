@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المحور الأول الوسطية والاعتدال في القرآن والسنة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مفهوم الوسطية والاعتدال</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطة البحث</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أدلة الوسطية في القرآن والسنة</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>8</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل الإسلام وسط بين الأديان</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أدلة الوسطية من القرآن العظيم والسنة النبوية</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا الأدلة من القرآن العظيم</tit>
+        <id>14</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا الأدلة من السنة</tit>
+        <id>25</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>43</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مظاهر الوسطية في الإسلام</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مظاهر الوسطية في الجانب الفردي</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مظاهر الوسطية في الجانب الاجتماعي والإنساني</tit>
+        <id>52</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تفاوت الشرائع</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مفهوم السماحة واليسر في الكتاب والسنة وأدلتها</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحور الثاني دلالة القرآن على سماحة الإسلام ويسره</tit>
+        <id>60</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول معنى اليسر والسماحة</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني مفهوم اليسر والسماحة في الإسلام</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث أدلة اليسر والسماحة في الكتاب والسنة</tit>
+        <id>68</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا من القرآن الكريم</tit>
+        <id>68</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا من السنة النبوية المطهرة</tit>
+        <id>71</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع دلالات النصوص المذكورة وما شابهها</tit>
+        <id>83</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المصادر والمراجع</tit>
+        <id>91</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سماحة الإسلام في التعامل مع المخالف</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا تكريم بني آدم</tit>
+        <id>101</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من مظاهر سماحة الإسلام</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا محبة الخير للناس</tit>
+        <id>102</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا العدل والإنصاف</tit>
+        <id>103</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا تحريم الظلم</tit>
+        <id>105</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خامسا الرحمة والتيسير</tit>
+        <id>107</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>سادسا التوضيح والتبيين</tit>
+        <id>108</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>سابعا الالتزام بالخلق الحسن في معاملة المخالفين</tit>
+        <id>109</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثامنا فتح باب الحوار لبيان الحق وتثبيته</tit>
+        <id>112</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تاسعا الصبر</tit>
+        <id>113</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عاشرا علاقة المسلمين مع غير المسلمين</tit>
+        <id>115</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سماحة الشريعة في التعامل مع الواقع للدول والأفراد</tit>
+        <id>120</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقديم</tit>
+        <id>120</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليسر ورفع الحرج منطق الإسلام في التعامل مع الواقع</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعامل مع واقع الأفراد في إطار سماحة الإسلام</tit>
+        <id>131</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعامل مع واقع الدولة في إطار سماحة الإسلام</tit>
+        <id>139</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحور الثالث الغلو مظاهره وأسبابه</tit>
+        <id>144</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مفهوم الغلو في الكتاب والسنة</tit>
+        <id>144</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة البحث</tit>
+        <id>144</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>معنى الغلو في اللغة والشرع</tit>
+        <id>150</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقيقة الغلو</tit>
+        <id>159</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين التمسك بالنصوص الشرعية والالتزام بها والغلو</tit>
+        <id>163</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الغلو في الدين بدعة حرمها الإسلام</tit>
+        <id>165</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النصوص الشرعية المحذرة من الغلو في الدين</tit>
+        <id>170</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مظاهر الغلو في الاعتقاد والعمل والحكم على الناس</tit>
+        <id>183</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الغلو في الاعتقاد</tit>
+        <id>183</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في الغلو في العمل</tit>
+        <id>193</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في الغلو في الحكم على الناس</tit>
+        <id>197</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب الغلو العلمية والمنهجية وعلاجها</tit>
+        <id>200</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>200</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب غلو الخوارج العلمية</tit>
+        <id>204</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا الجهل بالقرآن</tit>
+        <id>204</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا الجهل بالسنة</tit>
+        <id>206</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا الجهل بقدر السلف وأهل العلم</tit>
+        <id>209</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا الجهل بحقيقة الإيمان وعلاقته بالأعمال</tit>
+        <id>211</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خامسا الجهل بمراتب الأحكام</tit>
+        <id>214</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>سادسا الجهل بمراتب الناس</tit>
+        <id>218</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أولا عدم الجمع بين الأدلة</tit>
+        <id>219</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أسباب غلو الخوارج المنهجية</tit>
+        <id>219</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا اتباع المتشابه</tit>
+        <id>223</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا التعامل المباشر مع النص والفهم الحرفي له</tit>
+        <id>225</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المحور الرابع استثمار تعليم القرآن في ترسيخ الوسطية ومعالجة الغلو</tit>
+        <id>228</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لمحات عن منهج القرآن الكريم في البناء التربوي ومعالجته</tit>
+        <id>228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>228</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نبذة موجزة عن منهج التربية في القرآن الكريم</tit>
+        <id>232</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجانب التربوي الأخلاقي</tit>
+        <id>233</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا الوسائل الدافعة</tit>
+        <id>233</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا الوسائل المانعة</tit>
+        <id>240</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الجانب التربوي الاجتماعي</tit>
+        <id>242</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إرساء قواعد التسامح</tit>
+        <id>242</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ترسيخ مفاهيم السلام الاجتماعي</tit>
+        <id>245</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نبذ مظاهر الفرقة والخروج على الجماعة</tit>
+        <id>246</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>248</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مراجع البحث</tit>
+        <id>251</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أثر معلم القرآن في تربية طلابه على الاعتدال</tit>
+        <id>253</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>253</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا المعلم القدوة</tit>
+        <id>256</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا التوجيه المباشر والغير مباشر</tit>
+        <id>259</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا اليقظة والمتابعة</tit>
+        <id>263</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا صفات ينبغي للمعلم أن يتصف بها</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا أمور أخرى تعين المعلم في تربية طلابه على الاعتدال</tit>
+        <id>270</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤسسات تعليم القرآن الكريم وأثرها في نشر الوسطية</tit>
+        <id>272</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>272</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعريف بالقرآن</tit>
+        <id>276</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحياة مع القرآن</tit>
+        <id>278</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مقاصد القرآن</tit>
+        <id>280</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهمية البحث</tit>
+        <id>282</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهل القرآن صفاتهم وأخلاقهم</tit>
+        <id>284</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهداف البحث</tit>
+        <id>289</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وقفة مع عنوان البحث</tit>
+        <id>290</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤسسات تعليم القرآن</tit>
+        <id>291</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الواقع يتحدث</tit>
+        <id>292</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الغرض من مؤسسات تعليم القرآن الكريم</tit>
+        <id>295</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المدلول اللغوي والشرعي للوسطية</tit>
+        <id>297</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤسسات تعليم القرآن الكريم وأثرها في نشر الوسطية</tit>
+        <id>306</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تفاقم ظاهرة الغلو في الدين في عصرنا الحاضر</tit>
+        <id>309</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من مظاهر الغلو في العصر الحاضر</tit>
+        <id>314</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لمحة عن علاج ظاهرة الغلو</tit>
+        <id>317</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مراجع البحث</tit>
+        <id>326</id>
+        <lvl>3</lvl>
+    </title>
+</dataroot>

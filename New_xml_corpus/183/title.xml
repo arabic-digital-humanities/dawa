@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المنهج بين الماضي والحاضر</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التعليم</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>منطلق التعليم</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>واقع البشرية قبل المنهج الأقوم</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وأصبحت الذبابة نحلة</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أنواع العلوم وحكمها من حيث المنهج</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>واقع المسلمين اليوم</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثم ماذا..</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مضمون الرسالة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف يدعو المدرس المسلم طلابه إلى الله؟</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ملحق</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

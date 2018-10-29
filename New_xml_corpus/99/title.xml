@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقصود القدوة ومعناها</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أنواع القدوة</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية القدوة الحسنة</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أصول القدوة</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأصل الأول الصلاح</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصل الثاني حسن الخلق</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصدق</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصبر</tit>
+        <id>16</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الرحمة</tit>
+        <id>18</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التواضع</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الرفق</tit>
+        <id>22</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصل الثالث موافقة القول العمل</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحث على موافقة القول العمل والتحذير من مخالفة ذلك</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شواهد حية في مواقف القدوة</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توضيح موقف وتفسير تصرف</tit>
+        <id>31</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نبي الملحمة</tit>
+        <id>34</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>كرهت أن يحبسني</tit>
+        <id>36</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أمنة للصحب الكرام</tit>
+        <id>36</id>
+        <lvl>4</lvl>
+    </title>
+</dataroot>

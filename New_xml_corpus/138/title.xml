@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة المؤلف</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خصائص حضارتنا</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>آثار حضارتنا في التاريخ</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النزعة الإنسانية</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المساواة العنصرية</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التسامح الديني</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أخلاقنا الحربية</tit>
+        <id>63</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الرفق بالحيوان</tit>
+        <id>85</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المؤسسات الخيرية</tit>
+        <id>96</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المدارس والمعاهد العلمية</tit>
+        <id>108</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المستشفيات والمعاهد الطبية</tit>
+        <id>120</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المكتبات الخاصة والعامة</tit>
+        <id>138</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المجالس والندوات العلمية</tit>
+        <id>151</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العواصم والمدن الكبرى</tit>
+        <id>162</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المراجع</tit>
+        <id>176</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

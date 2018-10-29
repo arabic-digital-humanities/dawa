@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خصائص مدرسة الدعوة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الصحابة في ميدان الدعوة</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدعوة تواجه التيارات المضادة</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العادات الموروثة</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخداع العقلي</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>واقع المسلمين المتخلف</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

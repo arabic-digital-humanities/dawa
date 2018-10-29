@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>أبو هريرة راوية الإسلام</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثالثة:</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الأولى:</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد:</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العرب ورسالة الإسلام:</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول السنة:</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السنة ومكانتها من القرآن الكريم:</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عدالة الصحابة:</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حفظ السنة وانتشارها:</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - الإمام البخاري (194 - 256 هـ):</tit>
+        <id>52</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - الإمام مسلم (204 - 261 هـ):</tit>
+        <id>54</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - الإمام الترمذي (209 - 279 هـ):</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - أبو داود السجستاني (202 - 275 هـ):</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>5 - الإمام النسائي (215 - 303 هـ):</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>6 - الإمام ابن ماجه (209 - 273 هـ):</tit>
+        <id>59</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: أبو هريرة:</tit>
+        <id>61</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: حياته العامة:</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- نسبه والتعريف به:</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إسلامه وهجرته:</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هيئته وأوصافه الجسمية:</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نشأته قبل الإسلام:</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إسلام أمه:</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ملازمته رسول الله - صلى الله عليه وسلم -:</tit>
+        <id>68</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التزام أبي هريرة السنة:</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فقره وعفافه:</tit>
+        <id>76</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كرم أبي هريرة:</tit>
+        <id>80</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ولايته في عهد عمر - رضي الله عنه -:</tit>
+        <id>82</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة وفتنة عثمان:</tit>
+        <id>84</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة في عهد علي - رضي الله عنه -:</tit>
+        <id>85</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة أمير المدينة:</tit>
+        <id>87</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة والجهاد في سبيل الله:</tit>
+        <id>88</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مرح أبي هريرة ومزاحه:</tit>
+        <id>91</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مرض أبي هريرة:</tit>
+        <id>95</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وفاته:</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسرته:</tit>
+        <id>98</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: حياته العلمية:</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بين يدي الفصل:</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرصه على الحديث:</tit>
+        <id>102</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمله علم لا ينسى:</tit>
+        <id>105</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجالسه ونشره الحديث:</tit>
+        <id>106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كثرة حديثه وسعة علمه:</tit>
+        <id>113</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حفظ أبي هريرة:</tit>
+        <id>120</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة والقرآن الكريم:</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حضه على صيانة الحديث من الكذب:</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة والفتوى:</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة والقضاء:</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شيوخه ومن روى عنه:</tit>
+        <id>129</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصحابة الذين رووا عنه:</tit>
+        <id>130</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التابعون الذين رووا عنه:</tit>
+        <id>130</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عدة ما روي عنه من الحديث:</tit>
+        <id>132</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نماذج من مروياته:</tit>
+        <id>134</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - مما أخرجه الإمام مالك في &quot; الموطأ &quot;:</tit>
+        <id>135</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - مما أخرجه الإمام أحمد:</tit>
+        <id>136</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - مما رواه البخاري:</tit>
+        <id>137</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - مما رواه الإمام مسلم:</tit>
+        <id>138</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - مما رواه الإمام أبو داود:</tit>
+        <id>140</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6 - مما رواه الإمام الترمذي:</tit>
+        <id>141</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>7 - مما رواه الإمام النسائي:</tit>
+        <id>142</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>8 - مما رواه الإمام ابن ماجه:</tit>
+        <id>144</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أصح الطرق عن أبي هريرة:</tit>
+        <id>145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الثناء على أبي هريرة:</tit>
+        <id>146</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: الرد على الشبه التي أثيرت حول أبي هريرة:</tit>
+        <id>152</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أبو هريرة وبعض الباحثين:</tit>
+        <id>153</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة كتاب &quot; أبو هريرة &quot;:</tit>
+        <id>154</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - اسمه ونسبه:</tit>
+        <id>161</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - نشأته وإسلامه:</tit>
+        <id>163</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - على عهد النبي - صلى الله عليه وسلم -:</tit>
+        <id>167</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - على عهد الخليفتين:</tit>
+        <id>168</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>5 - على عهد عثمان: [ص 16 - 17]:</tit>
+        <id>172</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>6 - على عهد علي [صفحة 21 - 26]:</tit>
+        <id>173</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>7 - على عهد معاوية [صفحة 26 - 31]:</tit>
+        <id>175</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا - هل تشيع أبو هريرة للأمويين؟:</tit>
+        <id>176</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: هل وضع أبو هريرة الأحاديث كذبا على رسول الله؟:</tit>
+        <id>179</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>8 - كمية حديثه: [ص 42 - 55]:</tit>
+        <id>195</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موقف الصحابة من أبي هريرة:</tit>
+        <id>205</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>[أ] أبو هريرة وعمر بن الخطاب:</tit>
+        <id>206</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[ب] أبو هريرة وعثمان بن عفان:</tit>
+        <id>210</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[ج] أبو هريرة وعلي بن أبي طالب - رضي الله عنهما -:</tit>
+        <id>211</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[د] أبو هريرة وعائشة:</tit>
+        <id>213</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[هـ] أبو هريرة وعبد الله بن عمر:</tit>
+        <id>222</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[و] أبو هريرة وابن عباس:</tit>
+        <id>225</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[ز] أبو هريرة والزبير:</tit>
+        <id>226</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[ح] أبو هريرة ومروان بن الحكم:</tit>
+        <id>227</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هل كان أبو هريرة تلميذا لكعب الأحبار؟:</tit>
+        <id>240</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة:</tit>
+        <id>252</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أهم المصادر والمراجع:</tit>
+        <id>257</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>محتويات الكتاب:</tit>
+        <id>262</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

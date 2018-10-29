@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب اشادة الإسلام بالعلم والعلماء</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب وجوب التعلم والتعليم</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب سياسة التعليم في بلاد المسلمين</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب كيف تكون مناهج التعليم في بلاد المسلمين؟</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب مواد التعليم في بلاد المسلمين. وكيف تكون؟</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب غايات التعليم في بلاد المسلمين</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب شهادات يعتز يها المسلمون</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

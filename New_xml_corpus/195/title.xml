@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>بين يدي الكتاب</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مفهوم الثقافة</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: تعريف الثقافة عند إطلاقها وعند إضافتها.</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعريف الثقافة عند إطلاقها</tit>
+        <id>13</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تعريف الثقافة عند إضافتها للأمة</tit>
+        <id>16</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الثقافة الصالحة والثقافات الجاهلية</tit>
+        <id>17</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني الفرق بين العلم والثقافة وأثر هذا الفرق</tit>
+        <id>19</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث الفرق بين الثقافة والحضارة</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع موضوع الثقافة الإسلامية</tit>
+        <id>22</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني أصول الثقافة الإسلامية</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الثقافة الإسلامية بين الأصالة والانحراف</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول أهم معالم الثقافة الإسلامية الأصيلة</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني انحراف مسار الثقافة الإسلامية</tit>
+        <id>30</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>آثار هذه الانحرافات</tit>
+        <id>33</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع خصائص الثقافة الإسلامية</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس الصراع بين الثقافة الإسلامية والثقافات الجاهلية</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول نظرة في ثقافة الغرب</tit>
+        <id>46</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني مدى عداء الغرب للإسلام</tit>
+        <id>48</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث الغزو الفكري والثقافي الغربي: أهدافه ووسائله</tit>
+        <id>51</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وسائل الغزو الفكري والثقافي</tit>
+        <id>51</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع في مواجهة الثقافة الغربية</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المؤلفات في الغزو الفكري والثقافي</tit>
+        <id>59</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس التحصين الثقافي</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث السادس إلى أي مدى غير الإسلام ثقافات الأمم</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس المؤلفات في الثقافة الإسلامية</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع عناوين الدين الإسلامي ومراتبه</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: عناوين الدين: الإسلام، الإيمان، الملة، الشريعة</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: مراتب الدين: الإسلام، الإيمان، الإحسان</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول العقيدة الإسلامية</tit>
+        <id>69</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مدخل إلى دراسة العقيدة</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول أهمية العقيدة</tit>
+        <id>70</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني المناهج في إثبات العقائد</tit>
+        <id>74</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث ملاحظات مهمة في المسائل الإعتقادية</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني العقيدة في الله</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تمهيد: موضوعات العقائد</tit>
+        <id>80</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول توحيد الربوبية</tit>
+        <id>81</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني توحيد الألوهية</tit>
+        <id>82</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مذاهب الفرق في الأسماء والصفات</tit>
+        <id>84</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث توحيد الأسماء والصفات</tit>
+        <id>84</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مذهب السلف الصالح</tit>
+        <id>86</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإمام مالك يوضح المنهج السلفي</tit>
+        <id>89</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع الأدلة على وجود الحق تبارك وتعالى</tit>
+        <id>90</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عالم فلكي تذهله حقائق الكون وحقائق القرآن</tit>
+        <id>95</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس شبهات حول إثبات وجود الله تبارك وتعالى</tit>
+        <id>98</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الملائكة والجن</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع الكتب السماوية</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس الأنبياء والرسل</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول منزلة الأنبياء والرسل</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني وظائف الرسل</tit>
+        <id>108</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إعجاز القرآن</tit>
+        <id>109</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث أدلة صدق الرسول</tit>
+        <id>109</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القرآن نمط جديد من الإعجاز</tit>
+        <id>110</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>جوانب الإعجاز القرآني</tit>
+        <id>111</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعجاز العلمي في القرآن</tit>
+        <id>113</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>قسيس نصراني يستخدم النصوص العلمية في التوراة لدعوة الشيوعيين إلى النصرانية</tit>
+        <id>114</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نماذج من الإعجاز العلمي في كتاب الله</tit>
+        <id>115</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس اليوم الآخر</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأدلة على البعث والمعاد</tit>
+        <id>120</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع القضاء والقدر</tit>
+        <id>122</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصول التي يقوم عليها الإيمان بالقضاء والقدر</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثامن أثر الإيمان في الفرد والمجتمع</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل التاسع المؤلفات في العقيدة</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني الآداب الشرعية ومكارم الأخلاق</tit>
+        <id>131</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول الآداب الشرعية</tit>
+        <id>132</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول بر الوالدين</tit>
+        <id>132</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني صلة الأرحام</tit>
+        <id>133</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث الإحسان إلى الجار</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع الإحسان إلى اليتامى والمساكين وابن السبيل</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس النهي عن السخرية والظن والتجسس والغيبة</tit>
+        <id>136</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث السادس جملة من الآداب الشرعية</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني مكارم الأخلاق</tit>
+        <id>141</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تمهيد: تعريف الخلق لغة واصطلاحا</tit>
+        <id>141</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول دعوة الشريعة الإسلامية إلى مكارم الأخلاق</tit>
+        <id>142</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني المجاهدة في إصلاح الأخلاق وتقويمها</tit>
+        <id>145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث أصول الأخلاق الكريمة</tit>
+        <id>148</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع نماذج من الأخلاق المأمور بها أو المنهي عنها</tit>
+        <id>149</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث المؤلفات في الأخلاق</tit>
+        <id>157</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث الشريعة الإسلامية والفقه الإسلامي</tit>
+        <id>158</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول تعريف الفقه</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أقسام موضوعات الفقه الإسلامي</tit>
+        <id>160</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين الشريعة والفقه</tit>
+        <id>161</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مسار الفقه عبر القرون</tit>
+        <id>161</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الأسس التي بنيت عليها الشريعة الإسلامية</tit>
+        <id>163</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: اليسر ورفع الحرج</tit>
+        <id>163</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: العدل</tit>
+        <id>166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: حفظ مصالح العباد</tit>
+        <id>168</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: التدرج في التشريع حين تنزل التشريع</tit>
+        <id>169</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث المؤلفات في الفقه</tit>
+        <id>170</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع مصادر الأحكام الشرعية</tit>
+        <id>172</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تمهيد: في التعريف بعلم أصول الفقه</tit>
+        <id>172</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول القرآن الكريم</tit>
+        <id>173</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: القرآن كلام الله</tit>
+        <id>173</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: نزول القرآن</tit>
+        <id>174</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>القرآن عربي اللفظ</tit>
+        <id>174</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: تواتر القرآن</tit>
+        <id>174</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الحديث القدسي والقرآن</tit>
+        <id>175</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني السنة النبوية</tit>
+        <id>175</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>منزلة السنة من القرآن</tit>
+        <id>175</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>حجية السنة</tit>
+        <id>176</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث الإجماع</tit>
+        <id>177</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أقسام السنة من حيث الإسناد</tit>
+        <id>177</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإجماع عند الأصوليين</tit>
+        <id>178</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع القياس</tit>
+        <id>179</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مواقف الفقهاء من القياس</tit>
+        <id>179</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس الاستحسان</tit>
+        <id>180</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث السادس الاستصحاب</tit>
+        <id>181</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث السابع المصالح المرسلة</tit>
+        <id>182</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثامن العرف</tit>
+        <id>184</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث التاسع شرع من قبلنا</tit>
+        <id>186</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث العاشر مذهب الصحابي</tit>
+        <id>187</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الحادي عشر نصوص الكتاب والسنة هي الأقوى</tit>
+        <id>189</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طريقة السلف في تناول الأحكام</tit>
+        <id>190</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني عشر المؤلفات في أصول الفقه</tit>
+        <id>192</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع الأسرة في الإسلام</tit>
+        <id>193</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة اهتمام الإسلام بالأسرة</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حكمة الزواج</tit>
+        <id>195</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ترغيب الإسلام في الزواج</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول منهج الإسلام في تكوين الأسرة</tit>
+        <id>198</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق كلا من الزوجين على الآخر</tit>
+        <id>203</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني تعدد الزوجات</tit>
+        <id>205</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل في التعدد ظلم للمرأة؟</tit>
+        <id>209</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لماذا لا يباح للمرأة التعدد؟</tit>
+        <id>209</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>زوجات الرسول - صلى الله عليه وسلم -</tit>
+        <id>210</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث منهج الطلاق في الإسلام</tit>
+        <id>211</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حق المرأة في الفراق</tit>
+        <id>214</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع المرأة في الإسلام</tit>
+        <id>215</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مأساة المرأة في العالم الغربي</tit>
+        <id>216</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الرجل والمرأة في ميزان الإسلام</tit>
+        <id>217</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرية الرجل والمرأة</tit>
+        <id>217</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لا ظلم ولا استبداد</tit>
+        <id>218</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصدر الخطأ</tit>
+        <id>218</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لا نسوغ الأخطاء</tit>
+        <id>219</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرأة في المجتمع الإسلامي</tit>
+        <id>220</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التفاضل بين الرجل والمرأة</tit>
+        <id>222</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سنريهم آياتنا</tit>
+        <id>227</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لا ضير على المرأة</tit>
+        <id>228</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس المؤلفات في الأسرة</tit>
+        <id>230</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس العقوبات في الإسلام</tit>
+        <id>231</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التمهيد: أنواع العقوبات</tit>
+        <id>232</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول جرائم الحدود</tit>
+        <id>235</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول حد الزنا</tit>
+        <id>236</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني حد القذف</tit>
+        <id>237</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث حد شرب الخمر</tit>
+        <id>238</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع حد السرقة</tit>
+        <id>240</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس حد الحرابة</tit>
+        <id>241</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث السادس حد الردة</tit>
+        <id>243</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني جرائم القصاص</tit>
+        <id>244</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث جرائم التعزير</tit>
+        <id>246</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع شبهات حول تشريع العقوبات الإسلامي</tit>
+        <id>248</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدى انتشار الجرائم في هذا العصر</tit>
+        <id>250</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس المؤلفات في التشريع الجنائي</tit>
+        <id>258</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السادس الاقتصاد في الإسلام</tit>
+        <id>259</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد: هل في الإسلام نظام اقتصادي</tit>
+        <id>260</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مباديء مهمة في النظام الاقتصادي الإسلامي</tit>
+        <id>264</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - نظام مستقل</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - جزء من كل</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - نظام فطري</tit>
+        <id>265</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - الاعتدال والتوازن</tit>
+        <id>266</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>5 - تحقيق التراحم والتعاون</tit>
+        <id>267</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>6 - توزيع الثروة وتفتيتها</tit>
+        <id>267</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>7 - تحقيق تكافؤ الفرص</tit>
+        <id>268</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>8 - المال وسيلة لا غاية</tit>
+        <id>269</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>9 - قيام الاقتصاد على أخلاق الإسلام وقيمه</tit>
+        <id>270</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>10 - الوفرة النسبية في الخلق</tit>
+        <id>272</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني مجالات النشاط الاقتصادي الإسلامي</tit>
+        <id>273</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول العمل والعمال</tit>
+        <id>273</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بين العاملين وأصحاب العمل</tit>
+        <id>276</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني الملكية</tit>
+        <id>277</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أنواع الملكية: الملكية الفردية وملكية الدولة</tit>
+        <id>279</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الربا</tit>
+        <id>280</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعريف الربا</tit>
+        <id>281</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع المصارف الإسلامية</tit>
+        <id>283</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس المؤلفات في الاقتصاد الإسلامي</tit>
+        <id>285</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السابع النظام السياسي في الإسلام</tit>
+        <id>286</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>287</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول هل في الإسلام نظام سياسي</tit>
+        <id>287</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول الأدلة على اعتناء الإسلام بهذا الجانب</tit>
+        <id>289</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني أين مباحث الحكم في الإسلام؟</tit>
+        <id>291</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث نوع الحكم في الدولة الإسلامية</tit>
+        <id>292</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع أساس الحكم في الدولة الإسلامية</tit>
+        <id>293</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني مميزات الدولة الإسلامية</tit>
+        <id>295</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: اتخاذها الله إلها وربا وحاكما</tit>
+        <id>295</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: دولة العقيدة والفكرة</tit>
+        <id>296</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: دولة عالمية</tit>
+        <id>296</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: دولة شورية</tit>
+        <id>296</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا: دولة أخلاق وقيم</tit>
+        <id>297</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث وظيفة الدولة الإسلامية</tit>
+        <id>298</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - إقامة العدل في المجتمع الإسلامي</tit>
+        <id>298</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - حراسة العقيدة وتنفيذ الشريعة</tit>
+        <id>299</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - الجهاد في سبيل الله</tit>
+        <id>300</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - العناية بالجانب المالي والاقتصادي</tit>
+        <id>301</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>5 - إدارة الدولة</tit>
+        <id>301</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>6 - المحافظة على الأمن الداخلي</tit>
+        <id>302</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع رئيس الدولة الإسلامية</tit>
+        <id>303</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول ألقابه والشروط الواجب توافرها فيه</tit>
+        <id>303</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني كيفية اختياره</tit>
+        <id>305</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث حقه على الرعية</tit>
+        <id>306</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع حقوق الرعية في الدولة الإسلامية</tit>
+        <id>306</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس المؤلفات في النظام السياسي في الإسلام</tit>
+        <id>309</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

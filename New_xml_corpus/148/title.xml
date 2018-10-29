@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الإهداء</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقديم</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تنبيه</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل الدراسة</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مجتمع ما بعد الموحدين</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الظاهرة الدورية</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إنسان ما بعد الموحدين</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاتصال الأول بين أوربة والعالم الإسلامي</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني النهضة</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حركة الاصلاح</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحركة الحديثة</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث فوضى العالم الإسلامي الحديث</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العوامل الداخلية</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العوامل الخارجية</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع فوضى العالم الغربي</tit>
+        <id>110</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس الطرق الجديدة</tit>
+        <id>129</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس بواكير العالم الإسلامي</tit>
+        <id>151</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>166</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المآل الروحي لعالم الإسلام</tit>
+        <id>167</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسارد</tit>
+        <id>173</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

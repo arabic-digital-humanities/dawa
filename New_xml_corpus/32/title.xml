@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>بيانات هذا الكتاب</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بيان الكتاب الذي يرد عليه د محمد عمارة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هذا الكتاب</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوصية</tit>
+        <id>148</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المصادر والمراجع</tit>
+        <id>149</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

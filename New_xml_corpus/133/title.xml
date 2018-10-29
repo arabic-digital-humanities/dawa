@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>جمعية الترتيل للخدمات الثقافية والدينية</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقديم فضيلة الأستاذ الدكتور / محمد نعيم محمد هاني الساعي</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة اللجنة العلمية</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العلمانية</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الليبرالية</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الديمقراطية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدولة المدنية</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وجوب التحاكم بالكتاب والسنة</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فواجب الوقت الآن</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

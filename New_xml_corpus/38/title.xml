@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>إهداء الكتاب</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثالثة</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الكلمة الأولى: منهاج هذا الكتاب</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الكلمة الثانية: رسالة هذا الكتاب</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الكلمة الثانية: رسالة هذا الكتاب</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر هذا الكتاب</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة: وجه الحاجة إلى هذا الكتاب</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وفيما يلي موجز الاتهام والحكم</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: بواعث التبشير الحقيقية</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أثر الحروب الصليبية</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطر الوحدة الإسلامية على الغرب</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>افتراءات المبشرين</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام والسيف</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>طريق الاستعمار</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إعداد المبشرين</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الغاية تبرر الواسطة عندهم</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جنينة رسلان</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تنافس المبشرين</tit>
+        <id>54</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبشرون يحتالون على النظام الجمركي</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: التطبيب حيلة للتبشير</tit>
+        <id>58</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>استغلال آلام البشر</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية المستوصفات والمستشفيات</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كبار أطبائهم مبشرون</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اعترافهم بخداع المرضى</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جهلهم وكرههم للعلم</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العنصر النسائي في التبشير</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: التعليم ميدان فسيح للتبشير</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ليس للتعليم عندهم غاية سوى التبشير</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كيف تختار هذه المدارس أساتذتها؟</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وسائل التبشير في أثناء التعليم</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إن المبشر الأول هو المدرسة!</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الكتب المدرسية خاصة والطعن على الإسلام</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>واجب الحكومات الوطنية</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشاط المبشرين من طريق التعليم</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التبشير وفادة البلاد في المستقبل</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشاط المبشرين في إنشاء المدارس</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إجبار المسلمين على دخول الكنيسة في مدارس التبشير</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التبشير بين الأميين</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعليم الرسمي والتبشير</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعليم النسائي خاصة</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التبشير بين الدارسين في الخارج</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: التعليم ميدان فسيح للتبشير</tit>
+        <id>90</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - مدرسة عبيه (لبنان)</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - كلية روبرت في استانبول</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - الجامعة الأمريكية في بيروت</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هوارد بلس</tit>
+        <id>99</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بيارد ضودج</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ستيفن بنروز</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - سائر المدراس الأمريكية</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - كلية غوردن في الخرطوم (الإنكليزية)</tit>
+        <id>110</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - المؤسسات الفرنسية</tit>
+        <id>111</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: السياسة طريق التبشير</tit>
+        <id>113</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - تعاون التبشير والسياسة</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحروب الصليبية</tit>
+        <id>114</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التبشير والنفوذ الأجنبي</tit>
+        <id>116</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السلك السياسي الأجنبي يحمي المبشرين</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجنسية الأجنبية</tit>
+        <id>120</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليسوعيون أيضا</tit>
+        <id>121</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليسوعيون والمفوض السامي الفرنسي</tit>
+        <id>122</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سياسة الجزويت</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس: السياسة طريق التبشير</tit>
+        <id>128</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>2 - الفتن والحروب في الشرق</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إثارة الحروب</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحصار العسكري على المسلمين وإبعادهم عن الشواطئ</tit>
+        <id>130</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الامتيازات الأجنبية</tit>
+        <id>132</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إثارة الاضطرابات ثم استغلالها</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فتنة عام 1860</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تقسيم جبل لبنان في القرن الماضي وتقسيم فلسطين اليوم</tit>
+        <id>138</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع: السياسة طريق التبشير</tit>
+        <id>144</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>3 - الإدراة الأجنبية في خدمة التبشير</tit>
+        <id>144</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في صميم التدخل السياسي</tit>
+        <id>144</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كيف دخل الإنجليز إلى السودان؟</tit>
+        <id>149</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فرنسا خاصة</tit>
+        <id>151</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تهكم واستهزاء</tit>
+        <id>154</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>استفزاز وقلة ذوق</tit>
+        <id>156</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوظيف والطائفية</tit>
+        <id>160</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - الحياة القومية والاقتصادية</tit>
+        <id>166</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدعوات الإقليمية والصهيونية</tit>
+        <id>166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حذار اليسوعيين</tit>
+        <id>166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحروب والتبشير</tit>
+        <id>167</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعاون بين التبشير والسياسة</tit>
+        <id>168</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحركة القومية في الإمبراطورية العثمانية</tit>
+        <id>172</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التبشير والوطنية</tit>
+        <id>174</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثامن: التبشير والحركات القومية</tit>
+        <id>176</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التبشير والحركات القومية</tit>
+        <id>176</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التبشير يتعاون مع الصهيونية</tit>
+        <id>179</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل التاسع: الأعمال الاجتماعية طريق التبشير</tit>
+        <id>191</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإحسان طريق التبشير</tit>
+        <id>193</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أين يذهب معظم أموال الإحسان؟</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشر الفساد</tit>
+        <id>198</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>&quot; جمعية الشبان المسيحيين &quot; و &quot; جمعية الشابات المسيحيات &quot;</tit>
+        <id>201</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المرأة فتاة وأما</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما الهدف الصحيح لهذه الأبنية؟</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ماذا تضم هذه الأندية؟</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعليم المجاني</tit>
+        <id>209</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المكتبات والتصوير والاستكشاف والنشر</tit>
+        <id>210</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصحافة خاصة</tit>
+        <id>212</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الكشفية والمخيمات</tit>
+        <id>214</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>انتعاش القرى والصناعة والزراعة</tit>
+        <id>215</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل العاشر: تشويه الثقافة العربية الإسلامية</tit>
+        <id>217</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اللغة العامية</tit>
+        <id>224</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الحادي عشر: حقائق عن أفريقيا</tit>
+        <id>233</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في المغرب</tit>
+        <id>234</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في السودان</tit>
+        <id>236</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في السودان الشرقي</tit>
+        <id>237</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاضطراب في السودان</tit>
+        <id>238</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التكاتف في سبيل التبشير</tit>
+        <id>241</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعليم في أفريقيا</tit>
+        <id>243</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العامل السياسي</tit>
+        <id>243</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حال السود في الإسلام والنصرانية</tit>
+        <id>244</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسلمون في الحبشة</tit>
+        <id>245</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الملحق الأول: حزب البعث (1): الماركسية والقومية العربية</tit>
+        <id>247</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثلاثة ملاحق</tit>
+        <id>247</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الملحق الثاني: زيارة البابا لفلسطين</tit>
+        <id>248</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الملحق الثالث: من الحملات على الثقافة العربية</tit>
+        <id>249</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني عشر: نتائج التبشير- الحوار - التبشير وإسرائيل</tit>
+        <id>252</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - نتائج التبشير</tit>
+        <id>252</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - الحوار وغايته الحقيقية</tit>
+        <id>256</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - التبشير والاستعمار في فلسطين</tit>
+        <id>258</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وجود إسرائيل</tit>
+        <id>262</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موقف البابوية من اليهود وإسرائيل</tit>
+        <id>262</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إذاعة الوثيقة في الصحف العالمية</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وثيقة أقرها الفاتيكان تطلب من الكاثوليك الاعتراف بالمعنى الديني لدولة إسرائيل</tit>
+        <id>265</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>- ب -</tit>
+        <id>266</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهرس هجائي لأعلام الناس</tit>
+        <id>266</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>- آ، أ -</tit>
+        <id>266</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ت -</tit>
+        <id>267</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ث -</tit>
+        <id>267</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ج -</tit>
+        <id>267</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ح -</tit>
+        <id>267</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- د -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ش -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ص -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- س -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- خ -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ز -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ر -</tit>
+        <id>268</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- غ -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ك -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ف -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ع -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ظ -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ط -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ض -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ق -</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ل -</tit>
+        <id>270</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- م -</tit>
+        <id>270</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ن -</tit>
+        <id>270</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- ي -</tit>
+        <id>271</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- هـ -</tit>
+        <id>271</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- و -</tit>
+        <id>271</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

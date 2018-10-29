@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الغرض من الخطبة</tit>
+        <id>2</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور الأول الخطبة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صفة الخطبة وسياقها</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قواعد وضوابط إعداد الخطبة</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صفات الخطيب</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحور الثاني الخطيب ومسؤولياته</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مسؤوليات وواجبات الخطيب</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أخطاء يقع فيها بعض الخطباء</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

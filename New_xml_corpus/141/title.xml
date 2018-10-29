@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>أولا: البطاقة الشخصية</tit>
+        <id>2</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ترجمة المؤلف</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: عمله ومهنته</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: لمحة عن بعض جوانب شخصيته</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: فكره</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: مؤلفاته</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: الفكر التنظيمي عند (عبد الودود)</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وفاته</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: اعتقاله</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صرخة:</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - في الأندلس:</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - دواوين التفتيش في البلاد الإسلامية:</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - ومن الحبشة أمثلة أخرى:</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقف الغرب من الإسلام:</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الحروب الصليبية مستمرة:</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - فسياسة أمريكا معنا تخطط على هذا الأساس:</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - والحرب الصليبية الثامنة قادها اللنبي:</tit>
+        <id>30</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - والفرنسيون أيضا صليبيون:</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - وقالوا عام 1967م بعد سقوط القدس:</tit>
+        <id>32</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>5 - والصهاينة أيضا:</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>6 - واستغلت إسرائيل صليبية الغرب:</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجدار الصلب:</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العدو الوحيد:</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دمروا الإسلام:</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خططهم لتدمير الإسلام:</tit>
+        <id>52</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا - القضاء على الحكم الإسلامي:</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: القضاء على القرآن ومحوه:</tit>
+        <id>54</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: تدمير أخلاق المسلمين، وعقولهم، وصلتهم بالله، وإطلاق شهواتهم:</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا: القضاء على وحدة المسلمين:</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا: تشكيك المسلمين بدينهم:</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا: إبقاء العرب ضعفاء:</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سابعا: إنشاء ديكتاتوريات سياسية في العالم الإسلامي:</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثامنا: إبعاد المسلمين عن تحصيل القوة الصناعية ومحاولة إبقائهم مستهلكين لسلع الغرب:</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تاسعا: سعيهم المستمر لإبعاد القادة المسلمين الأقوياء عن استلام الحكم في دول العالم الإسلامي حتى لا ينهضوه بالإسلام:</tit>
+        <id>65</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عاشرا: إفساد المرأة، وإشاعة الانحراف الجنسي:</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وأخيرا</tit>
+        <id>68</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

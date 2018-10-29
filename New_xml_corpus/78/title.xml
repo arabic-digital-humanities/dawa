@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الصعوبات بوصفها علامة نمو في المجتمع العربي</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المسوغات في المجتمع</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قيم إنسانية وقيم اقتصادية</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الديمقراطية في الإسلام</tit>
+        <id>56</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التضامن الإفريقي الآسيوي</tit>
+        <id>87</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفعالية</tit>
+        <id>113</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الثقافة</tit>
+        <id>128</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف نبني مجتمعا أفضل؟</tit>
+        <id>141</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خواطر عن نهضتنا العربية</tit>
+        <id>161</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالتنا في العالم</tit>
+        <id>188</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

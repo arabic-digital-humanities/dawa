@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة الطبعة الرابعة</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقديم الطبعة الثالثة</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نبذة عن حياة المرحوم الأستاذ الفضيل الورتلاني</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نشأته ومولده</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلتحاقه بالشيخ عبد الحميد بن باديس بقسنطينة</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفضيل الورتلاني بين حركة الإصلاح ونشر الدعوة والتعريف بالقضية الجزائرية</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هجرته إلى أوروبا في إطار الحركة الإصلاحية</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إستئناف نشاطه السياسي بمصر</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مساهته في الثورة التحريرية</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تصدير بقلم الفضيل الورتلاني</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التعاون مقدس، والتعارف أقدس</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما هذا الجهل المخجل بينكم أيها العرب؟</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقالات في كتاب</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزائر تجاهد منذ خمسة قرون</tit>
+        <id>51</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>غياب الأسطول الجزائري وقيام الأمير عبد القادر</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رأس جزائري بخمسة فرنكات</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورة المقراني وابن الحداد</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورة من أجل يهودي يسب دين الإسلام</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق اللصوص</tit>
+        <id>54</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لماذا يستميت الجزائريون بنضالهم حيث الكرامة أغلى من الموت</tit>
+        <id>55</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الورتلاني يشرح قضايا التحرر في المغرب العربي</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عدد الثوار</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قيادة الحركة</tit>
+        <id>58</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإتفاقية التونسية</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اليهود في تونس</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ومراكش</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسطورة الوجود الفرنسي بالمغرب العربي</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يجب أن تكون فرنسا أذن ألمانية .. !</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المنطق المعكوس</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إدماج الجزائر بفرنسا، دونه قارات وبحار وتاريخ</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ماذا يقصد الفرنسيون بالإندماج</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دلائل الإندماج المزعوم</tit>
+        <id>65</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصالح الفرنسين هي استعباد الجزائريين</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفضيل الورتلاني يحدثنا عن الدين والعرق في المغرب العربي</tit>
+        <id>68</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدين في المغرب العربي</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العنصرية في المغرب العربي</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التقارب العربي</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لا بربر في المغرب العربي</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورة الجزائر كما يوضحها الفضيل الورتلاني</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأمة كلها حزب واحد</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الثوار وحدهم هم أصحاب الكلمة</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ليس في الجزائر أقليات</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثوار الجزائر يتكلمون ويوضحون أهدافهم ووسائلهم</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>للتوضيح</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ساعة الخطر</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جبهة التحرير</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مهمتان مرهقتان</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسس المفاوضات</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رأي الثوار في النظام والدعاية والجبهة والاعتدال</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التنظيم</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدعاية</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجبهة والثوار</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قائمة الثوار لتسعة أشهر</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الوطنيون المعتدلون</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القائمة الرهيبة</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسألة السلاح</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسألة حرية</tit>
+        <id>90</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أيها العربي ماذا تعرف عن المغرب العربي</tit>
+        <id>91</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جربوا والعبوا ورقتكم الرابحة</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نموذج من ديمقراطية فرنسا في الجزائر مهداة إلى أصدقاء فرنسا</tit>
+        <id>94</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جزاء الجزائريون من فرنسا بعد الحرب</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لتسقط الديمقراطية الفرنسية وتحيا الثورة الجزائرية والمغربية</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>محنة اللغة العربية في الجزائر</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل المقاتلون في الجزائر ثوار أم لصوص؟</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تهديد فرنسا يعطي نتائج معكوسة</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فرنسا تحارب الإسلام علنا في الجزائر</tit>
+        <id>101</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجزائر وأسبوع التسلح لجيش سوريا هل أصبح العرب أضحوكة البشر؟</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>متى تختفي إسرائيل من الوجود؟</tit>
+        <id>104</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>برقية إلى حضرة الرئيس إسماعيل الأزهري المحترم</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نريد أسابيع التسلح للجزائر</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نطالبكم بحق وليكن دينا علينا</tit>
+        <id>106</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل ثوار الجزائر خونة! .. لأنهم يستعينون بدول أجنبية؟</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الكلمة في انتخابات الجزائر هي للثوار وحدهم</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نريد انتخابات جزائرية حرة</tit>
+        <id>111</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وحشية الاستعمار الفرنسي بالجرائر</tit>
+        <id>112</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسرحية فاشلة</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما هو مصير الجزائر - بعد الانتخابات الفرنسية؟</tit>
+        <id>114</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نريد الاستقلال ولا شيء غير الاستقلال</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى المستعمرين</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الوجود الفرنسي واليهودي بالمغرب العربي</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يقتضينا ثلاثة أمور</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشعب الفرنسي يعيش في شقاء</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بين نهر أبو علي في طرابلس والاستعمار الفرنسي بالجزائر</tit>
+        <id>122</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ضحايا طرابلس بالمئات وأما الجزائر فهم بالآلاف</tit>
+        <id>123</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عهودنا وعهودهم</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل أصبحت إسبانيا أخبث من فرنسا</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أيهما أحب إليكم أيها المكافحون؟ ..</tit>
+        <id>127</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل في حكومة تونس ومراكش صهيونيون</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الوجود الصهيوني بالمغرب العربي</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سابقة خطيرة</tit>
+        <id>129</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>برقية إلى وزراء خارجية العرب المجتمعين بالقاهرة</tit>
+        <id>130</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مهرجان مكافحة الاستعمار</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مهرجان مكافحة الاستعمار</tit>
+        <id>131</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مخازي الاستعمار</tit>
+        <id>131</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جريمة البريطانيين في البريمي</tit>
+        <id>131</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>همجية فرنسا في الجزائر</tit>
+        <id>132</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رأس المغربي بخمسة فرنكات</tit>
+        <id>132</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بيان حول العدوان الإنكليزي على واحة البريمي</tit>
+        <id>133</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جمعية العلماء الجزائريين (1) باعثة الأمة الجزائرية والمغرب العربي وهادمة الاستعمار</tit>
+        <id>134</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العروبة والإسلام</tit>
+        <id>135</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقفهم من الإسلام</tit>
+        <id>136</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تشكيك الجزائريين في عروبتهم</tit>
+        <id>136</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شروط الجنسية العربية</tit>
+        <id>138</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جمعية العلماء الجزائريين (2) باعثة الأمة الجزائرية والمغرب العربي وهادمة الاستعمار</tit>
+        <id>139</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جمعية العلماء الجزائريين (3) باعثة الأمة الجزائرية والمغرب العربي وهادمة الاستعمار</tit>
+        <id>142</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفضيل الورتلاني يوضح عدد سكان المغرب العربي</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى ذلك النفر المكافح العزيز</tit>
+        <id>146</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزائر مقبرة الشباب الفرنسي</tit>
+        <id>147</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تجارة المؤمنين</tit>
+        <id>149</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطاب رئيس جمعية العلماء في مؤتمرها السنوي</tit>
+        <id>150</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تحية الوافدين</tit>
+        <id>151</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تاريخ الجمعية ومبادئها وكفاحها</tit>
+        <id>152</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رجوع إلى الماضي للاعتبار</tit>
+        <id>153</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جهاد الجمعية العلمي والتربوي</tit>
+        <id>155</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كفاحها ضد الاستعمار في محاربته للدين ولغته</tit>
+        <id>157</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يجب أن نكون للأمة قدوة صادقة</tit>
+        <id>158</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أصلحوا أنفسكم يصلح لكم الناس</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نعم نحن موافقون</tit>
+        <id>160</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب مفتوح من الورتلاني إلى رئيس حكومة فرنسا &quot;جي موليه&quot;</tit>
+        <id>161</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مطالب الجزائريين من فرنسا</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حلول سلبية أو إيجابية</tit>
+        <id>167</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صدى ثورة الجزائر في الشرق</tit>
+        <id>169</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى الثائرين الأبطال من أبناء الجزائر اليوم حياة أو موت = بقاء أو فناء</tit>
+        <id>170</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثلاث صرخات ... نداء حول ثورة الجزائر والمغرب العربي</tit>
+        <id>172</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نداء إلى الشعب الجزائري المجاهد .. نعيذكم بالله أن تتراجعوا ..</tit>
+        <id>174</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أذكروا غدر الاستعمار ومماطلته</tit>
+        <id>174</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إن التراجع معناه الفناء</tit>
+        <id>176</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هلموا إلى الكفاح المسلح</tit>
+        <id>177</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أوسع المعلومات عن بداية الثورة في الجزائر</tit>
+        <id>178</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورة الجزائر طابعها عسكري حازم</tit>
+        <id>179</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الليلة الليلاء ... ليلة 1 نوفمبر سنة 1954 بداية ثورة الجزائر المباركة</tit>
+        <id>180</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ملاحظات وتعليق: عظمة الثورة ومغزاها</tit>
+        <id>184</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لا قيمة لحق لا تسنده قوة</tit>
+        <id>186</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رسالة من الورتلاني إلى حكومة مراكش الحرة</tit>
+        <id>186</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>احذروا غدر الاستعمار</tit>
+        <id>188</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وحدة المغرب العربي أمانة مقدسة في أعناقكم</tit>
+        <id>189</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جيش التحرير هو رأس مالنا المفدى</tit>
+        <id>189</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة عن جمعية العلماء إلى الجامعة العربية</tit>
+        <id>191</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشعب الجزائري</tit>
+        <id>191</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أشنع أعمال فرنسا في الجزائر</tit>
+        <id>192</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لمن يرجع الفضل؟</tit>
+        <id>193</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مبدأ جمعية العلماء وغاياتها</tit>
+        <id>193</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أعمال جمعية العلماء في التعليم العربي للصغار</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رغبات جمعية العلماء وآمالها في الحكومات العربية</tit>
+        <id>196</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بادروا لنجدة إخوانكم ...</tit>
+        <id>197</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزائر تعتز بعقيدتها وعروبتها</tit>
+        <id>200</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وزير فرنسي ينكر على فرنسا أعمالها البربرية</tit>
+        <id>201</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزائر محرومة من كل شيء</tit>
+        <id>202</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بيان من المؤتمر السنوي لجمعية العلماء الجزائريين</tit>
+        <id>204</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاستعمار مسؤول عن كل شيء ...</tit>
+        <id>204</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تصحيح واحتجاج</tit>
+        <id>207</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كيف يسيطر المستعمرون الرأسماليون</tit>
+        <id>208</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأيادي الخفية</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من هو فرانسوا شارل رو؟</tit>
+        <id>209</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لجنة فرنسا المركزية</tit>
+        <id>210</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الطبقة المسيطرة</tit>
+        <id>211</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شؤون تونس</tit>
+        <id>212</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدعاية الاستعمارية في أمريكا</tit>
+        <id>212</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مشاحنات في قلب اللجنة</tit>
+        <id>212</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسيو مزاوبي</tit>
+        <id>213</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أحلاف الاستعمار</tit>
+        <id>213</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقررات اللجنة</tit>
+        <id>214</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شبكة موصولة الحلقات</tit>
+        <id>214</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وفي المغرب</tit>
+        <id>215</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جبهة تحرير الجزائر للتاريخ</tit>
+        <id>217</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى حضرات الوزراء الأربعة الكبار في جنيف</tit>
+        <id>219</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى مولاي محمد بن يوسف سلطان مراكش في ذمتكم أمور أربعة خطيرة ...</tit>
+        <id>221</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كونوا ربانيين</tit>
+        <id>222</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة من الأمير عبد الكريم الخطابي إلى الجامعة العربية</tit>
+        <id>222</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نداء من الأمير عبد الكريم الخطابي إلى أبناء المغرب العربي المجاهدين</tit>
+        <id>224</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لقد حان وقت تصفية الحساب أيها الإخوان المجاهدون</tit>
+        <id>224</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المستعمرون أجبرونا على الانفجار أيها الأبطال المكافحون في تونس والجزائر ومراكش</tit>
+        <id>225</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لا مفاوضة بعد اليوم أيها الإخوان المكافحون في المغرب العربي كله</tit>
+        <id>225</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نريد أن نعيش أحرارا أيها الإخوان المكافحون</tit>
+        <id>226</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشعب الفرنسي لا يريد حربا</tit>
+        <id>226</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كلمتي إلى أهل تونس وإلى الجنود في جيش فرنسا</tit>
+        <id>226</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى الفرنسيين الأحرار</tit>
+        <id>227</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطابات مفتوحة من الورتلاني إلى سفير فرنسا في القاهرة</tit>
+        <id>228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وكلمتي - أخيرا - إلى الموظفين والساكنين</tit>
+        <id>228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول غطرسة الفرنسيين في شمال إفريقيا (1)</tit>
+        <id>229</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول غطرسة الفرنسيين أبضا (2)</tit>
+        <id>231</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول اعتقال عشرات الآلوف من المجاهدين (3)</tit>
+        <id>235</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول عزل الشعب المغربي عن العالم الإسلامي (4) ومنع السفر لحج بيت الله الحرام</tit>
+        <id>238</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول حقد الفرنسيين على العرب (5) والحرص عل امتهانهم وإذلالهم واغتصاب أراضيهم وتقتيل شبابهم .. وسجن أحرارهم</tit>
+        <id>243</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في سبيل استقلال طرابلس الغرب (6) الجنرال ديغول ينصب نفسه حاميا للاستعمار الدولي</tit>
+        <id>246</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إفريقيا الشمالية والجنرال سبيرس (7) العرب أمة واحدة يريدون الوحدة والاستقلال</tit>
+        <id>249</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سيتحد أبناء إفريقيا الشمالية رغم أنوف المستعمرين (8)</tit>
+        <id>252</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إفريقيا الشمالية باستيل القرن العشرين (9) دولة الحرية والإخاء والمساواة تحارب الحرية والإخاء والمساواة وتعتدي على الأديان والأعراض والأموال</tit>
+        <id>258</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يوم إفريقيا بعد يوم فلسطين (10) نداء الجبهة إلى العرب من هيئات وأفراد</tit>
+        <id>263</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وحشية الفرنسيين في إفريقيا الشمالية (11) وبطولة العرب المجاهدين في سبيل حريتهم</tit>
+        <id>265</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جبهة الدفاع عن إفريقيا الشمالية</tit>
+        <id>269</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف تكونت جبهة الدفاع عن شمال إفريقيا</tit>
+        <id>270</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجبهة وأغراضها</tit>
+        <id>272</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الثورة الاستقلالية الدائمة في إفريقيا الشمالية</tit>
+        <id>273</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مذكرة من جبهة الدفاع عن إفريقيا الشمالية إلى مؤتمر الجامعة العربية</tit>
+        <id>274</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة إلى هيئة الأمم المتحدة من جبهة الدفاع عن إفريقيا الشمالية</tit>
+        <id>277</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة مرفوعة من جبهة الدفاع عن إفريقيا الشمالية إلى حضرة صاحب الجلالة الملك المعظم عبد العزيز آل سعود عند زيارته لمصر</tit>
+        <id>279</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورة الجزائر العربية أول بيان لجبهة الدفاع عن إفريقيا الشمالية</tit>
+        <id>281</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى دول الجامعة العربية ... ودول الأمم المتحدة ثورة الجزائر دفاعا عن حقوقهم ودينهم وأعراضهم وأموالهم مذكرة خطرة ... من جبهة الدفاع عن إفريقيا الشمالية</tit>
+        <id>284</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة من جبهة الدفاع عن إفريقيا الشمالية إلى دول الأمم العربية وإلى الأمم المتحدة</tit>
+        <id>286</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من همجية فرنسا الديمقراطية ...</tit>
+        <id>290</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النار والدمار في تونس العربية المسلمة نداء جبهة الدفاع عن شمال إفريقيا إلى العالم</tit>
+        <id>290</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة عن مؤتمر تونس</tit>
+        <id>292</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إعتداء فرنسا على الأرواح والأعراض في تونس</tit>
+        <id>292</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى السفراء بمناسبة الذكرى السنوية لثورة الجزائر العربية</tit>
+        <id>294</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>احتجاج الجبهة في ذكرى الظهير البربري</tit>
+        <id>295</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جبهة الدفاع عن إفريقيا الشمالية تحتج ضد المساومات الاستعمارية في تونس</tit>
+        <id>296</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المذكرة</tit>
+        <id>297</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول مطالب جمعية العلماء الجزائريين فرنسا تحارب العلم والدين والإنسانية</tit>
+        <id>297</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إنسانية فرنسا</tit>
+        <id>300</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في سبيل طرابلس الغرب من جبهة الدفاع عن إفريقيا الشمالية إلى دول الأمم المتحدة والدول العربية</tit>
+        <id>300</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من سكرتير جبهة الدفاع عن شمال إفريقيا</tit>
+        <id>301</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جواب &quot;مصر الفتاة&quot;</tit>
+        <id>303</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>استغاثة لم تسمع من الجبهة إلى رفعة علي ماهر باشا</tit>
+        <id>304</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تحية إفريقيا الشمالية إلى أمين الجامعة العربية</tit>
+        <id>305</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مجاهدون يعودون من الآخرة</tit>
+        <id>307</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>زلزال لبنان وقوى الشر الفرنسية في الجزائر</tit>
+        <id>309</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إبادة بالجملة</tit>
+        <id>309</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أين الديبلوماسية والحمية العربية</tit>
+        <id>310</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فرنسا الأثيمة</tit>
+        <id>310</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ماذا فعل العرب الكبار</tit>
+        <id>310</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كلمة عن مملكة تونس العربية</tit>
+        <id>311</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شذرة من تاريخها</tit>
+        <id>312</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كيف وقع الاحتلال الفرنسي؟ ..</tit>
+        <id>313</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جهاد التونسيين في سبيل الاستقلال!!</tit>
+        <id>315</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مأساة الجزائر</tit>
+        <id>316</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أتنسون الجزائر وهي دوح؟</tit>
+        <id>316</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية القطر الجزائري</tit>
+        <id>318</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مراكش .. والاستقلال</tit>
+        <id>320</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وثيقة الاستقلال</tit>
+        <id>321</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توقيعات ممثلي الشعب</tit>
+        <id>323</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المغرب العربي والصهيونية</tit>
+        <id>326</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصهيونية</tit>
+        <id>327</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بدء الحرب</tit>
+        <id>327</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الثورة التونسية</tit>
+        <id>328</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في المرحلة الأخيرة</tit>
+        <id>328</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المغاربة في الخارج</tit>
+        <id>329</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لكم أيها المجاهدون في ليبيا أخت الجزائر أسوة حسنة</tit>
+        <id>330</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجبل الأخضر</tit>
+        <id>331</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرب السنين السبع</tit>
+        <id>332</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحصار</tit>
+        <id>332</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المستميت لا يموت</tit>
+        <id>333</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نصيحة غالية</tit>
+        <id>335</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في سبيل فلسطين</tit>
+        <id>335</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المأساة الخطيرة في إفريقيا الشمالية</tit>
+        <id>336</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فرنسا والعالم الإسلامي</tit>
+        <id>338</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>برقيات مختلفة من جبهة الدفاع عن إفريقيا الشمالية</tit>
+        <id>339</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>برقية الجبهة إلى أمين الجامعة العربية</tit>
+        <id>340</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى رئيس مؤتمر سان فرانسيسكو</tit>
+        <id>340</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى هيئة الأمم المتحدة</tit>
+        <id>341</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى وزراء الدول الخمس</tit>
+        <id>341</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى رئيس المجلس الاستشاري الفرنسي</tit>
+        <id>342</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى جلالة ملك شرق الأردن</tit>
+        <id>342</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى جلالة سلطان مراكش</tit>
+        <id>342</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الأمين العام لجامعة الدول العربية إلى جبهة الدفاع عن إفريقيا الشمالية</tit>
+        <id>343</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى رئيس الجمهورية السورية</tit>
+        <id>344</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تهنئة الجبهة لسوريا بجلاء الجيوش المحتلة</tit>
+        <id>344</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاحتجاج على الاعتداء البريطاني</tit>
+        <id>344</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى أمين الجامعة العربية</tit>
+        <id>344</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى مؤتمر الجامعة العربية في بلودان</tit>
+        <id>345</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى مؤتمر الملوك والرؤساء بانشاص مصر</tit>
+        <id>345</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى جلالة سلطان مراكش</tit>
+        <id>346</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى رئيس الجمهورية السورية الحرة المستقلة</tit>
+        <id>346</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>منع عقد مؤتمر طلبة إفريقيا الشمالية احتجاج الجبهة على ذلك</tit>
+        <id>346</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في سبيل أندونيسيا مطالبة الجبهة بالاعتراف باستقلالها</tit>
+        <id>347</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رحلة أمين سر جبهة الدفاع عن إفريقيا الشمالية إلى الأقطار الشقيقة</tit>
+        <id>348</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بيان أمين سر الجبهة إلى الصحف العربية</tit>
+        <id>348</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يوم العروبة المجاهدة في شمال إفريقيا محاضرة الأستاذ الورتلاني بدار الإخوان المسلمين بدمشق</tit>
+        <id>349</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تصريح رائع عن شمالي إفريقيا لرئيس الوزارة السورية إلى سكرتير الجبهة الأستاذ الورتلاني</tit>
+        <id>352</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سعد الله بك الجابري يجابه الوزير الفرنسي بشأن شمالي إفريقيا على أثر المقابلة</tit>
+        <id>353</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شكر الجبهة للجمهورية السورية حكومة وشعبا</tit>
+        <id>354</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هذا هو الزلزال الحق فرنسا تنصب في الجزائر دكتاتورا وإلها للشر</tit>
+        <id>355</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رأي الأمريكان في قضية الجزائر</tit>
+        <id>359</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعاة الوحدة العربية</tit>
+        <id>360</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لا ثقة بعد تراجع موليه</tit>
+        <id>361</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نابليون الجيب</tit>
+        <id>361</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الموقع الأخير الباقي</tit>
+        <id>362</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سياسة موليه</tit>
+        <id>363</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توضيحات، وتعليقات ... لا بد منها</tit>
+        <id>364</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لن نستكين وفي أرواحنا قبس</tit>
+        <id>372</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل تكون الجزائر الشرارة الأولى لحرب عالمية ثالثة؟ ...</tit>
+        <id>373</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لم يبق في الجزائر معتدل ومتطرف</tit>
+        <id>375</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فرنسي كبير يسفه مزاعم كبار الفرنسيين</tit>
+        <id>377</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزائر دولة قائمة بالفعل</tit>
+        <id>379</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورة عبد القادر</tit>
+        <id>379</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاحتلال .. لتصريف البضائع</tit>
+        <id>380</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثورات الجزائر</tit>
+        <id>381</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رسالة التمدين</tit>
+        <id>381</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قوة السلاح لا تقهر الأفكار</tit>
+        <id>384</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لا قيمة لاستقلال تونس ومراكش ما لم تستقل الجزائر</tit>
+        <id>391</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الامتزاج، أم الدولة ذات الجنسيات؟</tit>
+        <id>393</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأمة الجزائرية كلها ثائرة وحزب واحد ...</tit>
+        <id>397</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مذكرة حزب الشعب الجزائري إلى أعضاء هيئة الأمم المتحدة</tit>
+        <id>399</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ملاحظتان</tit>
+        <id>400</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قمع</tit>
+        <id>403</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قوانين إرهابية</tit>
+        <id>403</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوة .. !</tit>
+        <id>404</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نسيان ..</tit>
+        <id>405</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحركة الإصلاحية</tit>
+        <id>406</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حزب الشعب</tit>
+        <id>407</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الهدنة ومذبحة الجزائر</tit>
+        <id>408</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تأييد الجزائر</tit>
+        <id>408</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصارحة</tit>
+        <id>409</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فقدان الثقة</tit>
+        <id>409</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطورة الحالة</tit>
+        <id>410</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>410</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من زعماء الجزائر فرحات عباس رئيس حزب البيان</tit>
+        <id>412</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تصريح فرحات عباس</tit>
+        <id>413</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يجب إعادة السلام إلى الجزائر</tit>
+        <id>414</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقاومة</tit>
+        <id>415</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الماريشال بيجو الرئيس فور ... وقدمته بالكلمات الآتية</tit>
+        <id>416</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقائق وأفكار رائجة ...</tit>
+        <id>417</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التجربة المرة</tit>
+        <id>418</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مشروع جهنمي</tit>
+        <id>419</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الهدف الرهيب</tit>
+        <id>419</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تصريح للورتلاني عن اليمن وعن رحلته إلى الأندلس</tit>
+        <id>421</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفضيل الورتلاني</tit>
+        <id>422</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أول تصريح للأستاذ الفضيل الورتلاني بعد إعلان براءته والعفو عن سياسيي اليمن</tit>
+        <id>425</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسيحيو لبنان يمقتون فرنسا والاستعمار</tit>
+        <id>432</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاتجار بالمسيحيين</tit>
+        <id>434</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رأس الأفعى أو سياسة بريطانيا الاستعمارية</tit>
+        <id>435</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كلمة حق تغني عن الجيوش ..</tit>
+        <id>438</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وحدة صفوف اللبنانيين تخدم العرب والجزائر</tit>
+        <id>441</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إننا ننتظر البادرة</tit>
+        <id>442</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ورئيس الكتاتب يؤيد الجزائر</tit>
+        <id>442</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صرخات لبنان</tit>
+        <id>443</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ليس أوقح من فرنسا</tit>
+        <id>444</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشهيد حسن البنا يقول: اغضبوا قبل أن لا ينفع الغضب</tit>
+        <id>445</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من أبطال الدعوة</tit>
+        <id>448</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أقل ما يقال عنه</tit>
+        <id>449</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما لم يتحقق اليوم من آمال سيتحقق غدا</tit>
+        <id>450</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الورتلاني ... والعقبات التي وقفت في طريقه</tit>
+        <id>451</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشاط دائب ...</tit>
+        <id>451</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل فتر الورتلاني؟! ... كلا</tit>
+        <id>452</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كلمة عباد الرحمن الختامية بقلم مدير الشؤون الاجتماعية الأستاذ: رفيق سنو</tit>
+        <id>456</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف عرفت الورتلاني</tit>
+        <id>457</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الورتلاني في البحار</tit>
+        <id>458</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الورتلاني في بيروت</tit>
+        <id>459</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصحبة</tit>
+        <id>459</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تأثيره على الطبقات ووفاؤه لوطنه</tit>
+        <id>460</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إهماله لصحته</tit>
+        <id>461</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تضحياته وتضييعه للفرص</tit>
+        <id>462</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نموذج من أسفاره</tit>
+        <id>464</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى أوروبا</tit>
+        <id>464</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رحلته إلى الشرق</tit>
+        <id>465</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أعماله في لبنان</tit>
+        <id>465</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وفاؤه لإخوانه وتلامذته</tit>
+        <id>465</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في أسفاره</tit>
+        <id>467</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخلاصة</tit>
+        <id>468</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفضيل الورتلاني</tit>
+        <id>469</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلى مجاهد العروبة والإسلام في استانبول</tit>
+        <id>471</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>عباد الرحمن</tit>
+        <id>473</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>شكر واجب</tit>
+        <id>473</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تحية مسلمي الهند والباكستان للمجاهدين الجزائريين</tit>
+        <id>474</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تحية حزب النجادة إلى أبطال الجزائر</tit>
+        <id>474</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

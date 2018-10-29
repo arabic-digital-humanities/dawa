@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الاستفتاح</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمات</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد ومقدمة</tit>
+        <id>2</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تطور فكرة حقوق الإنسان</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبادئ التي انبنت عليها حقوق الإنسان</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان الثقافية</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان الاجتماعية</tit>
+        <id>22</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الرق</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الطفولة والأبناء</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان السياسية</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان المدنية</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المساواة</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان الاقتصادية</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان بين النظرية والتطبيق</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خلاصة وخاتمة</tit>
+        <id>55</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المراجع</tit>
+        <id>58</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة في تعريف الخطابة.</tit>
+        <id>2</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 1 مقدمة في الخطابة.</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعريف الخطابة.</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تاريخ علم الخطابة ونشأتها.</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية الخطابة ومكانتها.</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 2 الغاية من الخطابة.</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أهمية الخطابة للدعوة الإسلامية.</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إعداد الخطبة.</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 3 عناصر الخطبة.</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تركيب الخطبة.</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصادر الخطبة.</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأسلوب الخطابي.</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 4 محتويات الخطبة.</tit>
+        <id>55</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>افتتاح الخطبة.</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الغرض من الخطبة</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقسيم الخطبة، وترتيب أفكارها.</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 5 الخطيب وصفاته.</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أهمية الخطيب ومكانته في الإسلام.</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صفات الخطيب في الإسلام.</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 6 تابع: الخطيب وصفاته.</tit>
+        <id>93</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صفات الخطيب الفطرية.</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إعداد الخطيب الداعية عقليا.</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صفات الداعية النفسية.</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>آداب تتعلق بالخطيب أثناء خطبته.</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إعداد الخطيب علميا وثقافيا.</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 7 الخطابة في الجاهلية والإسلام.</tit>
+        <id>112</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخطابة في العصر الجاهلي.</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خصائص ومميزات الخطابة في الجاهلية.</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخطابة في عصر الإسلام.</tit>
+        <id>123</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين الخطابة في الجاهلية، والخطابة في الإسلام.</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دواعي الخطاب في عصر الإسلام.</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 8 عوامل رقي الكتابة وازدهارها في صدر الإسلام.</tit>
+        <id>132</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العوامل التي أدت إلى نمو الكتابة وازدهارها في صدر الإسلام.</tit>
+        <id>133</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة الرسول -صلى الله عليه وسلم- في حجة الوداع، ونماذج أخرى.</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 9 نماذج من خطب الخلفاء الراشدين وغيرهم من الصحابة والتابعين.</tit>
+        <id>150</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نماذج من خطب الخلفاء الراشدين الأربعة.</tit>
+        <id>151</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نماذج من خطب الصحابة والتابعين.</tit>
+        <id>160</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 10 الدرس الديني: شروطه، فوائده، الفرق بينه وبين الخطبة.</tit>
+        <id>167</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدعوة أو التبليغ بالقول، وضوابطه، وآدابه.</tit>
+        <id>168</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس وشروطه وفوائده.</tit>
+        <id>179</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين الخطبة والدرس.</tit>
+        <id>184</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 11 المحاضرة والمناظرة، وآدابهما في الإسلام.</tit>
+        <id>186</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف يحضر المحاضر محاضرته؟.</tit>
+        <id>187</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحديث عن المناظرة والمجادلة والمناقشة، وآدابها في الإسلام.</tit>
+        <id>201</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 12 ضوابط الخطاب الدعوي، ورسالة الخطاب الدعوي المعاصر.</tit>
+        <id>207</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ضوابط الخطاب الدعوي.</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رسالة الخطاب الدعوي.</tit>
+        <id>223</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 13 مثالب الخطاب الدعوي وطرق علاجها.</tit>
+        <id>227</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مثالب الخطاب الدعوي وطرق علاجها.</tit>
+        <id>228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أصول ومنهج وأساليب الرسول -صلى الله عليه وسلم- في حديثه وحواره.</tit>
+        <id>232</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ضرورة توافر النطق الجيد لدى الخطيب، وحسن الصوته وتمرينه.</tit>
+        <id>241</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ضرورة الابتعاد عن الإسرائيليات والموضوعات والمنكرات، والضعيف.</tit>
+        <id>246</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 14 الندوة والمؤتمر، وخصائص كل منهما، وفوائده.</tit>
+        <id>249</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الندوة.</tit>
+        <id>250</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المؤتمر.</tit>
+        <id>262</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 15 قواعد في الأسلوب الدعوي.</tit>
+        <id>268</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قاعدة القول الحسن والكلمة الطيبة.</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الرفق واللين والتيسير.</tit>
+        <id>271</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشفقة والنصح لا التوبيخ والفضح.</tit>
+        <id>273</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سهولة الأسلوب وبساطة الطرح، وواقعية التمثيل.</tit>
+        <id>275</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التحدث بلغة الجمع، وتعميم الخطاب عامة دون قصد أفراد أو تعيين أشخاص.</tit>
+        <id>278</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحث والإكثار من استخدام عبارت الاستفهام.</tit>
+        <id>283</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرس: 16 بعض الآفات التي قد يصاب بها الداعية.</tit>
+        <id>287</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من الآفات التي قد تصيب بعض الدعاة: &quot;الرياء&quot;.</tit>
+        <id>288</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الآفات التي يتعرض لها بعض الدعاة: &quot;العجب&quot;.</tit>
+        <id>296</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الآفات التي تصيب بعض الدعاة: &quot;الغرور&quot;.</tit>
+        <id>301</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من الآفات الخطيرة التي قد تصيب الدعاة: &quot;الكبر&quot;.</tit>
+        <id>307</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

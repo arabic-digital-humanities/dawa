@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأمر الأول: بيان حكم الدعوة إلى الله عز وجل وبيان فضلها:</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فضل الدعوة إلى الله عز وجل</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأمر الثاني: كيفية أدائها وأساليبها:</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأمر الثالث: بيان الأمر الذي يدعى إليه:</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأمر الرابع: بيان الأخلاق والصفات التي ينبغي للدعاة أن يتخلقوا بها وأن يسيروا عليها:</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

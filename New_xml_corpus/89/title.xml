@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أوليات</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النوع والمجتمع</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الآراء المختلفة في تفسير الحركة التاريخية</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التاريخ والعلاقات الاجتماعية</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أصل العلاقات الاجتماعية</tit>
+        <id>26</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>طبيعة العلاقات</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الثروة الاجتماعية</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المرض الاجتماعي</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المجتمع والقيمة الخلقية</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدين والعلاقات الاجتماعية</tit>
+        <id>52</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>شبكة العلاقات والجفرافيا</tit>
+        <id>57</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العلاقات الاجتماعية وعلم النفس</tit>
+        <id>63</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فكرة التربية الاجتماعية</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>شبكة العلاقات الاجتماعية والاستعمار</tit>
+        <id>80</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دفاع عن شبكة العلاقات الاجتماعية</tit>
+        <id>92</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشروط الأولية للتربية الاجتماعية</tit>
+        <id>100</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المسارد</tit>
+        <id>114</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

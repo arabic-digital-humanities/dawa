@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مفهومات التنصير التعريفات</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المعنى اللغوي</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النساطرة</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شاؤول المنصر</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اليعاقبة</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسلمون والنصارى</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحروب الصليبية</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فترة الاحتلال</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التنصير بين المسلمين</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حماية النصارى</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعميد</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التبشير</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التنصير المحلي</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني أهداف التنصير والمنصرين</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهم الأهداف</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأهداف الفرعية</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المهتدون</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث وسائل التنصير والمنصرين</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجمعيات</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مؤهلات المنصرين</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التنصير المختفي</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>البعثات الدبلوماسية</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المستكشفون</tit>
+        <id>54</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التطبيب</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعليم الصناعي</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعليم العالي</tit>
+        <id>58</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإغاثة</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرأة</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العاملون</tit>
+        <id>62</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البعثات الدراسية</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاستشراق</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليهود</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المنظمات الدولية</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التبادل الثقافي</tit>
+        <id>71</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التجارة والاقتصاد</tit>
+        <id>72</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وسائل الإعلام</tit>
+        <id>73</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المنح الدراسية</tit>
+        <id>75</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التنمية</tit>
+        <id>76</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التقويم المستمر</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع وسائل مساندة للتنصير</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاحتلال</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السياسة</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المواطنون</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفقر</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأمراض</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قلة الوعي</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاستعداد الذاتي</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الضمانات المالية</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحقد الكمين</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التسيب في التعاليم</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تجهيز المنصرين</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تساهل المسلمين</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تأليف الأذهان</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس في مواجهة التنصير</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدعوة إلى الله</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السياسة</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هيئات الإغاثة</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>علماء الأمة</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التجارة والاقتصاد</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شباب الأمة</tit>
+        <id>103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المؤسسات العلمية</tit>
+        <id>104</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابطة العالم الإسلامي</tit>
+        <id>106</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الندوة العالمية</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>منظمة المؤتمر الإسلامي</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجمعيات الإسلامية</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجماعات الإسلامية</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلم بالنصرانية</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحوار</tit>
+        <id>110</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة النتيجة والتوصيات</tit>
+        <id>113</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا هيئة إسلامية</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا الدورية</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا التوعية</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خامسا الدعاة</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سادسا الإغاثة</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سابعا السياسة</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رابعا البحوث</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثامنا المنح</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تاسعا المسلمون</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عاشرا التميز</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حادي عشر العلم</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثاني عشر المبادرات</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قائمة ورقية بالمراجع الأساس</tit>
+        <id>121</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

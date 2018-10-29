@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>بين يدي الكتاب</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشيخ أحمد شاكر -علم من أعلام العصر -بقلم ابن الشيخ</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تحكيم القوانين بقلم سماحة الشيخ / محمد بن إبراهيم بن عبد اللطيف آل الشيخ</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أحمد محمد شاكر &quot;إمام المحدثين&quot; -بقلم محمود محمد شاكر</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - حكم الجاهلية</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>2 - الملحدون واعتذار الرسول صلى الله عليه وسلم</tit>
+        <id>44</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>3 - الحكم بقتل شارب الخمر في الرابعة</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>4 - خمارة حقيقية</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>5 - الرد على من زعم أن رسول الله صلى الله عليه وسلم حكم بين أهل الكتاب بشرعهم</tit>
+        <id>52</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>6 - هل إذا أسلم غير المسلم يجبر على الاحتكام إلى غير شريعة الإسلام؟</tit>
+        <id>54</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>7 - جزاء الفجور بالمحارم</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>8 - النساء والجندية.</tit>
+        <id>61</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>9 - الرد على من قال بمساواة المرأة بالرجل</tit>
+        <id>63</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>10 - جزاء من يخالف الشرع مع الإقرار بصحته.</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>11 - التشبه بأوربة في قوانينهم الكافرة</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>12 - جزاء من اتبع أهواء اليهود والنصارى</tit>
+        <id>68</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>13 - لعن الله آكل الربا.</tit>
+        <id>71</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>14 - تسمية الربا بالفائدة!</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>15 - الربا محرم بكافة أنواعه</tit>
+        <id>75</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>16 - ولاية المرأة القضاء</tit>
+        <id>77</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>17 - الكتاب والسنة، يجب أن يكونا مصدر القوانين في مصر</tit>
+        <id>102</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>- الخطة العملية لاقتباس القوانين من الشريعة</tit>
+        <id>126</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>18 - عبد العزيز فهمي باشا وعداؤه للعربية والشريعة</tit>
+        <id>130</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>19 - متى ولمن!! السمع والطاعة؟</tit>
+        <id>144</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>20 - الشورى في الإسلام</tit>
+        <id>154</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>21 - المرأة ليست كالرجل في الميراث.</tit>
+        <id>156</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - في التعليم</tit>
+        <id>157</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>22 - خواطر ...</tit>
+        <id>157</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>2 - في المحاضرة الحمقاء</tit>
+        <id>158</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - في الأعراض</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - لصوص الثياب</tit>
+        <id>160</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - هل في شعائر الإسلام وثنية؟</tit>
+        <id>161</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - بحث في تاريخ السيد البدوي.</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - مقاطعة الملحدين</tit>
+        <id>165</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>8 - الكشف الطبي على راغبي الزواج</tit>
+        <id>168</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>9 - تعليم الدين في المدارس</tit>
+        <id>172</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>10 - الجامعة المصرية.</tit>
+        <id>174</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>23 - الإيمان بالغيب</tit>
+        <id>176</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>24 - من هم أهل الكتاب؟</tit>
+        <id>178</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>25 - المراد بالمحصنات من الذين أوتوا الكتاب</tit>
+        <id>180</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>26 - النصارى لا يزالون في شقاق وخلاف وبغضاء</tit>
+        <id>183</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>27 - عاقبة قوم لوط</tit>
+        <id>185</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>28 - المتبعون لأهواء سادتهم من المبشرين</tit>
+        <id>186</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>29 - بطلان نظرية داروين وأتباعه</tit>
+        <id>188</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>30 - تزيين الشيطان لآدم عليه الصلاة والسلام</tit>
+        <id>190</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>31 - الذكر والابتهالات الدينية</tit>
+        <id>191</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>32 - لا وصية لوارث</tit>
+        <id>193</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>33 - لا نكاح إلا بولي</tit>
+        <id>195</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>34 - فتح القسطنطينية</tit>
+        <id>199</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>35 - أين الرجال!! أين الرجال ..</tit>
+        <id>201</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>36 - لا يجوز إطلاع أهل الذمة على أسرار المسلمين</tit>
+        <id>202</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>37 - كروية الأرض</tit>
+        <id>204</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>38 - طاعة الكفار = خسران مبين.</tit>
+        <id>205</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>39 - صحف الهلال والدعاية ضد الإسلام</tit>
+        <id>207</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صحف الهلال 1.</tit>
+        <id>207</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صحف الهلال 2.</tit>
+        <id>214</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صحف الهلال 3.</tit>
+        <id>220</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>40 - نساء بدون حياء!!</tit>
+        <id>228</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>41 - الطلاق عند عبيد الخواجات</tit>
+        <id>230</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>42 - ظلم ونكد عيش الأجراء والخدم</tit>
+        <id>231</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>43 - قحة الأجرياء المتفرنجين</tit>
+        <id>234</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>44 - حرمة التشبه بالكفار</tit>
+        <id>236</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>45 - دعوة ادعاء نسب الغير</tit>
+        <id>238</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>46 - عودة إلى وثنية نصب التماثيل</tit>
+        <id>240</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>47 - ولكن القوم لا يستحون!!</tit>
+        <id>244</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>48 - العطف على الفقير .... وحكم من احتكر</tit>
+        <id>245</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>49 - حكم من سب الدهر أو القدر</tit>
+        <id>247</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>50 - في تعدد الزوجات</tit>
+        <id>248</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

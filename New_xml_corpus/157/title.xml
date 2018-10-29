@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب تمهيدي</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: الإتجاه الغربي</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: مراحل الغزو الفكري الغربي</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مرحلة ما قبل إسقاط الخلافة الإسلامية</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: الحروب الصليبية</tit>
+        <id>12</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الاستشراق</tit>
+        <id>15</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: التبشير</tit>
+        <id>27</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا: تقطيع أوصال دولة الخلافة</tit>
+        <id>32</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: مرحلة إسقاط الخلافة الإسلامية</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: فصل الدين عن الدولة</tit>
+        <id>34</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: نشر القومية في مواجهة الخلافة</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: إسقاط الخلافة الإسلامية</tit>
+        <id>38</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: مرحلة ما بعد إسقاط الخلافة الإسلامية</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: التغيير السياسي والإجتماعي في المنطقة الإسلامية</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: التغيير السياسي</tit>
+        <id>42</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: التغيير الإجتماعي</tit>
+        <id>52</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: أساليب التغيير الإجتماعي &quot;أو التغريب&quot;</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>55</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أولا: العلمانية</tit>
+        <id>57</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: القومية</tit>
+        <id>73</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: تحرير المرأة</tit>
+        <id>83</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: ما يفعل بنا الصليبيون</tit>
+        <id>90</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>90</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أولا: بالنسبة للإسلوب</tit>
+        <id>94</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: بالنسبة للهدف</tit>
+        <id>96</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: الإتجاه الماركسي</tit>
+        <id>100</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: الوعاء</tit>
+        <id>103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: البيئة</tit>
+        <id>104</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: مؤسس للفكرة</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: المبدأ</tit>
+        <id>110</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: المبدأ في أساسه</tit>
+        <id>112</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: المادة</tit>
+        <id>112</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الجدل</tit>
+        <id>114</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الماركسية والدين</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>117</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أولا: موقف الماركسية من الدين</tit>
+        <id>118</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: موقف الدين من الماركسية</tit>
+        <id>120</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: ماذا فعلت الماركسية بالمسلمين</tit>
+        <id>124</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: المسلمون في الاتحاد السوفيتي</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: المسلمون في غير الاتحاد السوفيتي من البلاد الماركسية</tit>
+        <id>130</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: من الصين</tit>
+        <id>130</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: من يوغسلافيا</tit>
+        <id>132</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: من بلغاريا</tit>
+        <id>133</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا: من البانيا</tit>
+        <id>136</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خامسا: من الصومال</tit>
+        <id>138</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: كيف يعملون الآن في العالم الإسلامي</tit>
+        <id>139</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: التعريف بالصهيونية</tit>
+        <id>147</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث: الصهيونية&quot;اليهودية العالمية&quot;</tit>
+        <id>147</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: التعريف بالصهيونية ومنشؤها</tit>
+        <id>147</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: منشأ الصهيونية</tit>
+        <id>149</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: مقومات الصهيونية</tit>
+        <id>152</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: المقومات الدينية</tit>
+        <id>152</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: امتلاك فلسطين والأقطار المجاورة لها</tit>
+        <id>152</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: فكرة المسيح المنتظر</tit>
+        <id>154</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالث: اخضاع العالم لسلطان اليهود-شعب الله المختار</tit>
+        <id>155</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التعاليم السرية في التلمود والكبالا</tit>
+        <id>157</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: المقومات السياسية</tit>
+        <id>160</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السيطرة الفكرية</tit>
+        <id>163</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: مناهج الصهيونية ووسائلها</tit>
+        <id>163</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مناهج الحركة الصهيونية</tit>
+        <id>163</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السيطرة المالية</tit>
+        <id>165</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>السيطرة السياسية</tit>
+        <id>166</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>السيطرة العسكرية</tit>
+        <id>167</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: وسائل تنفيذ المناهج الصهيونية</tit>
+        <id>169</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>169</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بروتوكولات صهيون</tit>
+        <id>171</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>محاربة الصهيونية للإسلام</tit>
+        <id>177</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: المنظمات الصهيونية</tit>
+        <id>179</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>179</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>منظمات يهودية علنية</tit>
+        <id>180</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المنظمات السرية</tit>
+        <id>182</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحافل الماسونية</tit>
+        <id>182</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع: اتجاهات إسلامية</tit>
+        <id>188</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>188</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: إتجاهات قاصرة</tit>
+        <id>190</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>190</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: اتجاهات نحو العقيدة</tit>
+        <id>191</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: صواب البدء بالعقيدة</tit>
+        <id>191</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: خطا وخطر</tit>
+        <id>196</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الاقتصار على النسك</tit>
+        <id>198</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: مدارس العقل والعقلاء</tit>
+        <id>202</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: محاولة لخط إسلامى أصيل</tit>
+        <id>207</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: ضلال وقصور</tit>
+        <id>207</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: ضلال الاتجاهات الدخيلة</tit>
+        <id>207</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>212</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: أين الطريق</tit>
+        <id>212</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: الإنسان كله</tit>
+        <id>213</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الشريعة كلها</tit>
+        <id>217</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: جوانب شريعة الله</tit>
+        <id>218</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>218</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: العقيدة والأخلاق والشعائر</tit>
+        <id>219</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: جانب العقيدة</tit>
+        <id>219</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: جانب الأخلاق</tit>
+        <id>221</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: جانب الشعائر</tit>
+        <id>226</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: بقية الجوانب</tit>
+        <id>227</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>227</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>النظام الاقتصادى الإسلامي</tit>
+        <id>228</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>النظام السياسى الإسلامي</tit>
+        <id>243</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المراجع</tit>
+        <id>256</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفهرس</tit>
+        <id>258</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

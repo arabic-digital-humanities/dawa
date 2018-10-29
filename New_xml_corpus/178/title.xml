@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فكرة فصل الدين عن الدولة</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب مظاهر الغزو الفكري</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فكرة القوميات والعصبيات الجاهلية</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فكرة الوطنية</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فكرة العلمانية</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شعارات المدنية والحضارة والتقدم</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحركة النسائية وفكرة تحرير المرأة</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>برامج التعليم</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب وسائل الغزو الفكري</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وسائل الإعلام</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تنظيم القوى الكافرة والغازية والإهتمام بمراكز القوة</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: غسيل المخ والتيارات الفكرية</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإسلام والأسرار الكنسية</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقدمات الخاطئة وجنة الطغاة</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام الرأسمالي والماركسي</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النكبة العربية الكبرى</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلمانية في ماضيها وحاضرها</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وضع عميد الأدب العربي</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كاثوليكية أمين عثمان</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توبة خالد محمد خالد</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التفسير العصري بين لبنان ومصر</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دور لويس عوض</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>غسيل مخ المرأة بين الشيوعية والأمية</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لمحة خاطفة عن إله الشيوعيين</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام المفترى عليه بين الشرق والغرب</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المادية الجدلية جهل وجاهلية</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المادية الجدلية تهدم المجتمع الشيوعي</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فشل الماركسية اقتصاديا</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إنكار الدين</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اعتراف القادة السوفييت</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخيانة الوطنية</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كان قرار الحزب الشيوعي السوفيتي هو</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ولاء العرب لغيرهم خيانة وطنية</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تخطيط أمريكي</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>غسيل مخ العرب والتيارات الفكرية الحديثة</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أعداء الدين في الماضي والحاضر</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التيارات الحديثة في المجتمع</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: تيارات وافدة من الغرب</tit>
+        <id>30</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: تيارات وافدة من الشرق</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: تيارات عربية محلية</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رحماء بالأعداء أشداء فيما بينهم</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ماركسية نجيب محفوظ وكاثوليكية أمين عثمان</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الميراث ليس امتيازات بل هو أقوى اللبنات</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تناقض يكشفه التطبيق الشيوعي</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فاقد الشيء لا يعطيه</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السلف الصالح وجاهلية القرن العشرين</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأنبياء بين الرجعية والتقدمية</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جاهلية القرن العشرين ولعبة المضللين</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: إشهار إفلاس العلمانية العربية</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إشهار إفلاس العلمانية العربية</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: الخلط بين الإسلام والحكومة الدينية</tit>
+        <id>46</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الخلط بين نظام الخلافة وبين التشريع والمذاهب والأديان</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الخلط بين الإسلام والعلمانية</tit>
+        <id>49</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: لعنة الله والحصانة للعلماء والقضاء</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا: إزالة الشبهات عن الإسلام</tit>
+        <id>51</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سادسا: الإسلام والفصل بين السلطات</tit>
+        <id>51</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: الدكتور ليس صاحب فكر</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مفاهيم علمانية خاطئة</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: أين الديمقراطية يا أتباع العلمانية؟</tit>
+        <id>54</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: بدهيات لغة التخاطب</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: صاحب الأمر عند التنازع</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا: بين الفلسفة العقلية والوضعية</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سادسا: الكتاب والسنة مصدر التشريع</tit>
+        <id>58</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سابعا: عرف الصحافة والإعلان التجاري</tit>
+        <id>59</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإسلام والحكم والفصل بين السلطات</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: أين صكوك الغفران الإسلامية؟</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الأوروبيون وخصوم الإسلام</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الخلط بين نقد الإسلام ونقد دعاته</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: الخلط بين الإسلام وأعمال الحكام</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا: الإسلام والفصل بين السلطات</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سادسا: تكفير المخالف والإساءة إليه</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلمانية الأوروبية والعلمانية العربية</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: حقيقة العلمانية</tit>
+        <id>70</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: العقل بين الخلاف والاحتكام إلى السيف</tit>
+        <id>72</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أسباب الخلاف</tit>
+        <id>72</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الخلاف والسيف</tit>
+        <id>74</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بين العقل وشيطان الحرية</tit>
+        <id>75</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مستقبل العرب بين الإسلام والعلمانية العربية</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أوهام وتناقضات!!</tit>
+        <id>79</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: الخلط بين الإسلام والنظام البابوي</tit>
+        <id>79</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الخلط بين الوحي واجتهادات البشر</tit>
+        <id>80</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الخلط بين العقل والوحي</tit>
+        <id>81</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا: التلبيس في التربية والاجتماع</tit>
+        <id>81</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تحقيق أهداف المستشرقين</tit>
+        <id>82</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>خامسا: الطعن في نظام الشورى الإسلامي</tit>
+        <id>83</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مزاعم علمانية في صحف عربية</tit>
+        <id>84</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خليل حيدر والتطرف ودعوى قتل المسلمين ونهبهم</tit>
+        <id>85</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: الماركسية والواقع العربي</tit>
+        <id>88</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هدم المخيال الديني وإقامة العلمانية</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلمانية والثالوث اللادينى</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ادعاء المساواة وحتمية الماركسية</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كذب المادية الجدلية</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشورى بين اليمين واليسار</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المثقفون بين اليمين واليسار</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اليسار الإسلامي بين الحقيقة والوهم</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الوجه الشيوعي لليمن الجنوبي بين العلمانية واللادينية</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تجربة للتنفيذ بالسعودية ودول الخليج</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التطور المفاجئ</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ميثاق للوحدة اليمنية</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قيام الثورة في الشمال</tit>
+        <id>108</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>محسن العيني يكشف الحكم في الجنوب</tit>
+        <id>109</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإنجليز سلموا الحكم لـ (الجبهة القومية)</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>زعماء (الجبهة القومية) يرفضون رئاسة الدولة اليمنية المتحدة</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رأي القاضي الإرياني في الحزبية</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمل اليسار المصري</tit>
+        <id>111</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليمن الشعبية هي المثال</tit>
+        <id>111</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الثورة في الجزيرة والخليج</tit>
+        <id>112</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نداء من اليسار العربي بامتداد الثورة في الخليج العربي</tit>
+        <id>113</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الواقع اليمني والعلمانية</tit>
+        <id>114</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الطليعة واليمن الشمالي</tit>
+        <id>115</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بريطانيا وشيوعية عدن</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مراحل النمو الاقتصادي وحكام النخبة</tit>
+        <id>118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دور الحزب الشيوعي المصري</tit>
+        <id>120</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موسكو بين اليهود والمسلمين</tit>
+        <id>122</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصداقة العربية السوفياتية</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>منطق الروس في دفاعهم</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مطالب المسلمين في سيبيريا والسبب الحقيقي في هذه المواقف</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حجة داحضة</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلمون بين روسيا القيصرية وروسيا الماركسية</tit>
+        <id>125</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هدم البلاشفة للمساجد</tit>
+        <id>125</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صدمة القادة الروس من قوة الإيمان</tit>
+        <id>126</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بلاد الأئمة العشرة</tit>
+        <id>126</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الموقف من اليهود</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ماركس والمسألة اليهودية</tit>
+        <id>128</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>لينين والحركة الصهيونية</tit>
+        <id>129</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>موقف ستالين من اليهود الروس</tit>
+        <id>129</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الموقف العملي للماركسيين، بيان رسمي بعدم معاداة اليهود، وتخصيص إقليم لهم</tit>
+        <id>129</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>هل هي أسباب اقتصادية خلف هذا التناقض؟</tit>
+        <id>130</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الجواب في &quot; البروتوكولات &quot; و&quot; التوراة &quot;</tit>
+        <id>132</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الماركسية ربيبة اليهودية ودور يهود أمريكا</tit>
+        <id>132</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الشيوعية مخطط صهيوني</tit>
+        <id>133</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الشيوعية في التوراة</tit>
+        <id>133</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المكتب السوفياتي كله يهود</tit>
+        <id>133</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الصلة بين البروتوكولات والكتب المقدسة</tit>
+        <id>134</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيوعية الجنسية في التوراة</tit>
+        <id>134</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من كان له أذن للسمع فليسمع</tit>
+        <id>135</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>هل يفيق اليسار العربي؟</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تزوير المذهب المادي للتاريخ</tit>
+        <id>138</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: القيم الأخلاقية بين الإلحاد والعلمانية</tit>
+        <id>141</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>القيم الأخلاقية بين الإلحاد والعلمانية</tit>
+        <id>142</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطر الحرية الجنسية</tit>
+        <id>142</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أدب الجنس</tit>
+        <id>144</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مع الخطر البدني</tit>
+        <id>145</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الدور النسائي في المخطط الأنجلو - صهيوني</tit>
+        <id>146</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيطان الأخرس والجمعيات النسائية</tit>
+        <id>147</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خطر تقليد الإباحية الغربية</tit>
+        <id>148</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أين الطابع الشرقي والإسلامي؟</tit>
+        <id>148</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أين الجمعيات النسائية؟</tit>
+        <id>150</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إخضاع النفس للتجارب</tit>
+        <id>152</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المخطط الإسرائيلي وواجب العرب</tit>
+        <id>153</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أخلاق يهودية</tit>
+        <id>154</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>صفات وأخلاق يجب أن تنهزم</tit>
+        <id>155</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>السلطة وحدودها</tit>
+        <id>156</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أمية المثقف وحديث الصوم</tit>
+        <id>158</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إتلاف الخمور بين الشرعية القانونية والمصالح الفردية</tit>
+        <id>160</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أنقذوا كرامتنا المهانة باسم الفن والسياحة</tit>
+        <id>162</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السياحة والبغاء</tit>
+        <id>163</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>توصيات في سلة المهملات</tit>
+        <id>163</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>صلاة للسياح الهاربين</tit>
+        <id>163</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>احذروا وسائل الصهيونية</tit>
+        <id>164</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>موقف عثمان من الفتنة</tit>
+        <id>166</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>كتابات عبد الرحمن الشرقاوي والغزو الماركسي للتاريخ والسيرة</tit>
+        <id>166</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الغزو الماركسي للتاريخ والسيرة</tit>
+        <id>166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نحو مزيد من الصراع يا عرب فذلك هو المطلوب</tit>
+        <id>169</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مكانكم أيها المؤتمرون لبحث أزمة التطور الحضاري في الوطن العربي</tit>
+        <id>170</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مفهوم الدين في البيان</tit>
+        <id>171</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>لهجة عربية واتجاه أجنبي</tit>
+        <id>172</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ماذا يريد الماركسيون؟</tit>
+        <id>173</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تطوير القيم وأثره</tit>
+        <id>173</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: الفكر الإسلامي بين التأويل والتعطيل</tit>
+        <id>176</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حول هذا الفصل</tit>
+        <id>177</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحكم جزء من العقيدة والنقاب ليس بدعة والرجم حد شرعي ولا اجتهاد مع النص</tit>
+        <id>178</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: حد الرجم</tit>
+        <id>178</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الحكم بالإسلام</tit>
+        <id>179</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: حكم النقاب</tit>
+        <id>180</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: رد العقل للسنة</tit>
+        <id>182</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: بيت الطاعة ومخالفته للشريعة</tit>
+        <id>185</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خطاب مفتوح إلى رئيس الجمهورية حول مشاكل الأسرة</tit>
+        <id>185</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الطلاق وبيد من يكون</tit>
+        <id>186</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجلة المنصورة تحت عنوان &quot; الشريعة تحل مشاكل الأسرة &quot;</tit>
+        <id>189</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قوانين الأسرة بين ضعف النساء .. وعجز العلماء</tit>
+        <id>191</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القانون والمشروع المصري</tit>
+        <id>192</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرأة عدوة نفسها</tit>
+        <id>193</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>انعدام الصلاحية</tit>
+        <id>194</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مشكلة الطلاق</tit>
+        <id>195</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - إلغاء الطلاق</tit>
+        <id>196</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - إسناد الطلاق للمحكمة</tit>
+        <id>197</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>موقف الغرب من حظر الطلاق</tit>
+        <id>197</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - انحلال الأسرة بإرادة المرأة</tit>
+        <id>198</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - التأمين ضد الطلاق</tit>
+        <id>198</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الطلاق ومسؤولية القضاة</tit>
+        <id>199</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تحديد موقف العلمانيين والقوميين والإسلاميين</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عتاب أخوي فيما لا يقبل الخلاف وبدعة تعطيل سنة الآحاد</tit>
+        <id>206</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• ما لا يقبل الخلاف</tit>
+        <id>207</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• حكم القرآن الكريم</tit>
+        <id>209</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• المحكم وغيره في القرآن</tit>
+        <id>209</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• بين القرآن والسنة</tit>
+        <id>211</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• الإجماع والمصادر المختلف فيها</tit>
+        <id>212</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• القياس والاجتهاد البشري</tit>
+        <id>213</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حول الأخطاء الإصلاحية</tit>
+        <id>214</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاتهام الموجه إلى الشيخ محمد عبده ومدرسته</tit>
+        <id>214</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تأويل صريح القرآن</tit>
+        <id>215</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحقيق أهداف المستشرقين</tit>
+        <id>216</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التطاول على الصحابة وتكفير المسلم</tit>
+        <id>217</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس: الحكومة الدينية بين الإسلام والعلمانية</tit>
+        <id>221</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقيقة الإسلام والعلمانية</tit>
+        <id>222</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول الأمة مصدر السلطات</tit>
+        <id>224</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الديمقراطية وغسيل المخ العربي</tit>
+        <id>224</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخلاف الرفيع وتحديد المفاهيم</tit>
+        <id>225</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأمة الإسلامية ومصدر السلطات</tit>
+        <id>226</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سلطة تفسير القرآن والسنة</tit>
+        <id>227</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحقوق الضائعة بين السلطة والعلمانية</tit>
+        <id>228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وقفة موضوعية وأخوية مع العلمانية والوطنية</tit>
+        <id>229</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• أولا: التطرف وحقوق الجماعات الدينية</tit>
+        <id>230</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>• ثانيا: تطبيق الشريعة والوحدة الوطنية</tit>
+        <id>232</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>• ثالثا: رجال الدين والشؤون العامة</tit>
+        <id>233</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خصائص الدستور الإسلامي</tit>
+        <id>235</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدستور الإسلامي بين الدساتير الحديثة</tit>
+        <id>235</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإسلام ونظرية السيادة</tit>
+        <id>236</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شبهات حول الدستور الإسلامي</tit>
+        <id>237</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توجيه إلى الإسلاميين</tit>
+        <id>238</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وقفة موضوعية مع الدكتور محمد خلف الله</tit>
+        <id>239</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وقفة أخوية مع الدكتور خلف الله: بين الإسلام وحكومة الكهنوت</tit>
+        <id>242</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: حقيقة أقوال الفقهاء</tit>
+        <id>243</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: طبيعة الحكومة الإسلامية</tit>
+        <id>244</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: بين النبوة والحكومة الدينية</tit>
+        <id>245</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: الحكم الإسلامي والحكومة الدينية</tit>
+        <id>245</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا: الإسلام والدين والدولة</tit>
+        <id>246</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سادسا: جعل الدكتور خلف الله رده بعنوان</tit>
+        <id>247</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وقفة نهائية مع الدكتور محمد خلف الله: النبي والدولة .. والاجتهاد والنص</tit>
+        <id>249</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>• أولا: السنة وقيام الدولة في عصر النبي</tit>
+        <id>249</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>• ثانيا: النبي والدين والدولة</tit>
+        <id>251</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القومية والقرآن العصري بين خلف الله وسيف الدولة</tit>
+        <id>254</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>علاقة الإسلام بالعروبة</tit>
+        <id>254</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإسلام والقومية</tit>
+        <id>255</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الهدف من الإسلام</tit>
+        <id>256</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقيقة فكر الدكتور خلف الله</tit>
+        <id>257</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إقليمية الرسالة</tit>
+        <id>257</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>براءة القرآن من أركسة القوميين</tit>
+        <id>258</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الثيوقراطية بين الإسلام وحكومة رجال الدين</tit>
+        <id>262</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام والحق الإلهي المقدس</tit>
+        <id>263</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طبيعة الحكم الإسلامي</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حوار حول المفهوم الإسلامي لحاكمية الله</tit>
+        <id>264</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ليس صحيحا أن الحاكمية حكومة كهنوت</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المفهوم الإسلامي للحاكمية</tit>
+        <id>266</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: بين الحكومة الإلهية وحاكمية الله</tit>
+        <id>266</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: السلطة للأمة والتشريع من الله</tit>
+        <id>268</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: السيادة بين الإسلام والعلمانية</tit>
+        <id>268</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا: الدولة بين الحكم والقضاء</tit>
+        <id>271</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفهرس</tit>
+        <id>274</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

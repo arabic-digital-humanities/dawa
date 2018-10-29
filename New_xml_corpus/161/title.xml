@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: الحياة.. وهذا الصراع بين الأحياء</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: الشيح.. وراية الجهاد</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: في ميدان الجهاد</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: صراع بين الحق والباطل</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: الدعوة والثائرون عليها</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

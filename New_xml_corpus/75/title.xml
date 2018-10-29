@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الفصل الأول الإنسانية في الاحتضار</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول العصر الجاهلي</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني النظام السياسي والمالي في العصر الجاهلي</tit>
+        <id>50</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني من الجاهلية إلى الإسلام</tit>
+        <id>61</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول منهج الأنبياء في الإصلاح والتغيير</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني رحلة المسلم من الجاهلية إلى الإسلام</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث المجتمع الإسلامي</tit>
+        <id>78</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع كيف حول الرسول خامات الجاهلية إلى عجائب الإنسانية</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول عهد القيادة الإسلامية</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث العصر الإسلامي</tit>
+        <id>89</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الانحطاط في الحياة الإسلامية</tit>
+        <id>103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث دور القيادة العثمانية</tit>
+        <id>115</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع العصر الأوربي</tit>
+        <id>125</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول أوربا المادية</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الجنسية والوطنية في أوربا</tit>
+        <id>158</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث أوربا إلى الانتحار</tit>
+        <id>172</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع رزايا الإنسانية المعنوية في عهد الاستعمار الأوربي</tit>
+        <id>185</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس قيادة الإسلام للعالم</tit>
+        <id>209</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول نهضة العالم الإسلامي</tit>
+        <id>209</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني زعامة العالم العربي</tit>
+        <id>224</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>لمحة لغوية</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سر الإهتمام بالشباب</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لماذا نعد الشباب؟</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشباب عنوان الأمة</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مظاهر الاهتمام بالشباب</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إشادة وتكريم</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشباب والتقليد</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>واجب الآباء</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العلماء والشباب</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

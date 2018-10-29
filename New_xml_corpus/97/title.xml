@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة الأولى الابتعاد عن الغضب والاستعجال</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة الثانية التأني في الفتيا ودفعها إلى أهلها</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة الثالثة الرفق والأناة والحلم</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة الرابعة اجتماع الكلمة عند الفتن</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة الخامسة السمع والطاعة لولاة الأمر</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة السادسة توقير العلماء ومعرفة مكانتهم في الدين</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة السابعة الاعتبار والعظة بتاريخ الأمم السابقة</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة الثامنة عدم الركون إلى الإعلام المغرض</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة التاسعة الالتزام بأمر الإمام في الدعوة إلى الجهاد</tit>
+        <id>32</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السمة العاشرة سلامة ألسنتنا من الطعن في الصحابة رضي الله عنهم</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

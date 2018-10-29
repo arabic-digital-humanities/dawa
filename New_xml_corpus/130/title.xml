@@ -1,0 +1,2558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>إهداء</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إهداء خاص</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقديم</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول البعد الديني للتحيز البريطاني الأمريكي لإسرائيل</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسباب التحيز البريطاني الأمريكي لإسرائيل</tit>
+        <id>17</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حساب المصالح</tit>
+        <id>18</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نفوذ اللوبي الصهيوني</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصوت الانتخابي اليهودي</tit>
+        <id>22</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تضخيم في غير محله</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول اليهود في التراث الديني المسيحي</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقف الكنيسة الكاثوليكية من اليهود</tit>
+        <id>26</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العهد القديم</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موقف الكنيسة الكاثوليكية من الحركة الصهيونية وإسرائيل</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موقف البروتستانت من اليهود</tit>
+        <id>39</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني بريطانيا والمشروع الصهيوني</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطالبة بإعادة اليهود إلى فلسطين</tit>
+        <id>46</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأفكار الصهيونية تغزو عقول الطبقات المثقفة</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تغير في الأفكار</tit>
+        <id>48</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اللورد شافتسبرى</tit>
+        <id>49</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليهود في الأدب الإنجليزي</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السياسيون والبعث اليهودي</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اللورد بالمستون</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القس وليام هشلر</tit>
+        <id>59</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث ظهور الحركة الصهيونية</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1ـ يهودا الكعى (1798ـ1878م)</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2ـ تسفى هيرش كاليشر (1795ـ1874م)</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هرتسل ومؤتمر بازل</tit>
+        <id>69</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>اللجنة الملكية لهجرة الغرباء</tit>
+        <id>72</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>وعد بلفور</tit>
+        <id>73</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>هربرت صموئيل ومستقبل فلسطين</tit>
+        <id>74</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الدافع الديني ووعد بلفور</tit>
+        <id>75</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>صهيونية لويد جورج</tit>
+        <id>76</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الانتداب البريطاني وتسليم فلسطين</tit>
+        <id>77</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>هربرت صموئيل</tit>
+        <id>79</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الضباط البريطانيون ... وبناء الجيش الإسرائيلي</tit>
+        <id>79</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>وينغيت والتفسير العسكري للتوراة</tit>
+        <id>80</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الدافع الديني للتحيز</tit>
+        <id>82</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع أمريكيا والمشروع الصهيوني</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هجرة البروتستانت إلى أمريكيا</tit>
+        <id>84</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفكر الأمريكي والبعث اليهودي</tit>
+        <id>87</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السامري على الدولار</tit>
+        <id>88</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وخاتم داود</tit>
+        <id>89</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا مهد الصهيونية</tit>
+        <id>90</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رؤساء أمريكا والبعث اليهودي</tit>
+        <id>91</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جورج واشنطن</tit>
+        <id>92</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توماس جيفرسون</tit>
+        <id>93</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جيمس ماديسون</tit>
+        <id>94</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الرئيس المنصر جون كوينسي آدمز</tit>
+        <id>95</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أندرو جاكسون .. وخرافة المعاد</tit>
+        <id>97</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أول تدخل لنصرة اليهود خارج أمريكا</tit>
+        <id>97</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العمل من أجل تحقيق النبوءات التوراتية</tit>
+        <id>98</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>يهودي يوبخ الرئيس</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فرانكلين بيرس</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكيا تعاقب سويسرا من أجل اليهود</tit>
+        <id>102</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جمعية بنى بريث (أبناء العهد)</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجماعات المسيحية الصهيونية خلال القرن التاسع عشر</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جماعة أخوة المسيح</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جمعية شهود يهوه</tit>
+        <id>104</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اندرو جونسون</tit>
+        <id>105</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>يوليسيس جرانت</tit>
+        <id>106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هايز وإجازة السبت</tit>
+        <id>106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أول يهودي يمثل أمريكا في مصر ..</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المشيخية في البيت الأبيض</tit>
+        <id>108</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وليم بلاكستون والبعثة العبرية نيابة عن إسرائيل</tit>
+        <id>109</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الرئيس هايسون ومظلمة بلا كستون</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحكومات الأمريكية والمطالب الصهيونية</tit>
+        <id>112</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الرئيس ويلسون</tit>
+        <id>113</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خلفاء ويلسون</tit>
+        <id>114</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مركز ثقل الصهيونية ينتقل إلى أمريكيا</tit>
+        <id>115</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العمل من أجل إلغاء الكتاب الأبيض</tit>
+        <id>116</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>روزفلت والأفكار الصهيونية</tit>
+        <id>118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ترومان ـ قورش ـ العصر الحديث!</tit>
+        <id>119</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرب عام 1948 م</tit>
+        <id>121</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اتفاقية الهدنة</tit>
+        <id>121</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صهيونية ترومان</tit>
+        <id>122</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المساعدات الأمريكية لإسرائيل</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ايزنهاور</tit>
+        <id>126</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جون كنيدى الرئيس الكاثوليكي الوحيد</tit>
+        <id>127</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العداء للكاثوليك</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سميث الكاثوليكي يخسر انتخابات 1928 امام هوفر البروتستانتي</tit>
+        <id>130</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كيندي يبحث عن مخرج</tit>
+        <id>132</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كيندي ومحاولة الإصلاح</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نهاية كنيدي</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ليندون جونسون</tit>
+        <id>140</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مستقبل إسرائيل والعالم؟!</tit>
+        <id>141</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ريتشارد نيكسون والانتحار السياسي</tit>
+        <id>143</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جيمي كارتر ينفذ أمرا إلهيا</tit>
+        <id>145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ريجان ومعركة هرمجيدون!</tit>
+        <id>147</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ريجان والتزامه الديني</tit>
+        <id>149</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس تنامي التيار الديني المسيحي الأصولي في أمريكيا</tit>
+        <id>150</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسباب البركة في أمريكيا</tit>
+        <id>151</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إسرائيل مفتاح أمريكيا للبقاء!</tit>
+        <id>152</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكيا قوية لأنها تقف مع إسرائيل!</tit>
+        <id>153</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القول مقرون بالعمل</tit>
+        <id>154</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السفارة المسيحية الدولية</tit>
+        <id>155</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جورج بوش الأب ... قرارات تتخذ لتنفذ</tit>
+        <id>158</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الولادة الثانية والنشوة المطلقة</tit>
+        <id>160</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني البعد الديني للضربة الأمريكية للعراق</tit>
+        <id>164</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول الطريق إلى حرب الخليج</tit>
+        <id>165</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بريطانيا وجذور الحرب على العراق</tit>
+        <id>166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مقدمات الحرب على العراق</tit>
+        <id>169</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب الجديدة</tit>
+        <id>172</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب الاقتصادية والإعلامية</tit>
+        <id>173</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الهدف حماية إسرائيل وليس تحرير الكويت!!</tit>
+        <id>179</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إنجازات صدام</tit>
+        <id>181</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إعدام صدام حسين</tit>
+        <id>185</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الخلفية الدينية للهجمة الأمريكية البريطانية على العراق</tit>
+        <id>187</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أحقاد قديمة بثوب معاصر</tit>
+        <id>190</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وحي بشأن نينوى، كما ورد في كتاب رؤيا ناحوم الالقوشى</tit>
+        <id>191</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوراة وآشور العراق</tit>
+        <id>191</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خطايا نينوى</tit>
+        <id>192</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صرخة الخراب</tit>
+        <id>192</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الدمار المحتم</tit>
+        <id>193</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحقد على بابل</tit>
+        <id>194</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نبوءة عن دمار بابل 13</tit>
+        <id>195</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>يوم الرب المقبل 9</tit>
+        <id>195</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إدانة ملك بابل</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سقوط بابل</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سقوط بابل بيد الماديين</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>يوحنا وحقده على بابل</tit>
+        <id>197</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جام الغضب على الفرات وعلى تل مجدو</tit>
+        <id>198</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سقوط بابل (رؤيا، 18)</tit>
+        <id>199</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كورش وإعادة اليهود المسبيين</tit>
+        <id>199</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثأر اليهود من العراق</tit>
+        <id>200</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العبرانيون بنو اسرائيل</tit>
+        <id>204</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الأصولية المسيحية وفكرة عودة المسيح</tit>
+        <id>204</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حركة الأنبياء (ثقافة الانفتاح)</tit>
+        <id>210</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السبي البابلي</tit>
+        <id>211</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حياة السبي وأثرها في تشكيل الشخصية اليهودية</tit>
+        <id>213</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تاريخ بالتمني</tit>
+        <id>216</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فكرة الشعب المختار</tit>
+        <id>220</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رؤيا الخلاص والمسيح اليهودي</tit>
+        <id>225</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من التشرد إلى الرغبة بحكم العالم</tit>
+        <id>229</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فكرة المسيح المخلص ونهب أساطير الشعوب الأخرى</tit>
+        <id>231</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السبي البابلي وظهور النزعة القبلية المغلقة</tit>
+        <id>236</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عيسى المسيح عليه السلام</tit>
+        <id>240</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عيسى ليس المسيح المنتظر</tit>
+        <id>247</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ديانة المسيح أم ديانة بولس ويوحنا؟</tit>
+        <id>250</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فكرة العودة الثانية للمسيح</tit>
+        <id>255</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سفر الرؤيا والمسيح اليهودي</tit>
+        <id>256</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تفسير المتناقضات</tit>
+        <id>262</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الانقلاب البروتستانتي</tit>
+        <id>263</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العقيدة التدبيرية من دابي إلى سكوفيلد</tit>
+        <id>264</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عندما تختلط الأساطير بالنبوءات</tit>
+        <id>267</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع عقيدة الهرمجدون أو معركة (مجدو)</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مجدو</tit>
+        <id>270</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سفر الرؤيا ومعركة هرمجيدون</tit>
+        <id>273</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصوليون المسيحيون وهرمجيدون</tit>
+        <id>275</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سيناريو هرمجيدون حسب (سفر الرؤيا)</tit>
+        <id>277</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>علامات ومقدمات معركة هرمجدون العظمى؟!</tit>
+        <id>281</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هجرة اليهود إلى فلسطين</tit>
+        <id>282</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسيح يدعوك لتبني مستوطنة</tit>
+        <id>283</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تدمير الأقصى</tit>
+        <id>285</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بناء الهيكل</tit>
+        <id>287</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المقاومة الفلسطينية</tit>
+        <id>288</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عودة الفوضى وحدوث كوارث وانهيار اقتصادي</tit>
+        <id>289</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السلام يحل بعودة المسيح فقط</tit>
+        <id>290</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هرمجيدون في العقل البروتستانتي</tit>
+        <id>292</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعجيل بقدوم المسيح</tit>
+        <id>295</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رونالد ريجان، والحكايات الخرافية عن هرمجدون</tit>
+        <id>298</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>محور الخير .. ومحور الشر (أبناء النور وأبناء الظلام)</tit>
+        <id>303</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرب يأجوج ومأجوج</tit>
+        <id>308</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبشرون البروتستانت والنية القاتلة</tit>
+        <id>309</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نفوذ الجماعات المسيحية</tit>
+        <id>311</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس التراث الذي تركه الكتاب المقدس للشرق الأوسط</tit>
+        <id>314</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من هو عدو المسيح (وحش الرؤيا)؟</tit>
+        <id>316</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التفسير السياسي للتوراة</tit>
+        <id>318</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصير مصر</tit>
+        <id>320</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصير العرب</tit>
+        <id>320</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نبوءة بشأن مصر</tit>
+        <id>321</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دينونة مصر بيد ملك بابل</tit>
+        <id>325</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ريجان وليبيا</tit>
+        <id>328</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تقسيم لبنان</tit>
+        <id>330</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نبوءة ضد صور</tit>
+        <id>331</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>غزو لبنان مستمد من التوراة</tit>
+        <id>332</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تقسيم سوريا والعراق وتحطيم قوتهما</tit>
+        <id>334</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقد يهوه على الفلسطينيين</tit>
+        <id>336</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نبوءة بشأن أدوم (الأردن)</tit>
+        <id>336</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نبوءة بشأن الجزيرة العربية</tit>
+        <id>338</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوراة وكيفية التعامل مع الآخرين</tit>
+        <id>340</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إسرائيل وشارون ونادي القتلة</tit>
+        <id>344</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس النظام الدولي الجديد ووعود حرب الخليج</tit>
+        <id>349</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الوسيط المخادع</tit>
+        <id>350</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وعود حرب الخليج</tit>
+        <id>350</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظام الدولي الجديد عزز الانحياز الأمريكي لإسرائيل</tit>
+        <id>352</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اتفاقيات أوسلو تفكيك الصراع وكمائن الاتفاقيات</tit>
+        <id>356</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكونغرس ونقل السفارة الأمريكية إلى القدس!</tit>
+        <id>357</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بل كلينتون</tit>
+        <id>359</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخلفية الدينية لبل كلينتون ... !!</tit>
+        <id>360</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كلينتون ومونيكا وضرب العراق</tit>
+        <id>363</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حصار العراق والقيام بعمل الرب!!</tit>
+        <id>363</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث حملة بوش الصليبية على العالم الإسلامي وعلاقتها بمخطط إسرائيل الكبرى</tit>
+        <id>370</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول الدين والدولة</tit>
+        <id>371</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أمريكا دوله لها روح كنيسة</tit>
+        <id>371</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصولية المسيحية وعلمانية الغرب</tit>
+        <id>372</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رأى فولتير وكانط</tit>
+        <id>375</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نسق الدين ونشأة النظام الرأسمالي عند ماكس فيبر</tit>
+        <id>378</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دور الدين في الحياة الأمريكية</tit>
+        <id>380</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الديني والعلماني</tit>
+        <id>388</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصولية الأمريكية المتطرفة</tit>
+        <id>391</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>علاقة الدين بالدولة الأمريكية الحديثة</tit>
+        <id>393</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصولية المسيحية والنظام الدولي الجديد</tit>
+        <id>397</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظام الدولي الجديد .. والنظرية الكونية للتاريخ</tit>
+        <id>398</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب الباردة وحلم تأسيس إمبراطورية أمريكية</tit>
+        <id>401</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عصر التنوير الجديد</tit>
+        <id>404</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ولادة النظام العالمي الجديد</tit>
+        <id>405</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هدف ثابت وصياغات متغيرة</tit>
+        <id>408</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الإسلام عدو بديل</tit>
+        <id>408</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تبدل الصياغة وصناعة صورة العدو</tit>
+        <id>416</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تصريحات ومواقف</tit>
+        <id>418</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظرية صراع الحضارات</tit>
+        <id>421</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظرية هنتنغتون الجديدة</tit>
+        <id>423</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحملة على الإرهاب</tit>
+        <id>425</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحديد الهدف .. ما هو &quot;الإرهاب الإسلامي&quot;؟</tit>
+        <id>428</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التطبيق العسكري والأمني للشعار</tit>
+        <id>431</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث جورج بوش والدولة الصليبية</tit>
+        <id>434</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بوش .. طغيان الحماس الديني على البصيرة السياسية</tit>
+        <id>436</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>آل بوش</tit>
+        <id>437</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>غباء بوش</tit>
+        <id>438</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عائلة بوش ومنظمة الجماجم والعظام</tit>
+        <id>439</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإعداد لترشيح بوش للانتخابات</tit>
+        <id>443</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تزوير الانتخابات</tit>
+        <id>444</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من مقارعة الخمر إلى الأصولية المسيحية</tit>
+        <id>445</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جدلية الدين والسياسة في تفكير الرئيس بوش</tit>
+        <id>449</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مكانة بوش على الخريطة الدينية الأميركية</tit>
+        <id>451</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>علاقة بوش مع الكنيسة الكاثوليكية</tit>
+        <id>451</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوش واليهود وإسرائيل</tit>
+        <id>453</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوش والمسلمين</tit>
+        <id>463</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوش والحرب الصليبية</tit>
+        <id>466</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوش يركب الزوبعة ويوجهه العاصفة</tit>
+        <id>468</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موت الشرير</tit>
+        <id>468</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إعلان الحرب من كاتدرائية</tit>
+        <id>468</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع أفغانستان .. بدايتها جهاد .. ونهايتها إرهاب</tit>
+        <id>471</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إعداد المسرح .. !</tit>
+        <id>471</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بريجنسكى يكشف المستور</tit>
+        <id>473</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سيناريو جاهز</tit>
+        <id>476</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قبيلة الإستراتيجيين الأمريكيين والإبقاء على السيطرة على العالم</tit>
+        <id>479</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اللجنة الثلاثية واستراتيجيتها للقرن الحادي والعشرين</tit>
+        <id>481</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أزمة كيسنجر الاقتصادية تتطلب حربا</tit>
+        <id>482</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بريجنسكى ورقعة الشطرنج العظمى</tit>
+        <id>484</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجموعة الهوس الديني / المحافظون الجدد</tit>
+        <id>486</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بول ولفويتز والنظام العالمي الجديد</tit>
+        <id>490</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إستراتيجية إمبريالية كبرى</tit>
+        <id>490</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب غير المتوازنة</tit>
+        <id>491</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مغزى أحداث 11 سبتمبر</tit>
+        <id>495</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب على الإرهاب ـ ضرب أفغانستان</tit>
+        <id>497</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ذهنية الإرهاب .. لماذا يقاتلون بموتهم؟</tit>
+        <id>500</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فرضيات حول الإرهاب</tit>
+        <id>501</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس اللعبة الكبرى .. يعملها الأمريكان ويقع فيها المسلمون!</tit>
+        <id>503</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أضواء أخرى ... على ما حدث في 11 سبتمبر</tit>
+        <id>503</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التقرير الألماني</tit>
+        <id>506</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسئلة مريبة</tit>
+        <id>507</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لا توجد جريمة كاملة</tit>
+        <id>508</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مشروع إلكتروني سرى</tit>
+        <id>513</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فكرة استخدمت للجريمة</tit>
+        <id>514</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حادث الطائرة المصرية</tit>
+        <id>516</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لا صحة لسقوط طائرة على البنتاجون</tit>
+        <id>517</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الطائرات لم تدمر برج التجارة العالمي</tit>
+        <id>518</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أدلة أخرى</tit>
+        <id>520</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>محاولات تزييف التحقيقات</tit>
+        <id>521</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عدم الثقة بالتحقيقات الأمريكية</tit>
+        <id>526</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فضائح تحقيقات FBI</tit>
+        <id>527</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب الكشف عن المجرم</tit>
+        <id>529</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خطاب لاروش حجة قوية</tit>
+        <id>529</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>محاضرة لضابط سابق في شرطة لوس انجلوس</tit>
+        <id>533</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إدوارد اسبانوس (رئيس تحرير انتلجنس ريفيو)</tit>
+        <id>534</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مقتل المسئول الأول عن مطارة ابن لادن</tit>
+        <id>535</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا يمكن أن تضرب نفسها</tit>
+        <id>536</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ولكن ما العمليات التي كانت رئاسة الأركان الأمريكية تخطط لها؟</tit>
+        <id>536</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فيلم القبلة الطويلة</tit>
+        <id>538</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لورانس رايت وفلم (حالة طوارئ)</tit>
+        <id>539</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توصية بافتعال عمليات إرهابية لاصطياد المطلوبين</tit>
+        <id>540</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقيقة ما حدث</tit>
+        <id>541</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>انقلاب عسكري</tit>
+        <id>542</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شيفرة السر النووي</tit>
+        <id>543</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اختفاء بوش وهروبه</tit>
+        <id>544</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحادي عشر من سبتمبر والإمبراطورية الأميركية</tit>
+        <id>545</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تجاهل الأدلة</tit>
+        <id>546</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الهيمنة على العالم</tit>
+        <id>546</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أين الحطام؟</tit>
+        <id>547</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تفجير متحكم به</tit>
+        <id>547</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤلفو الكتاب</tit>
+        <id>547</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إستراتيجية التوتر</tit>
+        <id>548</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>غسيل الدماغ</tit>
+        <id>548</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>غسيل الدماغ</tit>
+        <id>549</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس من المستفيد ... ومن يقف وراء الحادث؟</tit>
+        <id>556</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأضرار التي لحقت بالمسلمين</tit>
+        <id>560</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تفجيرات 11 سبتمبر/ بين بوش وشارون</tit>
+        <id>562</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سيناريو ضلوع إسرائيل في أحداث 11 سبتمبر</tit>
+        <id>563</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اتهام أمريكي مباشر لـ (إسرائيل)</tit>
+        <id>563</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إرهاب الموساد ضد أمريكا</tit>
+        <id>566</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التزييف الرسمي لحقيقة حادث (ليبرتي)</tit>
+        <id>567</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شارون وأحداث سبتمبر</tit>
+        <id>571</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجماعات المسيحية المتطرفة وأحداث 11 سبتمبر</tit>
+        <id>572</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حوادث لها دلالات</tit>
+        <id>577</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إنتحاريون من أجل هرمجيدون</tit>
+        <id>580</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تيموثي ماكفي / اليمين المسيحي المتطرف</tit>
+        <id>583</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والآن كيف تمت الجريمة؟</tit>
+        <id>584</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع أسامة بن لادن .. وصناعة صورة العدو</tit>
+        <id>588</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القاضي والجنرال</tit>
+        <id>589</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حروب البرابرة</tit>
+        <id>591</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في انتظار القاعدة .. وابن لادن</tit>
+        <id>593</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قصة تنظيم القاعدة</tit>
+        <id>595</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ابن لادن في السودان</tit>
+        <id>597</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الالتقاء مع جماعات إسلامية والكفاح ضد أميركا</tit>
+        <id>597</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طريد المخابرات العالمية</tit>
+        <id>598</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صناعة صورة العدو</tit>
+        <id>599</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خرافة السوبر مان مقابل الدولة الأعظم</tit>
+        <id>601</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أحداث 11 سبتمبر</tit>
+        <id>603</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسؤولية عن هجمات 11 سبتمبر في خطابات بن لادن</tit>
+        <id>605</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لغز اختفاء بن لادن!</tit>
+        <id>607</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الزرقاوي .. لغز جديد</tit>
+        <id>608</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تزويد الأنفاق بالظلام</tit>
+        <id>611</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تنظيمات عبثية</tit>
+        <id>615</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توظيف الدين بين بوش وبن لادن</tit>
+        <id>617</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حذار الحرب الصليبية الجديدة</tit>
+        <id>620</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوش يركب الزوبعة .. ويوجه العاصفة لتدمير العراق</tit>
+        <id>623</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثامن حرب الخليج الثالثة</tit>
+        <id>623</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحرب على العراق</tit>
+        <id>624</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مسار أزمة العراق</tit>
+        <id>627</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القضاء على التفتيش</tit>
+        <id>627</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أحداث 11 سبتمبر ـ بوش يعلن حربا في كل الاتجاهات</tit>
+        <id>629</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الهدف تغيير نظام الحكم</tit>
+        <id>632</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>محاولة ربط العراق بالقاعدة</tit>
+        <id>632</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تدين بوش وخطة غزو العراق</tit>
+        <id>635</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في مهمة إلهيه حرب جورج بوش الصليبية</tit>
+        <id>637</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصراع بين الخير والشر</tit>
+        <id>639</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوش و معركة هرمجدون كما جاءت في سفر اشعياء</tit>
+        <id>640</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لاري فلايشر يهدد صدام بما كتب على الحائط</tit>
+        <id>643</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصدمة والرعب</tit>
+        <id>645</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النسر النبيل</tit>
+        <id>646</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصلاة مع ومن أجل الرئيس بوش</tit>
+        <id>647</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>استغلال المسيحية لتبرير الغزو</tit>
+        <id>649</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اعتراضات من داخل المسيحية</tit>
+        <id>651</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رفض الحلول والسعي للحرب</tit>
+        <id>654</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب رفض العالم للحرب</tit>
+        <id>657</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>معارضة فرنسا للحرب</tit>
+        <id>658</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بيلير وتشرشل .. التاريخ يعيد نفسه</tit>
+        <id>659</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التخطيط لضرب العراق</tit>
+        <id>662</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هكذا سوقت أمريكا حربها ضد العراق</tit>
+        <id>665</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حملة أمريكا الإعلامية لتمرير الحرب</tit>
+        <id>666</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تضليل الرأي العام</tit>
+        <id>667</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صناعة الأكاذيب وحمايتها - لعبة الترويج والإسكات والتضليل</tit>
+        <id>670</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حماية الأكاذيب</tit>
+        <id>671</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ديفيد كيلي</tit>
+        <id>671</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكذبات العشر</tit>
+        <id>673</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أكاذيب (باول) وتوني بلير وازنار</tit>
+        <id>677</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تاريخ الدولة الأمريكية العريق مع الأكاذيب والتضليل الإعلامي</tit>
+        <id>678</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا تخفي خسائرها في العراق</tit>
+        <id>679</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرتزقة - قوات (غرين كارد)</tit>
+        <id>680</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دول مرتزقة</tit>
+        <id>681</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروباغاندا والتشويه الإعلامي في الحرب على العراق</tit>
+        <id>682</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإعلام والحرب النفسية</tit>
+        <id>684</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل التاسع تدمير حضارة العراق</tit>
+        <id>687</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>غزو العراق بين هولاكو وبوش</tit>
+        <id>687</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مقارنه بين غزو التتار والمغول لبغداد , والغزو الأمريكي البريطاني الحالي</tit>
+        <id>691</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تدمير حضارة العراق</tit>
+        <id>693</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحذيرات قبل الحرب</tit>
+        <id>696</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأمريكيون .. متفرجون أم متواطئون؟</tit>
+        <id>698</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إدانة عالمية لوقوع الآثار في العراق بين أيدي لصوص الحضارات!!</tit>
+        <id>699</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أيد إسرائيلية</tit>
+        <id>701</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العمق الحقيقي للحرب ـ مقصلة الكبرياء</tit>
+        <id>702</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وماذا بعد</tit>
+        <id>705</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإرهاب .. صناعة أمريكية</tit>
+        <id>710</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع أمريكا ... تاريخ من الغزو والإرهاب</tit>
+        <id>710</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول الارهاب الامريكي في ظل العهد القديم</tit>
+        <id>710</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أمريكا .. تاريخ من العنصرية والمآسي الإنسانية</tit>
+        <id>712</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصادر الهوية الوطنية الأمريكية</tit>
+        <id>713</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أرض الميعاد والدولة الصليبية</tit>
+        <id>715</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العهد القديم الأمريكي (الإرهاب ضد الهنود والزنوج)</tit>
+        <id>716</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إبادة الهنود الحمر</tit>
+        <id>717</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مفارقة التوماهوك</tit>
+        <id>719</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب الجرثومية</tit>
+        <id>725</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>استعباد الزنوج</tit>
+        <id>727</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التبرير الديني للنهب والسلب والإبادة</tit>
+        <id>734</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكيا ولاهوت الاستعمار العبراني</tit>
+        <id>742</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثقافة أهل الحدود</tit>
+        <id>746</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>السير على هدى وصايا يهوه</tit>
+        <id>752</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التباين في الثروات</tit>
+        <id>754</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا تقف في صف الله وتنفذ إرادته</tit>
+        <id>757</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أرض الحرية مسكونة بـ كوابيس العنصرية</tit>
+        <id>760</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النازية في ثوب جديد</tit>
+        <id>762</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الإرهاب الأمريكي في ظل العهد الجديد</tit>
+        <id>765</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ويليام ماكنلى) أول رئيس امبريالي</tit>
+        <id>771</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا ترمي إسبانيا في البحر</tit>
+        <id>771</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>روزفلت وسياسة العصا الغليظة</tit>
+        <id>775</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرب كل عام</tit>
+        <id>776</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ويلسون والخضوع لحقنا باستغلالهم ونهبهم</tit>
+        <id>777</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب العالمية الأولى والسيطرة على أوروبا</tit>
+        <id>778</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>زعامة العالم</tit>
+        <id>780</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب البارة</tit>
+        <id>782</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصراع العربي الإسرائيلي</tit>
+        <id>785</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ريجان والأمة المباركة</tit>
+        <id>786</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جذور الحرب</tit>
+        <id>787</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إرهاب التسعينيات وحرب العراق الأولى</tit>
+        <id>793</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الألفية الثالثة والدولة المارقة</tit>
+        <id>796</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا .. ذلك الوجه الآخر!</tit>
+        <id>798</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ضرب المدنيين</tit>
+        <id>799</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هوريشيما وناغازاكي</tit>
+        <id>799</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرب فيتنام</tit>
+        <id>800</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عولمة الإرهاب الأمريكي</tit>
+        <id>801</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرب على الإرهاب</tit>
+        <id>803</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لاهوت الهيمنة الأمريكية</tit>
+        <id>804</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الارهاب الأمريكي الداخلي</tit>
+        <id>806</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النشاط الإرهاب الداخلي</tit>
+        <id>806</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أفراد الميليشيات وأفكارها</tit>
+        <id>808</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الميليشيات المسيحية الأمريكية .. هواية القتل اللذيذ</tit>
+        <id>810</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قائمة بأهم الميليشيات الإرهابية الأمريكية</tit>
+        <id>811</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>منظمات إرهابية أمريكية</tit>
+        <id>814</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من تكساس ظهرت منظمة الكوكلاكس كلان وجورج بوش</tit>
+        <id>815</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ويليام جوزيف سيمون مؤسس جماعة الكلان الثانية عام 1915</tit>
+        <id>817</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجذور الفكرية للجماعات المتطرفة</tit>
+        <id>820</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موعظة طاحونة الشيطان</tit>
+        <id>828</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تيموتى مكفاي نموذجا!</tit>
+        <id>831</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من هو مكفاي</tit>
+        <id>832</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التفجيرات</tit>
+        <id>834</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اللحظات الأخيرة</tit>
+        <id>836</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع الكابوس الأمريكي</tit>
+        <id>839</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الداروينية الأميركية الحاكمة</tit>
+        <id>840</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أزمة أمريكا الأخلاقية</tit>
+        <id>843</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قناع أبيض للعالم كله</tit>
+        <id>846</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصوات المغيبة والمصلحة القومية الكاذبة</tit>
+        <id>847</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكلمة المحكية كعمل سياسي</tit>
+        <id>849</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أصوات أمريكا الغائبة</tit>
+        <id>851</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفيروس الأميركي .. فضح الإمبرطورية الأميركية</tit>
+        <id>854</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التنظير الجديد لـ (باكس أميركانا)</tit>
+        <id>857</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكيا البريئة</tit>
+        <id>858</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لماذا يكرهوننا</tit>
+        <id>858</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كراهية السياسة الأميركية</tit>
+        <id>862</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكيان السياسي العنيف</tit>
+        <id>864</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نهب ثروات الأمم</tit>
+        <id>865</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأسباب الحقيقية لكره العالم لأمريكا</tit>
+        <id>868</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>معنا أم ضدنا: دراسات في ظاهرة معاداة أميركا عالميا</tit>
+        <id>870</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤشرات سلبية عن صورة أميركا في أوروبا</tit>
+        <id>871</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هل يجب الخوف من أمريكا؟</tit>
+        <id>872</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تجربة شخصية</tit>
+        <id>873</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نعم، الحلم الأمريكي لا يزال له معنى ... ولكن!</tit>
+        <id>874</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكيا طليعة الانحطاط</tit>
+        <id>875</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تشويه العولمه على يد الانجلوسكسون</tit>
+        <id>881</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهذه هي نهاية التاريخ؟</tit>
+        <id>883</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صورة &quot;درويش&quot;&quot; ... ولا عجب</tit>
+        <id>885</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بعض من أمريكا</tit>
+        <id>886</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خدعة الافتتان بأمريكا</tit>
+        <id>892</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس سبل المواجهة .. والخروج من المأزق</tit>
+        <id>894</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطة العمل المقترحة وأسسها</tit>
+        <id>896</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مواجهة أمريكا على المستوى الدولي</tit>
+        <id>897</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أمريكيا .. عوامل القوة والضعف</tit>
+        <id>897</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العملاق الأميركي</tit>
+        <id>899</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصادر القوة</tit>
+        <id>900</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قدرات الإمبراطورية</tit>
+        <id>901</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤشرات لكسر القوة الأمريكية</tit>
+        <id>903</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا دولة الجرائم</tit>
+        <id>908</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صراع الكبار</tit>
+        <id>913</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العجز العسكرى واستهداف دول ضعيفة</tit>
+        <id>916</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خرافة الديمقراطية</tit>
+        <id>917</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكسر الحضاري</tit>
+        <id>921</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب موت الغرب</tit>
+        <id>923</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحديات الهوية الوطنية الأميركية</tit>
+        <id>924</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العالم وأمريكا .. معنا .. أم ضدنا</tit>
+        <id>927</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وغرق النسر العظيم</tit>
+        <id>935</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحروب الصليبية بين الماضي والحاضر</tit>
+        <id>937</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني مواجهة الصهيونية المسيحية</tit>
+        <id>937</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحملة الصليبية الأولى</tit>
+        <id>942</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحملة الصليبية الثانية</tit>
+        <id>943</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>انتهاء وفشل الحروب الصليية</tit>
+        <id>944</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نتائج الحروب الصليبية</tit>
+        <id>945</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حملات الصليبيون والجماعات اليهودية في غرب أوربا وفلسطين</tit>
+        <id>948</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التشابه بين حملات الصليبيون والمشروع الصهيوني</tit>
+        <id>949</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مركزية حملات الصليبيون في الوجدان الصهيوني/الإسرائيلي</tit>
+        <id>956</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مواجهة الهجمة الصليبية الجديدة</tit>
+        <id>962</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من هم الصليبيون الجدد .. ؟</tit>
+        <id>964</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مواجهة الصهيونية المسيحية</tit>
+        <id>970</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دور المسلمين والعرب في أمريكيا في المواجهة</tit>
+        <id>981</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلاقات العربية الأميركية</tit>
+        <id>984</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عشرات الأسلحة لمواجهة أمريكا</tit>
+        <id>986</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خطة عمل عربيه لمواجهة صهيونية الحركة المسيحية الأصولية</tit>
+        <id>990</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الحوار بين الأديان والحضارات</tit>
+        <id>994</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نظرية صراع الحضارات</tit>
+        <id>997</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حوار الأديان والحضارات</tit>
+        <id>1000</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهمية الحوار</tit>
+        <id>1002</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>علاقة المسلم بالآخر عموما</tit>
+        <id>1006</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحوار بين الأديان</tit>
+        <id>1010</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليهود والنصارى في القرآن والسنة</tit>
+        <id>1017</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحوار الإسلامي المسيحي</tit>
+        <id>1020</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسيح المسلم</tit>
+        <id>1025</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحوار بين الإسلام واليهودية</tit>
+        <id>1032</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اليهود في ظل الحكم الإسلامي</tit>
+        <id>1037</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>منع هجرة اليهود إلى فلسطين</tit>
+        <id>1043</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ظهور الصهيونية والعداء لليهود</tit>
+        <id>1046</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحوار مع اليهود بين الرفض والقبول</tit>
+        <id>1049</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>آفاق الحوار الإسلامي مع الديانات التوحيدية في العصر الحاضر</tit>
+        <id>1054</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حوار الإسلام والغرب</tit>
+        <id>1060</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تشابك المصالح</tit>
+        <id>1063</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحوار بين الديانات والحضارات لماذا؟</tit>
+        <id>1066</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تأسيس نظام قيمي جديد</tit>
+        <id>1075</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع أمتنا ودورها الحضاري</tit>
+        <id>1083</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>انهيار الامبراطورية الإسلامية وصعود الغرب</tit>
+        <id>1086</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الغزو الفكري أدواته وأهدافه في العالم الإسلامي</tit>
+        <id>1089</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الغزو الفكري دوافعه وأدواته</tit>
+        <id>1094</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصهيونية المسيحية والإسلام</tit>
+        <id>1096</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمتنا ودورها الحضاري</tit>
+        <id>1098</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بناء مشروع نهضوي عربي</tit>
+        <id>1104</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كيف نواجه الهمجية الدونية</tit>
+        <id>1105</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>1118</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باراك أوباما وجرأة الأمل</tit>
+        <id>1119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الموقف من اسرائيل</tit>
+        <id>1122</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطاب أوباما في جامعة القاهرة</tit>
+        <id>1124</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فلسطين ودورها الحضاري</tit>
+        <id>1129</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإصلاح الإسلامي</tit>
+        <id>1132</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قائمة المراجع</tit>
+        <id>1141</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

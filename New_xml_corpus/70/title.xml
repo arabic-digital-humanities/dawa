@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تصدير</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإهداء</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثانية</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الأولى</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول تحليل نفسي للثقافة</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أوليات</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما هي الثقافة؟</tit>
+        <id>16</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عملية التعريف</tit>
+        <id>19</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فكرة الثقافة</tit>
+        <id>21</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الثقافة وعلم الاجتماع</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بعض الأفكار</tit>
+        <id>26</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موازنة هذه الآراء</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تصور آخر للمشكلة</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعريف آخر للثقافة</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ما هي الثقافة؟</tit>
+        <id>38</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجانب النفسي والجانب الاجتماعي</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طبيعة العلاقة الثقافية</tit>
+        <id>46</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الثقافة والمقاييس الذاتية</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني تركيب نفسي للثقافة</tit>
+        <id>55</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تراكيب جزئية وتركيب عام</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توجيه الأفكار</tit>
+        <id>62</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توجيه الثقافة</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحرفية في الثقافة</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معنى الثقافة في التاريخ</tit>
+        <id>71</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>معنى الثقافة في التربية</tit>
+        <id>72</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوجيه الأخلاقي</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التوجيه الجمالي</tit>
+        <id>76</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المنطق العملي</tit>
+        <id>80</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوجيه الفني أو الصناعة</tit>
+        <id>83</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأزمة الثقافية</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث تعايش الثقافات</tit>
+        <id>90</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نظرات في تعايش الثقافات</tit>
+        <id>91</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعايش ثقافي على محور طنجة - جاكرتا</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع الثقافة في اتجاه العالمية</tit>
+        <id>107</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس ما ضد الثقافة L'anti culture</tit>
+        <id>122</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>131</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المسارد</tit>
+        <id>133</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

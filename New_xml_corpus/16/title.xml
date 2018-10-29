@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الافتتاح</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المحقق</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بذل المجهود في إفحام اليهود</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المؤلف</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النسخ</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وجه آخر في إثبات النسخ بأصولهم</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إفحام أهل الكتاب وإلزامهم بالإسلام</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلزامهم بنبوة عيسى والمصطفى &quot;عليهما السلام&quot;</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلزامهم بنبوة المسيح &quot;عليه السلام&quot;</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر الموضع الذي أشير فيه إلى نبوة الكليم والمسيح والمصطفى &quot;عليهم السلام&quot;</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر الآيات والعلامات التي في التوراة الدالة على نبوة سيدنا محمد &quot;صلى الله عليه وسلم&quot;</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإشارة إلى اسمه &quot;صلى الله عليه وسلم&quot; في التوراة</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>افتراءات اليهود</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في ذكر طرف من كفرهم وتبديلهم</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر السبب في تبديل التوراة</tit>
+        <id>121</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل فيما يعتقدونه في دين الإسلام</tit>
+        <id>143</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>افتراؤهم على الأنبياء</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل معرب عن بعض فضائحهم</tit>
+        <id>173</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر السبب في تشديدهم الإصر على أنفسهم</tit>
+        <id>176</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فرق اليهود من حيث قبولهم التلمود</tit>
+        <id>188</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة الكتاب</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهرس الكتاب والتعليق عليه</tit>
+        <id>198</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رسالة إلى السموأل وجوابها</tit>
+        <id>210</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نسخة الجواب</tit>
+        <id>212</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول طريق الثورة</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإطراد الثوري</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأخلاق والثورة</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقلبات عبر استقلال جديد</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني في قضايا الاستقلال</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نظرة علم الاجتماع في الاستقلال</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تغيير الإنسان</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العامل الجزائري في فرنسا</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معالم على طريق الحركة النسائية الجزائرية</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وزن الوقت</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث في السياسة</tit>
+        <id>66</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السياسة والأخلاق</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السياسة والأيديولوجية</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السياسة والثقافة</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السياسة وحكمة الجماهير</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السياسة والبلوتيك</tit>
+        <id>91</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع في قضية فلسطين</tit>
+        <id>97</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>عشرون سنة من بعد</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثمن الوحدة العربية</tit>
+        <id>104</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لحظة (الفلاش)</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لحظة التأمل</tit>
+        <id>114</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هيئة الأمم تدين شعب فلسطين</tit>
+        <id>122</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مفاتيح الحرب</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس حول الإقتصاد</tit>
+        <id>137</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مؤتمر 77</tit>
+        <id>138</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مؤتمر نيودلهي</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جولة البترول العربي</tit>
+        <id>152</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شروط الإقلاع الإقتصادي</tit>
+        <id>160</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العمل والإستثمار</tit>
+        <id>167</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إقتصاد القوت والتنمية</tit>
+        <id>173</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نشتري أم نصنع</tit>
+        <id>180</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>188</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس في الصراع الفكري</tit>
+        <id>188</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

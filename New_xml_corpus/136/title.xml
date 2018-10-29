@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة الطبعة الأولى</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثانية</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إلى ممثلي البلاد الإسلامية</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>معقل الإنسانية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المد والجزر في تاريخ الاسلام</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حال العرب قبل الاسلام</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>آراء رجال ذلك العصر في العرب</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تغير حال العرب بالاسلام</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قول المؤرخ جبون</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اللغز الذي أدهش المؤرخين</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قول المؤرخ ستودارد</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قول المؤرخ فيشر</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ويقول مؤلف شيوعي</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نظرة تحليلية في هذا اللغز</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسألة العدد</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسألة العتاد والسلاح</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسألة تفوق العرب في النظام الحربي</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>منبع القوة الحقيقي عند العرب المسلمين</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تفطن عقلاء الناس لسر قوة العرب</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قول هرقل في هذا الأمر</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قول أبي بكر وعمر رضي الله عنهما</tit>
+        <id>54</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قول سعد وسلمان رضي الله عنهما</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قول علي رضي الله عنه</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قول عبد الله بن رواحة رضي الله عنه</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قول أبي عبيدة رضي الله عنه</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قول خالد رضي الله عنه</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ربعي بن عامر في مجلس يزدجرد</tit>
+        <id>58</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المغيرة بن شعبة يجلس على سرير رستم</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أخلاق الصحابة وسيرتهم التي انتصروا بها</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما جرى للمسلمين حين نسوا دينهم</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حال المسلمين في القرون الأخيرة</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إبتلاء المسلمين بالشك والذل النفسي</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسوأ جيل عرفه تاريخ الإسلام</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ابتلاء المسلمين بعبادة المادة وحب الدنيا</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بين الصورة والحقيقة</tit>
+        <id>74</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثورة في التفكير</tit>
+        <id>89</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بين الجباية والهداية</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دعوتان متنافستان</tit>
+        <id>122</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصرع الجاهلية</tit>
+        <id>136</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أزمة إيمان وأخلاق</tit>
+        <id>151</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ردة ولا أبا بكر لها</tit>
+        <id>164</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

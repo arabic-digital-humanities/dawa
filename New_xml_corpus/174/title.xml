@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تأثيرات كامنة</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تجاهل مقصود</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام المقنع</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صراع وصراع</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تصحيح المفاهيم</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ميدان الدعوة</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

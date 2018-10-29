@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التمهيد</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول المآخذ على القنوات الفضائية</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني إيجابيات القنوات الفضائية</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خلاصة البحث</tit>
+        <id>50</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>50</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نتائج البحث</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهرس المراجع</tit>
+        <id>53</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوصيات</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

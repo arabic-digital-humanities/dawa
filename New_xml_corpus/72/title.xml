@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين الدعوة والقتال</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين جهد الدعوة وجهد العبادة</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين فقه الدعوة وفقه التعليم</tit>
+        <id>94</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين جهد الحق وجهد الباطل</tit>
+        <id>109</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين الحاجة والمقصد</tit>
+        <id>134</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين جهد الداعي وجهد السياسي</tit>
+        <id>153</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من صفات اليهود</tit>
+        <id>159</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اليقين علي أنه لا إله إلا الله</tit>
+        <id>182</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>البيئة الإيمانية</tit>
+        <id>219</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خواطر إيمانية حول سورة الفاتحة</tit>
+        <id>225</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مذاكرة في جهد الدعوة إلي الله</tit>
+        <id>260</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وختاما</tit>
+        <id>296</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المراجع</tit>
+        <id>297</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

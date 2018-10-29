@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول سياق الخطبة وأجزاؤها</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول السلام</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني الحمد والثناء</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث الصلاة على النبي صلى الله عليه وسلم والشهادة له بالرسالة</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع الوصية بتقوى الله تعالى</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الخامس قراءة القرآن الكريم في الخطبة</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب السادس الدعاء</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب السابع كلام الخطيب مع الناس</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثامن الترتيب والمولاة بين أجزاء الخطبة</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب التاسع ترجيحات لبعض العلماء في حكم أجزاء الخطبة</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول حسن اختيار الموضوع</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني ضوابط وقواعد لموضوعات خطبة الجمعة</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني حسن الإعداد</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث وحدة الموضوع وترابطه</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع تخفيف الخطبة وتقصيرها</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الخامس مراعاة القدرة</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب السادس مراعاة الأحوال</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب السابع حسن النقد وجمال النصح</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثامن الموازنة بين المتقابلات</tit>
+        <id>78</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب التاسع التثبيت</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب العاشر معالجة مشكلات الأمة</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخطب المنبرية</tit>
+        <id>103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفواكه الشهية في الخطب المنبرية</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مجموعة خطب الشيخ عبد الرحمن السعدي</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة في التحذير من المدارس الأجنبية المنحرفة</tit>
+        <id>112</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

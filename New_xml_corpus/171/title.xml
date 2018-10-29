@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>جغرافية سيراليون</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تاريخ دخول الإسلام إلى سيراليون</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مستوى مسلمي سيراليون الثقافي</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اللغات التي يتكلم بها المسلمون في سيراليون</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المؤسسات الاسلامية في سيراليون</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صلاة التروايح وليلة الفطر في سيراليون</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجوامع في سيراليون</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمويل الجوامع</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أشهر جوامع العاصمة فريتاون</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإسلام على المستوى الرسمي في سيراليون</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حركة التضليل القادياني الأحمدي في سيراليون</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الارساليات الصليبية العاملة في سيراليون</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدعوة السلفية في سيراليون وآثارها</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

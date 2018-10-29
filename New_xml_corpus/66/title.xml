@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الأولى</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خطأ الاستدلال بالنصوص القرآنية</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصدرية السنة وصلتها بالكتاب العزيز</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صلة السنة بالكتاب</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثانية دعوى التناقض بين الكتاب والسنة</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الانسجام التام بين السنة والكتاب</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثالثة دعوى عدم صلاحية الحديث النبوي</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حديث آحاد</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شروط العمل بخبر الآحاد</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شواهد من السنة العملية</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثالثة وقائع من عصر النبوة أساءوا فهمها</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاختلاق والافتراء</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النصراني الذي أسلم ثم ارتد</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الرابعة تحريف أسباب حروب الردة</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصة ثعلبة</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>55</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الخامسة الادعاء بأن النبي - صلى الله عليه وسلم - لم يقتل مرتدا</tit>
+        <id>56</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دحض هذه الدعوى</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة السادسة اختلاف الفقهاء</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نماذج من الخلاف حول فرعيات الردة</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة السابعة التدخل في اختصاص الله</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>65</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثامنة الاستتابة لا أساس لها في الدين</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أدلتها من الشريعة</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نصوص الكتب التي بعث بها</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعقيب:</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وثيقة أخرى لأبي بكر</tit>
+        <id>73</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توضيحات لا بد منها</tit>
+        <id>76</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوضيح الأول بين الردة والزندقة</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التوضيح الثاني ضوابط تنفيذ حد الردة</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التوضيح الثالث قتل المرتد لا يصادر حرية الاعتقاد في الإسلام</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التوضيح الرابع حكمة التشريع في قتل المرتد</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التوضيح الخامس عمن يدافعون؟</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

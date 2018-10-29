@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الركن الأول التنظيم المناسب</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الركن الثاني المعلم</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الركن الثالث المتعلم نصائح لطالب العلم</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النصيحة الأولى الإخلاص</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النصيحة الثانية إعداد العدة كالقلم والورق</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النصيحة الثالثة الطالب الذي لا يستطيع حضور الدورات</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النصيحة الرابعة تحضير الدرس</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النصيحة الخامسة كتابة الفوائد من المعلم</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النصيحة السادسة الرحمة بين الطلاب</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ملحق الأسئلة والإجابات</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السؤال الأول</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السؤال الثاني</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السؤال الثالث</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السؤال الرابع</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السؤال الخامس</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السؤال السادس</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

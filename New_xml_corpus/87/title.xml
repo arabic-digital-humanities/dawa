@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: المادتان الأوليتان من إعلان حقوق الإنسان</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: المواد (7- 8- 9- 10- 11) من حقوق الإنسان</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب السادس</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب السابع</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

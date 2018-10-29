@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعريف الخطبة وأغراضها وأثرها</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أنواع الخطبة</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إعداد الخطبة وبناؤها</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عناصر البناء</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإيجاد والابتكار</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التنسيق والترتيب</tit>
+        <id>15</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اللسان المعبر</tit>
+        <id>17</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>21</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طريقة البناء</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعريف والإيضاح</tit>
+        <id>23</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الموضوع</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاستدلال</tit>
+        <id>24</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وحدة الموضوع</tit>
+        <id>26</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجدة والتغيير</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طول الخطبة</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صفات الخطيب وآدابه</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لكل خطيب متميز خصوصيته</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصفات الفطرية</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصفات المكتسبة</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إضافات وصفات وآداب عامة</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصادر الخطبة</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خلاصة ونتائج</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

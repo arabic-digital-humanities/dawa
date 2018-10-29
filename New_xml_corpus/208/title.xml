@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الغارة على العالم الإسلامي</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>[مقدمة الطبعة الأولى]</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة من &quot; المؤيد &quot;</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المسيو شاتليه عن إرساليات التبشير البروتستانتية</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تاريخ التبشير</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أفريقيا</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>آسيا الغربية</tit>
+        <id>35</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الهند</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جزائر الملايو</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصين</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مؤتمر القاهرة التبشيري عام 1906 م</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وسائل لتبشير المسلمين بالنصرانية</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إرساليات التبشير الطبية</tit>
+        <id>54</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأعمال النسائية في التبشير</tit>
+        <id>57</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المتنصرون والمرتدون</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>شروط التعميد</tit>
+        <id>60</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف يتقرب المسلمون؟</tit>
+        <id>61</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>موضوعات تبشيرية</tit>
+        <id>64</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العالم الإسلامي اليوم</tit>
+        <id>69</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإسلام في مصر</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإسلام وإرساليات الهند</tit>
+        <id>77</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بلاد الترك العثمانية</tit>
+        <id>83</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سوريا وفلسطين</tit>
+        <id>84</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجزيرة العربية</tit>
+        <id>86</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فارس</tit>
+        <id>91</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>صومطرا</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جاوا</tit>
+        <id>97</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مؤتمر إدنبرج سنة 1910</tit>
+        <id>99</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أقوال المجلة الألمانية</tit>
+        <id>100</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أقوال المجلة الإنكليزية</tit>
+        <id>106</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أقوال المجلة السويسرية</tit>
+        <id>115</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نتائج مؤتمر إدنبرج</tit>
+        <id>121</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المؤتمر الاستعماري</tit>
+        <id>124</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مؤتمر لكنو سنة 1911</tit>
+        <id>133</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المجلة الفرنسية</tit>
+        <id>133</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>برنامج المؤتمر وترتيبه</tit>
+        <id>134</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطبة الرئيس الافتتاحية</tit>
+        <id>139</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاحصاءات الإسلامية</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الانقلابات السياسية</tit>
+        <id>143</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الانقلابات الاجتماعية والفكرية</tit>
+        <id>146</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطة الكنائس بعد مؤتمر القاهرة</tit>
+        <id>151</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أعمال اللجان بعد مؤتمر القاهرة</tit>
+        <id>153</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجامعة الإسلامية</tit>
+        <id>155</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الانقلابات السياسية</tit>
+        <id>166</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجلسة النهائية</tit>
+        <id>193</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التنظيم المادي لإرساليات التبشير</tit>
+        <id>197</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقاصد المبشرين وآمالهم في المستقبل</tit>
+        <id>237</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ملحق</tit>
+        <id>249</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نجوى إلى القراء</tit>
+        <id>250</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جواب &quot; المؤيد &quot; على مقالة مجلة &quot; العالم الإسلامي &quot;</tit>
+        <id>271</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كلمة في هذا الكتاب</tit>
+        <id>277</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

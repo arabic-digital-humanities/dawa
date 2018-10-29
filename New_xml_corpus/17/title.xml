@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم للمؤلف</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقريظ للمغفور له الأستاذ علي حسب الله</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقريظ للمغفور له الشيخ عبد الحليم محمود علي شيخ الجامع الأزهر السابق</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقريظ لفضيلة الشيخ محمد الغزالي السقا</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رؤية مستنيرة لأسرار إسلامي</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>استحقاق نسل إسماعيل لحقوق البكورية:</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نص شريعة حق البكورية</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول التوراة والإنجيل يتنبآن ببعث الرسول الكريم</tit>
+        <id>54</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بشارات من التوراة والإنجيل</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا - من الأنبياء:</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا - نبوءات من الإنجيل:</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني ما الذي اختلفت عليه أهل الكتاب؟</tit>
+        <id>68</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ما حديث الأناجيل عن شخصية المسيح؟</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلة التي واجهها المسيح في إنجيله:</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقف الأحبار والكهنة من المسيح:</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث المسيحية وتطويرها</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أسلوب المسيح في بشارته بملكوت الله:</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نظرية بولس في التفكير</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع المسيحيون والتعاليم الكتابية</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اكتشاف مخطوطات قديمة:</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إنجيل برنابا:</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس القرآن الكريم يهدي أهل الكتاب إلى الصراط المستقيم</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جاء المسيح عيسى ابن مريم فماذا وجد؟</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - المسيح والدينونة:</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>والآن لنتتبع المنهاج المرسوم:</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هذه هي الحقائق الإلهية الثمنية:</tit>
+        <id>111</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السادس الرسول الكريم محمد - صلى الله عليه وسلم - وإيمانه بشخص المسيح عليه السلام</tit>
+        <id>113</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>2 - المسيح عيسى ابن مريم يخضع لناموس الراحة والتعب:</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شهادة الإنجيل</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - المسيح عيسى بن مريم يخضع لناموس المؤثران العاطفية:</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - المسيح عيسى ابن مريم يلتزم مكانته فلا يتعداها:</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - المسيح عيسى ابن مريم جاء غريبا وعاد غريبا:</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - المسيح عيسى ابن مريم رسول الله:</tit>
+        <id>120</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - المسيح عيسى ابن مريم نبي الله:</tit>
+        <id>120</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>8 - المسيح عيسى بن مريم رفيع الدرجة عند الله والناس:</tit>
+        <id>121</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقارنة بين تعاليم المسيح وتعاليم بولس</tit>
+        <id>124</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السابع الكتاب المقدس والعقيدة المسيحية</tit>
+        <id>128</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(ب) تطور اللغة العبرية:</tit>
+        <id>129</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - اللغة العبرية:</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(هـ) قواعد اللغة العبرية:</tit>
+        <id>131</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ز) السامريون:</tit>
+        <id>132</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - الكتاب المقدس والعهد الجديد</tit>
+        <id>133</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ب) إنجيل متى:</tit>
+        <id>134</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(جـ) إنجيل لوقا:</tit>
+        <id>134</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(د) إنجيل يوحنا:</tit>
+        <id>135</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خلاصة القول:</tit>
+        <id>136</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اكتشاف الإنجيل:</tit>
+        <id>137</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - الكتاب المقدس والأبوكريفا</tit>
+        <id>137</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقف الكنيسة من إنجيل برنابا:</tit>
+        <id>139</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>البراهين القاطعة على انتشار إنجيل برنابا قبل الإسلام:</tit>
+        <id>139</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مخالفة إنجيل برنابا للأناجيل الأربعة:</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعليق:</tit>
+        <id>141</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - الكتاب المقدس والخط اللاتيني</tit>
+        <id>143</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - الكتاب المقدس والنسخ الخطية</tit>
+        <id>144</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ب) العقيدة المسيحية</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - الآباء وتطوير المسيحية</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المشكلة التي تعرضت لها الكنيسة.</tit>
+        <id>147</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - الفلاسفة وتطوير العقيدة</tit>
+        <id>150</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - الصليب</tit>
+        <id>151</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ب) التاريخ السياسي للصليب:</tit>
+        <id>152</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 - الشعب اليهودي يمجد مسيح الله:</tit>
+        <id>155</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - الحواريون ينظرون إلى المسيح كابن لله فكيف يتخلى عنه الله؟</tit>
+        <id>156</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - التباس الحوادث مما ينفي حادث الصلب عن المسيح:</tit>
+        <id>157</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - موقف القرآن الكريم من الصلب:</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - براءة الإسلام من الشبهات</tit>
+        <id>160</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - وفي قولهم إن المسيح عيسى ابن مريم أقنوم من الأقانيم الثلاثة:</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثامن العالم قبل بزوغ الإسلام</tit>
+        <id>166</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب التاسع (أ) العالم في فجر الإسلام</tit>
+        <id>177</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(ب) التوسع الإسلامي وأثره</tit>
+        <id>184</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نظرة إلى التاريخ:</tit>
+        <id>188</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب العاشر 1- لمحة من حياة محمد</tit>
+        <id>190</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(1) الرجل الكامل في القرآن</tit>
+        <id>190</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ب) القرآن وأدب النفس:</tit>
+        <id>191</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(جـ) عظمة النبوة:</tit>
+        <id>193</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - الزواج والطلاق في الإسلام</tit>
+        <id>195</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لا رهبانية في الإسلام:</tit>
+        <id>201</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(ب) الطلاق في الإسلام:</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المراجع</tit>
+        <id>206</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

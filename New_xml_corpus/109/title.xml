@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعريف الحكمة</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إطلاقات الحكمة</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الموعظة الحسنة</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجدال بالتي هي أحسن</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إشارات في حلية الداعي من الصفات الباعثة للحكمة</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التقوى</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإخلاص</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلم</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التواضع</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحلم</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الغلظة والفظاظة</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم الأول طبائع النفوس وطبقات المدعوين</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من معالم الحكمة في الدعوة</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المعلم الثاني تخير الأوقات وانتهاز المناسبات</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم الثالث مراعاة التدرج وترتيب الأولويات</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معالم الحكمة في أساليب الدعوة</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المعلم الأول القول الحسن</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم الثاني التصريح والتعريض</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم الثالث النصيحة لا الفضيحة</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم الربع أدب التعامل</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم الخامس المداراة</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم السادس إقالة العثرات والغض عن الأخطاء</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعلم السابع الترغيب والترهيب ومواقف الشدة</tit>
+        <id>55</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

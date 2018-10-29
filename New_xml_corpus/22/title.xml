@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثانية</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهرس</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: الأسس البنائية للمجتمع الإسلامي</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العقيدة بين المفهوم الإسلامي والمفاهيم المعارضة</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المفهوم القرآني للعقيدة</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفكر الاجتماعي الإسلامي</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>22</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نفي الحرج</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قلة التكاليف</tit>
+        <id>26</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التدرج في الأحكام</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مسايرة مصالح الناس</tit>
+        <id>28</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحقيق العدالة بين الناس</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهداف الشريعة الإسلامية</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تهذيب الإنسان بالعبادات</tit>
+        <id>32</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إقامة العدل في الجماعة الإسلامية</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المصلحة</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>34</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مرتبة الضروريات</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مرتبة الحاجيات</tit>
+        <id>38</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مرتبة التحسينات</tit>
+        <id>39</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أسس العلاقات الاجتماعية الصالحة</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العدل واجتناب الظلم</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>طاعة أولياء الأمور في غير معصية</tit>
+        <id>42</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأمر بالمعروف والنهى عن المنكر</tit>
+        <id>43</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التخلق بالأخلاق الإسلامية</tit>
+        <id>45</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية الصحيحة</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>50</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية تكاملية</tit>
+        <id>51</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية متوازية</tit>
+        <id>52</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية سلوكية وعملية</tit>
+        <id>53</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تجمع بين الفردية والجماعية</tit>
+        <id>55</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تركز على تقوية جانب المراقبة لله</tit>
+        <id>56</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية لفطرة الإنسان</tit>
+        <id>58</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية توجه الإنسان نحو الخير</tit>
+        <id>59</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية مستمرة</tit>
+        <id>61</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تتسم بالعالمية والشمول</tit>
+        <id>62</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية محافظة ومجددة</tit>
+        <id>63</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>العلاقة بين العقيدة والشريعة</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>68</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجوانب السلوكية التى تحدد العلاقة بين الإنسان وربه</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجوانب السلوكية الذاتية والاجتماعية</tit>
+        <id>70</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصادر الفصل الأول</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: الدراسة السوسيولوجية للنظم الاجتماعية</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>73</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعريف النظام الاجتماعي</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لكل نظام وظيفة أو مجموعة من الوظائف يؤديها داخل المجتمع</tit>
+        <id>81</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خصائص النظم الاجتماعية</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يرتبط النظام بفكرة المعايير أو القواعد الضابطة للسلوك</tit>
+        <id>82</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التزام الناس بهذه القواعد يرتبط بفكرة الجزاءات الاجتماعية</tit>
+        <id>83</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظام هو السلوك الاجتماعي الذي يعترف به أبناء المجتمع</tit>
+        <id>85</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أغلب النظم تتسم بدرجة عالية من التعقيد</tit>
+        <id>86</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الترابط الوظيفي</tit>
+        <id>89</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لكل نظام اجتماعي مجموعة من العناصر</tit>
+        <id>90</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>92</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أنواع النظم الاجتماعية</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من حيث العمومية والخصوصية</tit>
+        <id>93</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من حيث الاستمرار والعرضية أو الوقتية في الحدوث</tit>
+        <id>95</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من حيث التلقائية والتقنين</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من حيث المشروعية وعدم المشروعية</tit>
+        <id>97</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من حيث الهدف</tit>
+        <id>99</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من حيث ما إذا كان النظام أساسي أو فرعى</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظم الاختيارية والنظم الإجبارية</tit>
+        <id>102</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>يضيف بعض العلماء</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهداف النظم الاجتماعية</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تصنيف النظم الاجتماعية</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النظم الاقتصادية والحكومية</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظام العائلى</tit>
+        <id>111</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظام الدين</tit>
+        <id>112</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظام التعبيرات الجمالية والعقلية والترويح</tit>
+        <id>114</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهمية دراسة النظم الاجتماعية</tit>
+        <id>115</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>115</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تدخل النظم الأساسية في تكوين البناء الاجتماعي</tit>
+        <id>116</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تكشف النظم الاجتماعية للمجتمع عن أساليب لمواجهة حاجاته الجماعية</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعد دراسة النظم الاجتماعية هى الأساس الأول للدراسة المقارنة بين المجتمعات</tit>
+        <id>118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعد الدراسة العلمية للنظم الاجتماعية هي الأساس الأول لمواجهة المشكلات الاجتماعية</tit>
+        <id>119</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظم وأوزانها داخل البناء الاجتماعي</tit>
+        <id>120</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>120</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التيار الماركسي الملحد</tit>
+        <id>121</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التيار الديني أو القيمي</tit>
+        <id>122</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصادر الفصل الثاني</tit>
+        <id>123</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأسرة أهميتها ووظائفها</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأسرة</tit>
+        <id>124</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: النظام العائلي</tit>
+        <id>124</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أسس بناء الأسرة في الإسلام</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>128</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التعرف</tit>
+        <id>129</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الرضا الكامل الذاتي من الطرفين</tit>
+        <id>131</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الكفاءة</tit>
+        <id>133</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المهر</tit>
+        <id>134</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الحقوق والواجبات الزوجية</tit>
+        <id>136</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>141</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نظام الأدوار والمراكز الاجتماعية داخل إطار العلاقات الأسرية</tit>
+        <id>141</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقوق الزوجة على الزوج</tit>
+        <id>142</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>حقوق الزوج على زوجته</tit>
+        <id>145</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>حقوق الأولاد</tit>
+        <id>148</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>151</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نظام المحرمات من النساء في الإسلام</tit>
+        <id>151</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحرمات بسبب القرابة</tit>
+        <id>153</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المحرمات بسبب المصاهرة</tit>
+        <id>154</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المحرمات بسبب الرضاعة</tit>
+        <id>155</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نظام التحريم على سبيل التأقيت</tit>
+        <id>156</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظام الإسلامي في مواجهة الخلافات والمشكلات الأسرية</tit>
+        <id>157</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النظام الإسلامي لإنهاء العلاقات الزوجية مع محاولات العلاج</tit>
+        <id>162</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإسلام وقضية تعدد الزوجات</tit>
+        <id>165</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصادر الفصل الثالث</tit>
+        <id>170</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: النظام التربوي</tit>
+        <id>171</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>171</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نماذج قرآنية للتربية</tit>
+        <id>179</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نماذج من أقوال الرسول عليه الصلاة والسلام</tit>
+        <id>182</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهداف التربية الإسلامية</tit>
+        <id>183</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ميادين التربية الإسلامية</tit>
+        <id>186</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>186</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الميدان الأول تلاوة الآيات</tit>
+        <id>188</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الميدان الثاني التزكية</tit>
+        <id>189</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الميدان الثالث تعليم الكتاب</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الميدان الرابع تعليم الحكمة</tit>
+        <id>198</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أهم الأسس العامة التي تقوم عليها التربية الإسلامية</tit>
+        <id>202</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>202</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تحقق النمو المتكامل المتوازن لشخصية الإنسان</tit>
+        <id>203</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تحقق للإنسان التوازن</tit>
+        <id>204</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية فكرية وسلوكية وعملية معا</tit>
+        <id>206</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تجمع التربية الإسلامية بين الطابع الفردى والاجتماعي معا</tit>
+        <id>207</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تنشيء الفرد على مراقبة الله سبحانه</tit>
+        <id>209</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تحافظ على فطرة الإنسان النقية وتعلي غرائزه الفطرية</tit>
+        <id>210</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية موجهة نحو الخير</tit>
+        <id>211</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية مستمرة</tit>
+        <id>213</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تربية عالمية منفتحة</tit>
+        <id>214</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية تجمع بين المحافظة والتجديد</tit>
+        <id>216</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أساليب التربية الإسلامية</tit>
+        <id>218</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>218</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب القدوة الصالحة</tit>
+        <id>219</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب الترغيب والترهيب</tit>
+        <id>220</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب التوجيه والموعظة الحسنة</tit>
+        <id>223</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب العقاب الفعلي</tit>
+        <id>224</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب القصة</tit>
+        <id>226</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب التربية السلوكية باقتلاع العادات السيئة</tit>
+        <id>229</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>استخدام الأساليب الحسية</tit>
+        <id>233</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب النقاش والحوار</tit>
+        <id>234</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب المحاولة والخطأ</tit>
+        <id>236</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب استخدام الأحداث والظروف والمواقف في مجال التعليم</tit>
+        <id>238</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توجيه طاقات الإنسان في مساراتها الصحيحة</tit>
+        <id>240</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب استثمار وقت الفراغ</tit>
+        <id>242</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التربية الإسلامية وقضية الصحة النفسية</tit>
+        <id>244</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>244</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المعيار المثالي</tit>
+        <id>247</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المعيار الإحصائي</tit>
+        <id>248</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المعيار الحضاري</tit>
+        <id>250</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المعيار السيكولوجي أو الطبي النفسي</tit>
+        <id>251</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المعيار الإسلامي الصحيح</tit>
+        <id>253</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤشرات الصحة النفسية بالمفهوم الإسلامي</tit>
+        <id>254</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>254</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإيمان الكامل اليقيني بالله وملائكته وكتبه ورسله واليوم الآخر والقدر خيره وشره</tit>
+        <id>255</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوافق الاجتماعي مع الغير</tit>
+        <id>256</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التوافق الذاتي</tit>
+        <id>258</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشعور بالسمو والعزة والعلو والقدرة على مواجهة الصعاب والأزمات</tit>
+        <id>259</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشعور بالرضا والسعادة</tit>
+        <id>261</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القدرة على العطاء والإنجاز والعمل</tit>
+        <id>262</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>263</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مبادئ التعلم في النظرية التربوية الإسلامية</tit>
+        <id>263</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الربط بين النظرية والتطبيق</tit>
+        <id>265</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مراعاة استعدادات المتعلم وقدرته الاستيعابية والإدراكية</tit>
+        <id>266</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تكوين الاتجاهات قبل الفهم واستيعاب المعلومات</tit>
+        <id>268</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تسهيل العملية التعليمية وتيسير حصولها</tit>
+        <id>270</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>271</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التعزيز من خلال الاستفسار والمراجعة والمناقشة</tit>
+        <id>271</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التطور، سنة من سنن الحياة</tit>
+        <id>272</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التبصر في التراث وإعمال العقل وعدم التقليد الأعمى</tit>
+        <id>273</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الانفتاح العقلى على مختلف التجارب والخبرات البشرية</tit>
+        <id>274</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التكامل بين العلم والإيمان</tit>
+        <id>276</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التكامل بين العقل والنقل أو الإيمان بالغيب ومنطق العلم</tit>
+        <id>277</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ضرورة أن يكون العلم موجها لما يرضي الله سبحانه</tit>
+        <id>279</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ضرورة العمل على نشر العلم وتعليم الناس</tit>
+        <id>280</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استمرارية التعلم وعدم تقيده بسن</tit>
+        <id>281</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إيجاد علاقة شخصية وطيدة بين المتعلم والمعلم</tit>
+        <id>282</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>283</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نماذج من الآراء التربوية عند المسلمين</tit>
+        <id>283</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المستوى الفردي</tit>
+        <id>291</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المستوى الاجتماعي العام</tit>
+        <id>292</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المستوى الإنساني</tit>
+        <id>293</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مصادر الفصل الرابع</tit>
+        <id>294</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>296</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: النظام الاقتصادي</tit>
+        <id>296</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المنظور الإسلامي للمال أو الثروة المادية</tit>
+        <id>298</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أساليب تحصيل الثروة والأموال</tit>
+        <id>299</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>299</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التجارة</tit>
+        <id>300</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الزراعة</tit>
+        <id>302</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصناعة</tit>
+        <id>303</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>306</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دعوة الإسلام إلي الاستثمار</tit>
+        <id>306</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوة الإسلام إلى العمل</tit>
+        <id>307</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحريم الاكتناز والاستغلال</tit>
+        <id>309</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحريم الاستثمار الاستغلالي</tit>
+        <id>310</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأسس البنائية للاقتصاد الإسلامي</tit>
+        <id>312</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>312</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاتفاق مع الطبيعية البشرية</tit>
+        <id>315</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحقيق التوازن بين الفرد والجماعة وبين دوافع الإنسان</tit>
+        <id>316</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الضوابط الاقتصادية</tit>
+        <id>317</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إطلاق الطاقات الاستثمارية وتشجيع النشاط الاقتصادي المنتج</tit>
+        <id>319</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحيلولة دون التضخم المرضي للثروات الخاصة</tit>
+        <id>321</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المجتمع الإسلامي يقضي على الفقر ويعالج مشكلة الاحتياج</tit>
+        <id>323</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظام الملكية في الإسلام</tit>
+        <id>325</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>325</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>واجبات التملك</tit>
+        <id>329</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>329</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أداء الزكاة التي فرضها الله سبحانه</tit>
+        <id>330</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أداء واجبات التكافل الاجتماعي</tit>
+        <id>331</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ضوابط الملكية الخاصة في الإسلام</tit>
+        <id>333</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>336</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أساليب اكتساب الملكية</tit>
+        <id>336</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكسب بالانتظار</tit>
+        <id>337</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>العمل</tit>
+        <id>340</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المخاطرة</tit>
+        <id>342</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الزرع وإحياء الأرض الموات</tit>
+        <id>347</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>العقود الناقلة للملكية</tit>
+        <id>352</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الميراث</tit>
+        <id>364</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>370</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظام المعاملات المالية في الإسلام</tit>
+        <id>370</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نظام الزكاة: فلسفتها وأهدافها الاجتماعية</tit>
+        <id>374</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>علاقات العمل في الإسلام</tit>
+        <id>379</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الواقعية الاقتصادية في الإسلام-تكافؤ الفرص وتفاوت الثروات</tit>
+        <id>382</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العدالة الاقتصادية في الإسلام</tit>
+        <id>385</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>390</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسلوب مواجهة الإسلام للمشكلات الاقتصادية</tit>
+        <id>390</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مواجهة الإسلام لمشكلة الفقر</tit>
+        <id>391</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>391</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيت مال المسلمين</tit>
+        <id>395</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الزكاة</tit>
+        <id>396</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>النفقات الواجبة</tit>
+        <id>397</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مواجهة الإسلام لمشكلة التمايز والصراع الطبقي</tit>
+        <id>400</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مواجهة الإسلام لمشكلة البطالة</tit>
+        <id>404</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحقيق الاستقلال الاقتصادي للمجتمع الإسلامي</tit>
+        <id>409</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التوجيه الاقتصادي في الإسلام</tit>
+        <id>411</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>414</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الوظائف الاقتصادية للدولة طبقا للنظام الاقتصادي الإسلامي</tit>
+        <id>414</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حالات الاحتكار والاستغلال والإضرار</tit>
+        <id>418</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في حالة الربح الفاحش</tit>
+        <id>419</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في الحالات التي تستدعيها الضرورة</tit>
+        <id>421</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مسئولية الدولة عن الأموال العامة</tit>
+        <id>422</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسئولية الدولة في مجال الضمان الاجتماعي ومعاونة الفئات المحتاجة</tit>
+        <id>424</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الملكية العامة في الإسلام وضوابطها</tit>
+        <id>427</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>427</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أرض الحمى</tit>
+        <id>428</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأراضي الزراعية المفتوحة</tit>
+        <id>429</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفكر الاقتصادي في التراث الإسلامي</tit>
+        <id>433</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصادر الفصل الخامس</tit>
+        <id>439</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس: قضايا التحديث والتنمية في علم الاجتماع مع طرح مدخل إسلامي مقترح</tit>
+        <id>442</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>442</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التحديث وارتباطه بالتصنيع</tit>
+        <id>445</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التحديث والتغير الاجتماعي</tit>
+        <id>452</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التحديث الحضاري: شروطه، نماذجه، معوقاته</tit>
+        <id>459</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اتجاهات دراسة التحديث في الدول النامية</tit>
+        <id>463</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تحديث البناء الاجتماعي-التحديث الفردي</tit>
+        <id>463</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التحديث وقضية الالتزام الجماهيري بقضايا المجتمع والتنمية</tit>
+        <id>469</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نماذج من المعوقات الاستراتيجية أمام تحديث الدول النامية</tit>
+        <id>473</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>479</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التحديث والتنمية</tit>
+        <id>479</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلاقة بينهما ومداخل الدراسة</tit>
+        <id>479</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البعد العقائدي أو الإيديولوجي</tit>
+        <id>482</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بعد النظم الاجتماعية</tit>
+        <id>483</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>البعد التنظيمي</tit>
+        <id>484</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>البعد الثقافي</tit>
+        <id>486</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>البعد النفسي</tit>
+        <id>487</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بعد الإمكانات المتاحة</tit>
+        <id>488</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بعد المناخ الدولي أو النسق العالمي</tit>
+        <id>489</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نحو مدخل إسلامي للتنمية</tit>
+        <id>492</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مصادر الفصل السادس</tit>
+        <id>515</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

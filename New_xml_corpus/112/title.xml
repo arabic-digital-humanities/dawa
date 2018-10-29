@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>كلمة بين يدي البحث</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول من آداب الوقوف على المنبر</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني وقفات سريعة حول خطبة الجمعة</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث أخطاء ينبغي تجنبها على منبر الجمعة</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع اقتراحات تتعلق بالخطيب وبموضوع الخطبة</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

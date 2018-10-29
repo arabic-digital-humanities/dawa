@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول الإجابتان عن الفراغ الكوني</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الطفل والأفكار</tit>
+        <id>26</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث المجتمع والأفكار</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع الحضارة والأفكار</tit>
+        <id>41</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس الطاقة الحيوية والأفكار</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس عالم الأفكار</tit>
+        <id>57</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع الأفكار المطبوعة والأفكار الموضوعة</tit>
+        <id>68</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثامن جدلية العالم الثقافي</tit>
+        <id>76</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أ - فعلى الصعيد النفسي والأخلاقي</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ب - وعلى الصعيد الاجتماعي</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>على الصعيد الأخلاقي</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>د - على الصعيد السياسي</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جـ - على الصعيد الفكري</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>على الصعيد السياسي</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل التاسع جدلية الفكرة والشيء</tit>
+        <id>85</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل العاشر صراع الفكرة- الوثن</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الحادي عشر أصالة الأفكار وفعاليتها</tit>
+        <id>102</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني عشر الأفكار وديناميكا المجتمع</tit>
+        <id>111</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث عشر الأفكار والاطراد الثوري</tit>
+        <id>119</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع عشر الأفكار والسياسة</tit>
+        <id>130</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس عشر الأفكار وازدواجية اللغة</tit>
+        <id>137</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس عشر الأفكار الميتة والأفكار المميتة</tit>
+        <id>146</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع عشر انتقام الأفكار المخذولة</tit>
+        <id>153</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>161</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المسارد</tit>
+        <id>163</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

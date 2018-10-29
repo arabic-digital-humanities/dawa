@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>بسم الله الرحمن الرحيم رب يسر وأعن يا الله</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ترجمة السموأل لنفسه</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصة إسلام السموأل ورؤياه النبي صلى الله عليه وسلم</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المنام الأول</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المنام الثاني</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب إفحام اليهود</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الكتاب</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بسم الله الرحمن الرحيم رب يسر وأعن يا الله</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الغرض من تأليف الكتاب</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في إلزامهم النسخ بنص كتابهم</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إفحام اليهود والنصارى بالحجة العقلية وإلزامهم الإسلام</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وجه آخر في إثبات النسخ بأصولهم</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلزامهم النسخ بوجه آخر</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إثبات النسخ على وجه آخر</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلزامهم نبوة المسيح صلى الله عليه وسلم</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إلزامهم نبوته ونبوة المصطفى عليهما السلام</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل فيما يحكونه عن عيسى عليه السلام</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر الآيات والعلامات التي في التوراة الدالة على نبوة سيدنا محمد المصطفى صلى الله عليه وسلم</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإشارة إلى اسمه في التوراة</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر المواضع الذي أشير فيه إلى نبوة الكليم والمسيح والمصطفى صلى الله عليه وسلم عليهم السلام</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في إبطال ما يدعونه من محبة الله إياهم</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل في ذكر طرف من كفرهم وتبديلهم</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر السبب في تبديل التوراة</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل فيما يعتقدونه في دين الإسلام</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل معرب عن بعض فضائحهم</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ذكر السبب في تشديدهم الإصر على أنفسهم</tit>
+        <id>103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة الكتاب</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رسالة إلى السموأل وجوابها</tit>
+        <id>125</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بسم الله الرحمن الرحيم</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بسم الله الرحمن الرحيم</tit>
+        <id>127</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نسخة الجواب</tit>
+        <id>127</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الرابعة</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثالثة</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الأولى</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في الدراسات النفسية والاجتماعية</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حصوننا مهددة من داخلها</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في الفن والثقاقة</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حصوننا مهددة من داخلها</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في التنظيم الإجتماعي</tit>
+        <id>56</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المجتع المختلط</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجنس الثالث</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في جامعة الدول العربية</tit>
+        <id>93</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في البحوث والمحاضرات</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في الكتب المترجمة</tit>
+        <id>114</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في المؤتمرات</tit>
+        <id>132</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في مناهج اللغة والدين</tit>
+        <id>155</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في التعليم العام</tit>
+        <id>156</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في الجامعة</tit>
+        <id>170</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول تطوير الدراسات اللغوية</tit>
+        <id>182</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>في تطويرالدراسات اللغوية والاسلامية</tit>
+        <id>192</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نص المذكرة</tit>
+        <id>194</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حول بحث جامعي في قراءات القرآن</tit>
+        <id>211</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المذكرة الأولى</tit>
+        <id>214</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المذكرة الثانية</tit>
+        <id>221</id>
+        <lvl>4</lvl>
+    </title>
+</dataroot>

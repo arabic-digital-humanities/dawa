@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(1) الهجوم على السنة قديما وحديثا</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(2) كتابة الحديث النبوي</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(3) تحرج الصحابة من كتابة الحديث وروايته</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(4) الرواية بالمعنى</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(5) الخروج عن المنهج العلمي</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(6) تحري معاني النصوص</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(7) نصوص أخرى حرف معناها</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(8) مهمة النبي عند صاحب المشروع</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(9) تساؤلات وإجابات</tit>
+        <id>44</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(10) أدلة الأحكام المتفق عليها</tit>
+        <id>50</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(11) أدلة الأحكام من القرآن</tit>
+        <id>55</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(12) عرضنا - فيما سبق - وضع، السنة ومكانتها الرفيعة عند علماء الأمة</tit>
+        <id>60</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(13) الأذان والربا</tit>
+        <id>66</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(14) صلة السنة بالكتاب</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(15) وقف أحاديث الآحاد</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(16) حديث ضمة القبر</tit>
+        <id>85</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>(17) حديث: إذا أنزل الله بقوم عذابا</tit>
+        <id>89</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

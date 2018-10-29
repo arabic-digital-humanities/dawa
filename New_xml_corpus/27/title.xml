@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>ملخص البحث</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: دعاوى النصارى في مجيء المسيح عليه السلام</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الذين قالوا بمجيئه بعد ارتفاعه بوقت قصير</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الذين قالوا بمجيئه قبل القيامة وأنه يؤسس ملكا على الأرض مدته ألف سنة</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>10</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: وقت وكيفية مجيئه</tit>
+        <id>13</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: علامات المجيئ</tit>
+        <id>16</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الحوادث التي تقع بعد الألف سنة</tit>
+        <id>21</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: من يرى أن مجيء المسيح عليه السلام إنما هو للقيامة والحساب وأنه لا يؤسس ملكا على الأرض</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: العلامات التي يتفقون عليها</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: الأشياء التي يختلفون فيها</tit>
+        <id>26</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: الرد على النصارى في دعاوى المجيء</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: بطلان المصادر المعتمدة إجمالا</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: العهد القديم, وطعن طائفة من اليهود والنصارى فيه</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: العهد الجديد وإقرار النصارى بجهالة كتاب تلك الكتب</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: في بطلان ما استدلوا به من دعاويهم في المجيء سندا ومتنا</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: &quot;سفر دانيال&quot;</tit>
+        <id>42</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: &quot;رسائل بولس&quot;</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: سفر &quot;رؤيا يوحنا&quot;</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>62</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الحواشي والتعليقات</tit>
+        <id>64</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر ومراجع</tit>
+        <id>74</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب التمهيدي: وضع العالم الإسلامي وموقعه</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العالم الإسلامي جغرافيا</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الموقع</tit>
+        <id>4</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العالم الإسلامي فقهيا</tit>
+        <id>10</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العالم الإسلامي بين غيره من العوالم</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: واقع العالم الإسلامي</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: الواقع الفكري للعالم اللإسلامي</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>18</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الآفعى اليهودية تنفث سمومها</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفكر الغربي الصليبي في الشرق الإسلامي</tit>
+        <id>28</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفكر الماركسي اليهودي في الشرق الإسلامي</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: الواقع السياسي للعالم الإسلامي</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>غيبة الخلافة الإسلامية</tit>
+        <id>45</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاستعمار الجديد</tit>
+        <id>49</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البعد عن جوهر النظام الإسلامي السياسي</tit>
+        <id>58</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: الواقع الإجتماعي للعالم الإسلامي</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: الواقع الاقتصادي للعالم الإسلامي</tit>
+        <id>65</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: قضايا إسلامية معاصرة</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: أوطان سلبية</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأندلس</tit>
+        <id>68</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فلسطين المسلمة</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>107</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الأرض السليبة تحت النفوذ الشيوعي</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: المسلمون في الاتحاد السوفيتي</tit>
+        <id>108</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: المسلمون في الصين</tit>
+        <id>120</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: المسلمون في بلاد شيوعية أخرى</tit>
+        <id>122</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: أوطان تجاهد</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أفغانستان المجاهدة</tit>
+        <id>130</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أرتريا</tit>
+        <id>155</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عذراء ماليزيا</tit>
+        <id>163</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>163</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أولا: كيف دخل الإسلام عذراء ماليزيا</tit>
+        <id>164</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: حاضر عذراء ماليزيا</tit>
+        <id>168</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: مستقبل العذراء &quot;ماليزيا&quot;</tit>
+        <id>171</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: أوطان يتهددها الخطر</tit>
+        <id>172</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>172</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أندونيسيا</tit>
+        <id>173</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سوريا</tit>
+        <id>179</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>179</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>البعث</tit>
+        <id>180</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>النصيرية</tit>
+        <id>185</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>مصر</tit>
+        <id>190</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لبنان</tit>
+        <id>211</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>211</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أطماع صليبية قديمة وحديثة في لبنان</tit>
+        <id>213</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تصويب الخطأ</tit>
+        <id>223</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفهرست</tit>
+        <id>226</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

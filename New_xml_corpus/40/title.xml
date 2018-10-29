@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>توطئة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل تاريخي</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان بين الخصوصية والكونية</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان في الإسلام</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الحقوق الأساسية</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>8</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حق الحياة</tit>
+        <id>10</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حق الحرية</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حق المساواة والعدالة</tit>
+        <id>15</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>17</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحقوق الاجتماعية</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق المرأة في الإسلام</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقوق الطفل في الإسلام</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حق الإنسان في محيط نظيف وبيئة طبيعية سليمة</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة البحث</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خلاصة البحث</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان في الإسلام</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحقوق الأساسية</tit>
+        <id>37</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحقوق الاجتماعية</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الحق في محيط نظيف وبيئة طبيعية سليمة</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المصادر التي اعتمدها</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ماذا نعني بمصطلح معسكر؟</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الروح الصليبية ونشأتها</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الثأر القديم</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المصالح الآنية</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مخاوف مستقبله</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب: تعريف العصاة وبيان أسباب المعصية وأنواعها ودركاتها</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعريف المعصية والعصاة</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أنواع المعاصي ودركاتها</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب: أساليب دعوة العصاة</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أسلوب التعليم والتبصير</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب تقوية الإيمان وتقوية الوازع الديني</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب الوعظ والتذكير</tit>
+        <id>54</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب التأليف والستر</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب حفز العاطفة وإثارة الشعور والحميو والغيرة</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب الاستتابة</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب الزجر بالإغلاظ في القول والضرب</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الردع بإقامة الحدود الشرعية والتعزيز والكفارات</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب تغيير البيئة</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب إيجاد البدائل</tit>
+        <id>102</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسلوب الهجر</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>116</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

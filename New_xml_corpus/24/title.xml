@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوحيد هو الأساس</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسس الدعوة</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإتباع للسلف</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>طاعة أولي الأمر والنصح لهم</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فقه الدعوة والدعاة</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المنطلق</tit>
+        <id>106</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تبليغ الدعوة</tit>
+        <id>106</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الوسائل</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إعداد الرجال</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توزيع الوظائف في دولة الدعوة</tit>
+        <id>121</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إنصاف الدعوة وآثارها خارج الجزيرة العربية</tit>
+        <id>129</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ندوة دعوة الشيخ محمد بن عبد الوهاب النتائج والتوصيات</tit>
+        <id>148</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

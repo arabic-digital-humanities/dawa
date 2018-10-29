@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاستشراق</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>جذور الاستشراق</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سمات منهاج المستشرقين في البحث</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام هو الدين الحق</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ديانات التوحيد</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جوهر الرسالات السماوية</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بعض ما اتفقت عليه الرسالات</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وحي الله إلى رسله</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تشريع للحاضرة والبادية</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أركان الإسلام</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الصلاة</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الزكاة</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل الزكاة ضريبة كما زعم كاتب الموسوعة؟</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصوم</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحج</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهم مغلوط</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اختلاؤه صلى الله عليه وسلم في الغار</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إجلاء اليهود عن المدينة</tit>
+        <id>56</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هدف الجهاد</tit>
+        <id>59</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التميز في الشخصية</tit>
+        <id>63</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النبوة والأنبياء</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مكانة محمد صلى الله عليه وسلم</tit>
+        <id>70</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تكثيره الطعام</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تكثير الماء ونبعه من بين أصابعه</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حنين الجذع</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تسليم الحجر على النبي صلى الله عليه وسلم</tit>
+        <id>78</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القرآن</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شهادات على عظمة محمد صلى الله عليه وسلم</tit>
+        <id>80</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الوحدة الموضوعية في القرآن</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القرآن منهج الله لهداية العباد نزل منجما ومكانة القصص في القرآن</tit>
+        <id>102</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النسخ</tit>
+        <id>106</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السنة</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>112</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر ومراجع</tit>
+        <id>114</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

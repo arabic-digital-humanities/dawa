@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>فكرة كمنويلث إسلامي</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخطوط العامة للكتاب</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبررات الجغرافية السياسية</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مبررات سيكولوجية</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مبررات فنية</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخلاصة</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رسم دراسة لفكرة كمنويلث إسلامي</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ملاحظة</tit>
+        <id>13</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقائق أساسية</tit>
+        <id>13</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المقتضيات المنطبقة</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القسم الأول: مشروع دراسة شاملة</tit>
+        <id>20</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أ - تأريخ الفكرة</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحيط الجديد</tit>
+        <id>21</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولية المعيار الاجتماعي</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التقليد و (التمثل assimilation)</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فوضى (الأشياء) و (الأفكار)</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاضطراب</tit>
+        <id>30</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تكوين الفكرة</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ب - مشروع دراسة مكتملة</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تبرير عام</tit>
+        <id>38</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب جغرافية سياسية</tit>
+        <id>39</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب نفسية</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المظهر الفني</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إعتبارات عامة</tit>
+        <id>43</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أ - تخطيط يتعين تجنبه</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ب - التخطيط الصحيح</tit>
+        <id>45</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القسم الثاني: قيمة (الفكرة) في المجتمع الإسلامي</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أ - (الفكرة) في المجتمع الإسلامي</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ضعف أساسنا المفاهيمي</tit>
+        <id>49</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفكرة ومراقب الاستعمار</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ب - اللافعالية في المجتمع الإسلامي</tit>
+        <id>58</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(مظاهرها المختلفة)</tit>
+        <id>58</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ملحوظة</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القسم الثالث: وظيفة كمنويلث إسلامي</tit>
+        <id>64</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مناطق (الحضور)</tit>
+        <id>65</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تبعية المشاكل</tit>
+        <id>68</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشهادة</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الرسالة</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المثال البريطاني</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نوعية المشاكل</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خلاصة</tit>
+        <id>80</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المسارد</tit>
+        <id>84</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

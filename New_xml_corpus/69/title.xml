@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بداية عصر النهضة والتقدم عند الأروبيين</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الرجعية في نظر الدول التي لا تدين بدين</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التقدم والرجعية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الرجعية عند الشعوب العربية في العصور الأخيرة</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>استدراك</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

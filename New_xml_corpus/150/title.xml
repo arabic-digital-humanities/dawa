@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>ملاحظات الترجمة العربية</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل الترجمة العربية</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإهداء</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقديم</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الثانية</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين الطبعة الأولى والثانية</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خطر في خطر</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الأولى</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حول هذا الكتاب</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>1 ـ خطورته</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 ـ بعض عناصر المؤامرة الصهيونية</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3ـ قرارات المؤتمر الصهيوني الأول واختلاس البرتوكولات</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4ـ ذعر اليهود لنشر البرتوكولات وأثر ذلك</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>5 ـ استمرار المعارك حول البروتوكولات</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6ـ ندرة نسخ الكتاب ووسائل اليهود في منع تداوله</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>7 ـ أقسام الكتاب وعنوانه</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>8 ـ الناس يهود وجوييم أو أمم</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>9 ـ مقارنة البروتوكولات بكتبهم المقدسة وأقوال ربانييهم وزعمائهم</tit>
+        <id>52</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>10 ـ أين الدولة اليهودية؟ وأين خطرها؟ وما مداه؟</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>11 ـ اليهودية تعبث بالأديان والثقافات لمصلحتها</tit>
+        <id>70</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>12 ـ هل ينجح اليهود في تأسيس مملكة عالمية</tit>
+        <id>75</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>13 ـ المبادئ الصهيونية شر من المبادئ المكيافيلية</tit>
+        <id>78</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>14 ـ موقف المفكرين في حرب الصهيونية</tit>
+        <id>86</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>15 ـ خطاب إلى العرب</tit>
+        <id>93</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المترجمات</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تصدير الطبعة الخامسة للترجمة الإنجليزية</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بروتوكولات حكماء صهيون</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الأول:</tit>
+        <id>105</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الثاني:</tit>
+        <id>116</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الثالث:</tit>
+        <id>118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الرابع:</tit>
+        <id>125</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الخامس:</tit>
+        <id>126</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول السادس:</tit>
+        <id>131</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول السابع</tit>
+        <id>133</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الثامن:</tit>
+        <id>136</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول التاسع:</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول العاشر:</tit>
+        <id>142</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الحادي عشر:</tit>
+        <id>150</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الثاني عشر:</tit>
+        <id>153</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الثالث عشر:</tit>
+        <id>160</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الرابع عشر:</tit>
+        <id>163</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الخامس عشر:</tit>
+        <id>165</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول السادس عشر:</tit>
+        <id>176</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول السابع عشر:</tit>
+        <id>180</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الثامن عشر:</tit>
+        <id>184</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول التاسع عشر:</tit>
+        <id>187</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول العشرون:</tit>
+        <id>188</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البرتوكول الحادي والعشرون:</tit>
+        <id>198</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الثاني والعشرون:</tit>
+        <id>201</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الثالث والعشرون:</tit>
+        <id>202</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البروتوكول الرابع والعشرون</tit>
+        <id>204</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>207</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

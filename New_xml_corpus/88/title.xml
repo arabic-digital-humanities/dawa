@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة المراجع</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمات</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقريظ</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المطلع عليها</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: صفات لابد منها للداعية</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإخلاص</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعاملة الحسنة</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كن قدوة</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كن صادقا</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العجب والغرور</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لابد أن تكون يدك ندية</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القول بلا علم</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاختلاف في الرأي لا يفسد للود قضية</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الداعية صاحب همة</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من خلق الداعية التواضع والقناعة</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الثبات على المبدأ</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>والله إني لأحبك</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كيف تكسب قلوب الناس</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثمرة مرة</tit>
+        <id>63</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: أساليب ومداخل</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>معرفة أحوال الناس</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قبل أن تدعو</tit>
+        <id>73</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العلاقات الإنسانية</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عليك بالمبادرة</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النظام</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>درجات تغيير المنكر</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العادات والتقاليد</tit>
+        <id>90</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الموضوع</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: حسن الاختيار</tit>
+        <id>92</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الوسطية</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>البداية</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توحيد الموضوع</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حدث الناس بما يعرفون</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسند قولك بالدليل من الكتاب والسنة وأقوال الأئمة</tit>
+        <id>104</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ابدأ مع الناس بالأهم قبل المهم</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عبرة وعظة</tit>
+        <id>111</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: علاقة الداعية بمسئوليه</tit>
+        <id>113</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التغير بالتي هي أحسن</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الداعية والأمن</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجندي المجهول</tit>
+        <id>124</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مراجعات</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: وجوب الدعوة</tit>
+        <id>130</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>على من تجب الدعوة</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الداعية في سباق مع الزمن</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كن طبيب عصرك فإن لكل داء دواء</tit>
+        <id>143</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الداعية والمجالس</tit>
+        <id>147</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس: ثقافة الداعية</tit>
+        <id>149</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإطلاع</tit>
+        <id>149</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدعوة واللقاءات</tit>
+        <id>151</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الداعية والعلم</tit>
+        <id>155</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل السابع: واجبات الداعية</tit>
+        <id>162</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف يؤدي الداعية واجبه وما هو دوره؟</tit>
+        <id>162</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثامن: التخطيط</tit>
+        <id>198</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التخطيط والمنهج</tit>
+        <id>198</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التخطيط الناجح</tit>
+        <id>199</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شروط وفوائد التخطيط</tit>
+        <id>202</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عناصر التخطيط</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإدارة</tit>
+        <id>204</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإدارة والنظام</tit>
+        <id>205</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية الإدارة</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية الإدارة في الدعوة</tit>
+        <id>209</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل التاسع: نداءات</tit>
+        <id>212</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النداء الأول: إلى حكام المسلمين</tit>
+        <id>212</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النداء الثاني: إلى رب الأسرة</tit>
+        <id>215</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النداء الثالث: إلى أئمة المساجد</tit>
+        <id>217</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النداء الرابع: إلى العلماء الربانيين والقضاة الشرعيين</tit>
+        <id>220</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النداء الخامس: إلى كل معلم ومعلمة</tit>
+        <id>224</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النداء السادس: إلى رجال الدعوة الإسلامية والحسبة</tit>
+        <id>227</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النداء السابع: إلى ربة البيت</tit>
+        <id>229</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>231</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفهرس</tit>
+        <id>236</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

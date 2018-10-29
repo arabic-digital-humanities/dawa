@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>أي الأديان أصلح للإنسانية عقيدة وشريعة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشيوعية</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>البراهيمية</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجينية</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>البوذية</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الهندوكية</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ديانات الصين</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الكنفوشية</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الطاوية</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشنتو</tit>
+        <id>38</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بوذية الصين</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ديانات فارس والعراق وسوريا</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ديانة موسى</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الديانة المسيحية</tit>
+        <id>57</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توحيد الإسلام وتوحيد اليهودية</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الثالوث في المسيحية والديانات الوثنية</tit>
+        <id>66</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإسلام</tit>
+        <id>73</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

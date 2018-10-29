@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: في تعريف العلمانية ومفهومها</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: تعريف العلمانية في اللغة والاصطلاح</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: التضليل والخداع في تسميتها</tit>
+        <id>8</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: مراحل العلمانية أو صورها</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: طغيان رجال الكنيسة</tit>
+        <id>13</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: أسباب ظهور العلمانية وآثارها في الغرب</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: أسباب ظهور العلمانية وظروف نشأتها في الغرب</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: الصراع بين الكنيسة والعلم</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الثورة الفرنسية</tit>
+        <id>28</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: نظرية التطور</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الخامس: طبيعة التعاليم النصرانية</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب السادس: دور اليهود</tit>
+        <id>37</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: آثار العلمانية في الغرب</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: الإسلام يتنافى مع العلمانية</tit>
+        <id>44</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: عوامل انتقالها إلى العالم الإسلامي</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: انحراف كثير من المسلمين عن العقيدة الصحيحة</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: عوامل إنتقال العلمانية إلى العالم الإسلامي وآثارها السيئة علية</tit>
+        <id>53</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: الاستعمار الغربي والشرقي</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الغزو الفكري</tit>
+        <id>62</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: المستشرقون</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الخامس: المنصرون</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النطلب السادس: الأقليات غير المسلمة داخل المجتمعات الإسلامية</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب السابع: تقدم الغرب الهائل في مضمار العالم الإسلامي</tit>
+        <id>70</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثامن: البعثات إلى الخارج</tit>
+        <id>71</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: آثار العلمانية السيئة على العالم الإسلامي</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: موقف الإسلام من العلمانية</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: حكم الإسلام من العلمانية</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: عمد وقواعد العلمانية وتفنيدها</tit>
+        <id>90</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: التطبيق العلمي للإسلام</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>100</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر ومراجع</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

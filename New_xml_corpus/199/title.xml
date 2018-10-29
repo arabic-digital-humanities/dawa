@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد:</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الحجج والبراهين العقلية القطعية على إثبات ألوهية الله تعالى.</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: ضعف جميع المعبودات من دون الله من كل الوجوه</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: ضرب الأمثلة الحكيمة</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: الكمال المطلق للإله الحق المستحق للعبادة وحده</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - المتفرد بالألوهية:</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - وهو الإله الذي بيده النفع والضر</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - وهو الإله الذي خضع كل شيء لسلطانه</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - وهو القادر على كل شيء</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - إحاطة علمه بكل شيء</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس: التوحيد دعوة جميع الرسل عليهم الصلاة والسلام</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث السادس: الغلو في الصالحين سبب شرك البشر</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>زيارة القبور نوعان:</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النوع الأول: زيارة شرعية</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث السابع: الشفاعة المثبتة والمنفية</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>واصطلاحا:</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشفاعة لغة:</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النوع الثاني: زيارة شركية وبدعية</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>3 - من يظن أن الدعاء عند القبور مستجاب</tit>
+        <id>24</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - من يسأل الميت حاجته، وهؤلاء من جنس عباد الأصنام.</tit>
+        <id>24</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - من سأل الله - تعالى - بالميت،</tit>
+        <id>24</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>يرد على من طلب الشفاعة من غير الله - تعالى - بالأقوال الحكيمة الآتية:</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: ليس المخلوق كالخالق،</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - إما لإخبارهم عن أحوال الناس بما لا يعرفونه.</tit>
+        <id>25</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - أو يكون الملك عاجزا عن تدبير رعيته فلابد له من أعوان؛ لذله وعجزه.</tit>
+        <id>25</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - أو يكون الملك لا يريد نفع رعيته والإحسان إليهم</tit>
+        <id>25</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ب) الشفاعة المنفية:</tit>
+        <id>27</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الشفاعة شفاعتان:</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(أ) شفاعة مثبتة:</tit>
+        <id>27</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الشرط الأول:</tit>
+        <id>27</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>الشرط الثاني:</tit>
+        <id>27</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثامن: الإله الحق سخر جميع ما في الكون لعباده</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الاحتجاج على من طلب الشفاعة</tit>
+        <id>28</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: على وجه الإجمال:</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: على وجه التفصيل:</tit>
+        <id>30</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث التاسع: البعث بعد الموت</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المسلك الأول: الأدلة العقلية:</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: حكمة الله - تعالى - وعدله يقتضيان البعث والجزاء:</tit>
+        <id>32</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: القادر على إيجاد الخلق قادر على إعادته، وهو أهون عليه.</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: الخالق لما هو أعظم قادر على خلق ما هو أصغر بلا شك:</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رابعا: اليقظة بعد النوم:</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خامسا: إخراج النار من الشجر الأخضر:</tit>
+        <id>35</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثاني: الأدلة الحسية:</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: إحياء الله الموتى في الحياة الدنيا:</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - قوم موسى حين قالوا: لن نؤمن لك حتى نرى الله جهرة</tit>
+        <id>36</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - قصة القتيل الذي اختصم فيه بنو إسرائيل</tit>
+        <id>36</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - قصة القوم الذين خرجوا من ديارهم وهم ألوف حذر الموت</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - قصة إبراهيم - صلى الله عليه وسلم - حين سأل الله - تعالى - أن يريه كيف يحيي الموتى؟</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - قصة الرجل الذي مر على قرية ميتة فاستبعد أن يحييها الله، فأماته الله مائة سنة ثم أحياه</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6 - ما أخبر الله به عن عيسى - صلى الله عليه وسلم - من أنه كان يحيي الموتى</tit>
+        <id>38</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: إحياء الأرض بعد موتها:</tit>
+        <id>38</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثالث: الأدلة الشرعية:</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المرتبة الأولى: الحكمة.</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرتبة الرابعة: استخدام القوة.</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرتبة الثانية: الموعظة الحسنة.</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: مراتب الدعوة إلى الله تعالى</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث العاشر: الدعوة بالقوة الفعلية مع الكفار</tit>
+        <id>41</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المرتبة الثالثة: الجدال بالتي هي أحسن.</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>4 - فإن ظلم المعاند ولم يرجع إلى الحق انتقل معه إلى مرتبة استخدام القوة إن أمكن.</tit>
+        <id>42</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>تكون مراتب المدعوين بحسب هذه المراتب كالآتي:</tit>
+        <id>42</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - المستجيب الذكي، القابل للحق، الذي لا يعاند ولا يأباه</tit>
+        <id>42</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - القابل للحق المعترف به؛ لكن عنده نوع غفلة وتأخر</tit>
+        <id>42</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - المعاند الجاحد، فهذا يجادل بالتي هي أحسن</tit>
+        <id>42</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: أسباب استخدام القوة الفعلية مع الكفار</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: قوة الجهاد في سبيل الله تعالى</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسلك الأول: أهداف الجهاد وغايته:</tit>
+        <id>46</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الطور الأول:</tit>
+        <id>47</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - إعلاء كلمة الله، وتبليغ دينه، ودعوة الناس إليه، وإخراجهم من الظلمات إلى النور</tit>
+        <id>47</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - نصر المظلومين</tit>
+        <id>47</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - رد العدوان، وحفظ الإسلام، وحماية عقيدة التوحيد</tit>
+        <id>47</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثاني: أطوار قوة الجهاد:</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الطور الثاني من أطوار الجهاد</tit>
+        <id>50</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - قوة الإيمان والعمل الصالح</tit>
+        <id>51</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - قوة الحديد وما استطاعه المسلمون من قوة مادية</tit>
+        <id>51</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثالث: الإعداد لقوة الجهاد:</tit>
+        <id>51</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الرابع: ضوابط قوة الجهاد:</tit>
+        <id>53</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(ج) فإن امتنعوا عن ذلك كله استعان بالله وقاتلهم</tit>
+        <id>54</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(أ) الإسلام والهجرة،</tit>
+        <id>54</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ب) فإن أبوا الإسلام دعاهم إلى بذل الجزية</tit>
+        <id>54</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(أ) جهادها على تعلم أمور الدين والهدى</tit>
+        <id>55</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المسلك الخامس: مراتب قوة الجهاد وأنواعه:</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - جهاد النفس له أربع مراتب:</tit>
+        <id>55</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ب) جهادها على العمل به بعد علمه،</tit>
+        <id>56</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(ج) جهادها على الدعوة إليه ببصيرة،</tit>
+        <id>56</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(د) جهادها على الصبر على مشاق الدعوة إلى الله،</tit>
+        <id>56</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - جهاد الشيطان وله مرتبتان:</tit>
+        <id>56</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(أ) جهاده على دفع ما يلقي إلى العبد من الشبهات والشكوك</tit>
+        <id>56</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(ب) جهاده على دفع ما يلقي إليه من الشهوات والإرادات الفاسدة،</tit>
+        <id>56</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - جهاد الكفار والمنافقين:</tit>
+        <id>57</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - جهاد أصحاب الظلم والعدوان، والبدع والمنكرات:</tit>
+        <id>57</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(أ) باليد إذا قدر المجاهد على ذلك.</tit>
+        <id>57</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(ب) فإن عجز انتقل إلى اللسان.</tit>
+        <id>57</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(ج) فإن عجز جاهد بالقلب،</tit>
+        <id>57</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>1 - جهاد الكفار، والمنافقين، والمرتدين</tit>
+        <id>59</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: أسباب النصر</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>يتضح مما تقدم أن ميادين أو أنواع القتال في الجهاد كالآتي:</tit>
+        <id>59</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - جهاد الدفاع عن: الدين، والنفس، والأهل، والمال</tit>
+        <id>59</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - جهاد البغاة المعتدين.</tit>
+        <id>59</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المسلك الأول: الإيمان والعمل الصالح:</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثاني: نصر دين الله تعالى:</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثالث: التوكل على الله والأخذ بالأسباب:</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(ب) الأخذ بالأسباب المشروعة.</tit>
+        <id>62</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(أ) الاعتماد على الله، والثقة بوعده ونصره تعالى.</tit>
+        <id>62</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الرابع: المشاورة بين المسؤولين:</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الخامس: الثبات عند لقاء العدو:</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك السادس: الشجاعة والبطولة والتضحية:</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(أ) شجاعته البطولية الفذة في معركة بدر</tit>
+        <id>65</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ب) في معركة أحد قاتل قتالا بطوليا لم يقاتله أحد</tit>
+        <id>65</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ج) في معركة حنين: قال البراء: كنا إذا احمر البأس نتقي به</tit>
+        <id>65</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك السابع: الدعاء وكثرة الذكر</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثامن: طاعة الله ورسوله - صلى الله عليه وسلم -:</tit>
+        <id>68</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك العاشر: الصبر والمصابرة:</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك التاسع: الاجتماع وعدم النزاع:</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الحادي عشر: الإخلاص لله تعالى:</tit>
+        <id>70</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثاني عشر: الرغبة فيما عند الله تعالى:</tit>
+        <id>71</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(أ) ما فعل عمير بن الحمام في بدر</tit>
+        <id>71</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ب) ما فعل أنس بن النضر - عم أنس بن مالك - يوم أحد</tit>
+        <id>72</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الرابع عشر: التحصن بالدعائم المنجيات:</tit>
+        <id>73</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - العزيمة على عدم العودة إليها</tit>
+        <id>73</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(أ) التوبة والاستغفار من جميع المعاصي والذنوب كبيرها وصغيرها</tit>
+        <id>73</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثالث عشر: إسناد القيادة لأهل الإيمان:</tit>
+        <id>73</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - الإقلاع عن جميع الذنوب وتركها.</tit>
+        <id>73</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - الندم على فعلها</tit>
+        <id>74</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>(ب) تقوى الله تعالى</tit>
+        <id>74</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(ج) أداء جميع الفرائض واتباعها بالنوافل.</tit>
+        <id>74</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(د) الأمر بالمعروف والنهي عن المنكر،</tit>
+        <id>74</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(و) الدعاء والضراعة إلى الله تعالى.</tit>
+        <id>75</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>(هـ‍) الاقتداء بالنبي - صلى الله عليه وسلم - في جميع الاعتقادات، والأقوال والأفعال.</tit>
+        <id>75</id>
+        <lvl>4</lvl>
+    </title>
+</dataroot>

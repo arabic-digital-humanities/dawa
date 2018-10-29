@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>تقديم</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول مفهوم الإرهاب وتعريفه</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تعريف الإرهاب</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التعريف اللغوي</tit>
+        <id>5</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعريف الاصطلاحي</tit>
+        <id>7</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التعريف الأمريكي للإرهاب</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني الإرهاب في المجتمع البشري جذوره ونشأته</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نشأة الإرهاب</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أسباب الإرهاب</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المستوى الداخلي</tit>
+        <id>17</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المستوى الدولي</tit>
+        <id>22</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>خصائص الإرهاب</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث الإرهاب في المنظور الإسلامي</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدلالات اللفظية في الآيات القرآنية</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توجيهات الإسلام في مكافحة أسباب الإرهاب</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاتجاه الوقائي</tit>
+        <id>32</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاتجاه العلاجي</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع الموقف الدولي من الإرهاب</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>القوانين والاتفاقات الدولية في مواجهة الإرهاب</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقف العالم من الإرهاب</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جهود الدول في مكافحة الإرهاب</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موقف المملكة العربية السعودية من الإرهاب</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>69</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

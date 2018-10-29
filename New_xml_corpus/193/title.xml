@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>ملخص البحث</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>شكر وتقدير</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أهمية الموضوع</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مشكلة البحث</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهداف البحث</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدراسات السابقة</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>منهج الدراسة</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هيكل البحث</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعريف التفسير الموضوعي، وأنواعه وأهميته</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أنواع التفسير الموضوعي</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أهمية التفسير الموضوعي</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول الإعلام تعريفه، ونشأته، وتطوره</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول تعريفات ومقاصد</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: نشأة الإعلام وتطوره</tit>
+        <id>28</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أنواع وسائل الإعلام</tit>
+        <id>32</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: وسائل الإعلام</tit>
+        <id>32</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعريف الوسائل لغة</tit>
+        <id>32</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>وظائف وسائل الإعلام</tit>
+        <id>34</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: التوجهات الحاكمة للإعلام المعاصر (النظريات الإعلامية)</tit>
+        <id>37</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - نظرية السلطة</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - نظرية الحرية</tit>
+        <id>37</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - نظرية المسؤولية الاجتماعية</tit>
+        <id>38</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - النظرية الاشتراكية</tit>
+        <id>38</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني لمحات حول الإعلام الإسلامي</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: تعريف الإعلام الإسلامي</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وقفة مع التعريفات السابقة</tit>
+        <id>41</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: دواعي ظهور الإعلام الإسلامي</tit>
+        <id>42</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: منطلقات الإعلام الإسلامي</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع أهداف الإعلام الإسلامي</tit>
+        <id>48</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس وسائل الإعلام الإسلامي</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القرآن الكريم</tit>
+        <id>50</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>السنة النبوية</tit>
+        <id>50</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>القدوة الحسنة</tit>
+        <id>50</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إعلام الكلمة الطيبة</tit>
+        <id>51</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث خصائص الإعلام القرآني ووسائله</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: القرآن أعظم الوسائل الإعلامية</tit>
+        <id>57</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المعجزة الباقية</tit>
+        <id>57</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام في القرآن</tit>
+        <id>58</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الدور الإعلامي للرسل الكرام</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: خصائص الإعلام القرآني</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - رباني لا يد لأحد من البشر فيه</tit>
+        <id>66</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - اعتماد الحقائق كمصدر وحيد</tit>
+        <id>66</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - المصداقية</tit>
+        <id>67</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - اعتماد البرهان والدليل العقلي</tit>
+        <id>69</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - الانحياز التام لمكارم الأخلاق</tit>
+        <id>71</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6 - العدالة والإنصاف</tit>
+        <id>73</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>7 - التفاعلية الإيجابية مع الأحداث</tit>
+        <id>75</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: وسائل الإعلام في القرآن</tit>
+        <id>78</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تنويع الخطاب</tit>
+        <id>78</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>القصص</tit>
+        <id>82</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الأمثال</tit>
+        <id>85</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الترغيب والترهيب</tit>
+        <id>88</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>التكرار</tit>
+        <id>91</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الحوار والجدال</tit>
+        <id>95</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس ألفاظ القرآن ذات الدلالات الإعلامية</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني صور الإعلام الإسلامي في القرآن الكريم</tit>
+        <id>104</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول صور الإعلام العقدي في القرآن الكريم</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام العقدي</tit>
+        <id>106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعريف العقيدة لغة</tit>
+        <id>107</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تعريف العقيدة اصطلاحا</tit>
+        <id>107</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>موضوعات الإعلام العقدي</tit>
+        <id>109</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: أهداف الإعلام العقدي في القرآن</tit>
+        <id>111</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعريف الخلق بربهم</tit>
+        <id>111</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان وحدانية الله عز وجل</tit>
+        <id>112</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تعظيم الله سبحانه</tit>
+        <id>113</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام برحمه الله تعالى وعنايته بعباده</tit>
+        <id>113</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بحكمة الله تعالى</tit>
+        <id>114</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>محبة الرسل عليهم الصلاة والسلام وتعظيمهم</tit>
+        <id>114</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بث أجواء الطمأنينة</tit>
+        <id>115</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إعلام الناس بعظمة الله تعالى</tit>
+        <id>115</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إبراز بديع صنع الله في الكون</tit>
+        <id>115</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الدفاع عن عقيدة الأمة ورد الشبهات</tit>
+        <id>116</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث صور الإعلام العقدي في القرآن الكريم</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اعتماد تكرار الحقائق ذات المعنى الواحد</tit>
+        <id>118</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استخدام القصص أسلوبا إعلاميا في بيان معاني العقيدة</tit>
+        <id>119</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بضرب الأمثال لتوصيل حقائق العقيدة والإيمان</tit>
+        <id>122</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بالجدل والحوار عن صحيح الاعتقاد</tit>
+        <id>124</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تنبيه الفطر السليمة وإصلاح ما طرأ عليها من فساد ببيان حقائق العقيدة</tit>
+        <id>127</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استثارة الحواس</tit>
+        <id>129</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بحقائق الإيمان بمخاطبة العقول ومحاججة الأفهام</tit>
+        <id>130</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بذكر سوء عاقبة الكفار</tit>
+        <id>132</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني صور الإعلام السياسي في القرآن الكريم</tit>
+        <id>136</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام السياسي</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني أهداف الإعلام السياسي في القرآن الكريم</tit>
+        <id>139</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - إعلان الحاكمية لله سبحانه</tit>
+        <id>139</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - التأكيد على وحدة الأمة الإسلامية</tit>
+        <id>140</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - بيان السنن الربانية للظهور والتمكين في الأرض</tit>
+        <id>141</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - تعريف الأمة بأحكام الإسلام في إدارة الحكم والشئون العامة</tit>
+        <id>143</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث صور الإعلام السياسي في القرآن الكريم</tit>
+        <id>145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث صور الإعلام العسكري في القرآن الكريم (الحربي - أو الجهادي)</tit>
+        <id>164</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام العسكري</tit>
+        <id>165</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني أهداف الإعلام العسكري في القرآن الكريم</tit>
+        <id>167</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - تنمية روح الانتماء والولاء لأمة الإسلام</tit>
+        <id>167</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - حشد أفراد الأمة للتأهب للدفاع عن الدين والمقدسات</tit>
+        <id>168</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - بث وإشاعة روح الثقة في الأمة</tit>
+        <id>169</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - تربية الأمة على الجدية، وعلو الهمة</tit>
+        <id>170</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - غرس القيم الصحيحة، وتقويم السلوكيات المنحرفة</tit>
+        <id>171</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6 - فضح مؤامرات المنافقين والمرجفين و (الطابور الخامس) ومخططاتهم</tit>
+        <id>173</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>7 - كشف أعداء الأمة والتحذير من كيدهم ومكرهم</tit>
+        <id>175</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>8 - الإعلام بأسباب النصر على الأعداء</tit>
+        <id>177</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث صور الإعلام العسكري في القرآن الكريم</tit>
+        <id>180</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - الإعلام ببيان الحكمة وأسباب فرض القتال على المسلمين</tit>
+        <id>180</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - استخدام تنوع الخطاب في تأسيس المفاهيم العسكرية</tit>
+        <id>182</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أ- أسلوب النداء</tit>
+        <id>182</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ب- خطاب التحريض والإغراء</tit>
+        <id>183</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ت- خطاب الذم والتنفير</tit>
+        <id>183</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ث- الترغيب في الثبات في مواطن النزال</tit>
+        <id>184</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>أ- قصة طالوت مع بني إسرائيل</tit>
+        <id>186</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ب- قصة غزوة الأحزاب</tit>
+        <id>186</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - استخدام الأسلوب القصصي بما له من قدرة على التأثير القوي</tit>
+        <id>186</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ت- قصة غزوة حنين</tit>
+        <id>187</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع صور الإعلام الاجتماعي في القرآن الكريم</tit>
+        <id>188</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام الاجتماعي</tit>
+        <id>189</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني أهداف الإعلام الاجتماعي في القرآن الكريم</tit>
+        <id>191</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بأسس بناء المجتمعات في الإسلام</tit>
+        <id>191</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تنمية الحس الاجتماعي لدى أفراد المجتمع</tit>
+        <id>198</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان العناية القرآنية الكبيرة بالعلاقات الاجتماعية</tit>
+        <id>199</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بأهمية القيم الإنسانية الرفيعة للمجتمع في الإسلام</tit>
+        <id>202</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - استعمال القصص القرآني في تقرير المفاهيم وتقويم السلوك الاجتماعي</tit>
+        <id>207</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث صور الإعلام الاجتماعي في القرآن الكريم</tit>
+        <id>207</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>2 - تنويع الخطاب</tit>
+        <id>213</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس صور الإعلام الاقتصادي في القرآن الكريم</tit>
+        <id>229</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام الاقتصادي</tit>
+        <id>230</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني أهداف الإعلام الاقتصادي في القرآن الكريم</tit>
+        <id>233</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحقيق العبودية لله تعالى بكمال الانقياد لقواعد الشريعة في معاملات الاقتصاد</tit>
+        <id>233</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الدلالة على منابع الثروات ومصادر الإنتاج</tit>
+        <id>235</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الحث على السعي الدءووب، والعمل الجاد، مع ربط الرزق بالإيمان</tit>
+        <id>235</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نشر ثقافة الإحسان</tit>
+        <id>237</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>محاربة الجشع، والرغبة الجامحة في الربح السريع</tit>
+        <id>238</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث صور الإعلام الاقتصادي في القرآن الكريم</tit>
+        <id>243</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ب- ذم الترف والتباهي</tit>
+        <id>243</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>1 - استخدام القصص القرآني في تقرير المفاهيم والمباديء الاقتصادية</tit>
+        <id>243</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أ- مفهوم الادخار وترشيد الاستهلاك</tit>
+        <id>243</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ت- تقرير حقيقة القيم</tit>
+        <id>244</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ث- حسن الوفاء والعدالة في المعاملات</tit>
+        <id>246</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - تنويع الخطاب</tit>
+        <id>247</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس صور الإعلام الثقافي في القرآن الكريم</tit>
+        <id>254</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول تعريف الإعلام الثقافي</tit>
+        <id>255</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تحديد أسس بناء الشخصية الإسلامية</tit>
+        <id>258</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني أهداف الإعلام الثقافي في القرآن الكريم</tit>
+        <id>258</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإعلام بملامح الشخصية المسلمة في القرآن</tit>
+        <id>261</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان نظام الحياة داخل المجتمع المسلم والحث على التزامه</tit>
+        <id>266</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إعلام الأمة بتراث وفكر الأمم المؤمنة من أتباع الأنبياء والمرسلين السابقين</tit>
+        <id>269</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تزويد العقول بحقائق الدين الناصعة، وكشف أباطيل وشبه الخصوم</tit>
+        <id>271</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الدعوة لفتح آفاق الإبداع وإعمال العقول، والتنبيه على آيات الله الكونية</tit>
+        <id>272</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث صور الإعلام الثقافي في القرآن الكريم</tit>
+        <id>275</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخطاب الثقافي العام في القرآن الكريم</tit>
+        <id>275</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استخدام الاستفهام لحفز الأفهام، وبث المعارف المتنوعة</tit>
+        <id>279</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استخدام الأسلوب الإنشائي في الإعلام بحدود الحلال والحرام</tit>
+        <id>285</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استخدام الأسلوب الخبري في الإعلام بالمعارف والأحكام</tit>
+        <id>288</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استعمال التكرار</tit>
+        <id>290</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>استعمال القصص القرآني في بث القيم، والتعاليم الإسلامية</tit>
+        <id>291</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان عاقبة الشر والإفساد</tit>
+        <id>292</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان عاقبة الإيمان والصلاح</tit>
+        <id>293</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان الحرص على طلب العلم</tit>
+        <id>293</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>بيان الحرص على دعوة الخلق ونصحهم، والصبر على أذاهم</tit>
+        <id>294</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>297</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوصيات</tit>
+        <id>299</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المصادر والمراجع</tit>
+        <id>301</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فهرس الآيات</tit>
+        <id>310</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فهرس الأحاديث النبوية</tit>
+        <id>354</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة بقلم الدكتور محمد بن موسى الشريف</tit>
+        <id>2</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعقيب</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المؤلف</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول حصان رومي</tit>
+        <id>20</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: المسلك المختار لدعوة الحوار</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الاتجاه الأول (وحدة الأديان)</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاتجاه الثاني (توحيد الأديان)</tit>
+        <id>27</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاتجاه الثالث (التقريب بين الأديان)</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخصائص الفكرية التي يقوم عليها هذا الاتجاه والملاحظ عليها</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مفهوم التقريب لدى مجلس الكنائس العالمي</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الدولة الفاطمية الثانية</tit>
+        <id>54</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تأييد آية الله التسخيري</tit>
+        <id>55</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>دار التقريب بين المذاهب الإسلامية بين الماضي والحاضر</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تجارب فردية للتقريب حفظها لنا التاريخ</tit>
+        <id>68</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - مصطفى السباعي</tit>
+        <id>68</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - محمد رشيد رضا</tit>
+        <id>70</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - علماء السعودية في عهد الملك فيصل</tit>
+        <id>72</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - محمد الأمين الشنقيطي</tit>
+        <id>73</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>5 - يوسف القرضاوي</tit>
+        <id>73</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>دافعي لبحث مسألة التشيع</tit>
+        <id>75</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: بين أوربانية الماضي والحاضر</tit>
+        <id>81</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فتح القسطنطينية وتبعاته</tit>
+        <id>89</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اختلال موازين القوى الغربية بين ضفتي الأطلسي</tit>
+        <id>93</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الارتباك الفكري يهدد القيادة الأمريكية للنظام العالمي الجديد</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العالم من الثنائية إلى الأحادية القطبية</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>زوال (الخطر الأحمر) وظهور (الخطر الأخضر)</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صمويل هنتجتون يتقدم</tit>
+        <id>105</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظرة على علاقة المجتمع الغربي المعاصر بالإسلام</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هل المجتمع الغربي علماني أم مسيحي؟</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>غزوة مانهاتن!</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عودة إلى ساحة التنظير السياسي</tit>
+        <id>125</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أوربان الأمريكي يعلن حربا صليبية جديدة</tit>
+        <id>127</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرب العراق</tit>
+        <id>130</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فرصة ذهبية</tit>
+        <id>133</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بلاكووتر والاتحاد الكاثوليكي الپروتستانتي</tit>
+        <id>134</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تعديل في المسار</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حرب الأفكار: معركة القلوب والعقول</tit>
+        <id>139</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شيريل بينارد و (الإسلام المدني الديمقراطي)</tit>
+        <id>140</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>توماس فريدمان و (حرب الأفكار)</tit>
+        <id>144</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أندرو ترنبل و (عملية المنافسة)</tit>
+        <id>145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أنچل راباسا و (بناء شبكات إسلامية معتدلة)</tit>
+        <id>146</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: الصهيونية، رؤية مغايرة</tit>
+        <id>153</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>154</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الاستمرار اليهودي من منظور إسلامي</tit>
+        <id>167</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>پروتوكولات حكماء صهيون</tit>
+        <id>171</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصهيونية .. رؤية مغايرة</tit>
+        <id>192</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اصطفاء مشروط لبني إسرائيل</tit>
+        <id>194</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وعد أولاهما</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ورسولا إلى بني إسرائيل</tit>
+        <id>197</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وعد الآخرة</tit>
+        <id>201</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فائدة</tit>
+        <id>202</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>يهود الدياسپورا</tit>
+        <id>204</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظرة على المجتمعات اليهودية الأوروپية من الداخل</tit>
+        <id>214</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العقيدة المشيحانية  Messianism</tit>
+        <id>216</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>علاقة اليهود بالأغيار</tit>
+        <id>221</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الجيتو اليهودي</tit>
+        <id>224</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>واقع العلاقة بين اليهود والنصارى في المجتمعات الأوروپية</tit>
+        <id>230</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصدع اللوثري</tit>
+        <id>240</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ورهبانية ابتدعوها</tit>
+        <id>244</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الكنيسة تجني أرباحا كبيرة</tit>
+        <id>245</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صراع الأباطرة والبابوات</tit>
+        <id>247</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تسرب مظاهر الضعف والانحراف إلى المراكز الدينية</tit>
+        <id>249</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مهزلة صكوك الغفران</tit>
+        <id>250</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عصر الإصلاح الكنسي: جيرولامو سافونارولا</tit>
+        <id>252</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مارتن لوثر: ترجمة</tit>
+        <id>255</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مارتن لوثر واليهود</tit>
+        <id>260</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أفكار لوثر أحدثت ثغرا لا يزال يتسع حتى اليوم</tit>
+        <id>268</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المجتمع النصراني الغربي في بداية عصر النهضة: بداية التزوير التاريخي</tit>
+        <id>269</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ظهور أول أثر أدبي مطبوع عن التفكر في العصر الألفي السعيد</tit>
+        <id>274</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>يوحنا وابن عازر كارترايت وإعادة اليهود إلى إنجلترا</tit>
+        <id>277</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مناسح بن إسرائيل و (أمل إسرائيل)</tit>
+        <id>278</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصهيونية منذ عصر الاستنارة (القرن الثامن عشر) إلى ظهور المسألتين اليهودية والشرقية</tit>
+        <id>283</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بوناپارت وتلاقي المسألتين اليهودية والشرقية</tit>
+        <id>286</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>إنجلترا تتلقف الراية</tit>
+        <id>293</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جذور المسألة اليهودية</tit>
+        <id>299</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ونعود إلى إنجلترا ..</tit>
+        <id>308</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>لورد پالمرستون الثالث</tit>
+        <id>310</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كانت الأهداف الثلاثة على النحو التالي</tit>
+        <id>311</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حلقة الوصل بين الصهيونيتين (اليهودية وغير اليهودية): بنيامين زئيف</tit>
+        <id>313</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>هرتزل: ترجمة</tit>
+        <id>315</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الموقف اليهودي الأرثوذكسي تجاه (البدعة) الصهيونية</tit>
+        <id>324</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المرحلة البلفورية</tit>
+        <id>326</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصهيونية والنازية، وفاق أم شقاق؟!</tit>
+        <id>343</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أمريكا تتلقف الراية</tit>
+        <id>352</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الصهيونية في أمريكا: نبذة تاريخية</tit>
+        <id>359</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثلاثة مؤشرات (1948 - 1967 - ؟؟؟؟)</tit>
+        <id>369</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>نظرة إلى داخل المجتمع الإسرائيلي</tit>
+        <id>374</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>قضية تامارين</tit>
+        <id>381</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الموقف حيال يشوع والجيش الإسرائيلي</tit>
+        <id>382</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الموقف حيال القتل الجماعي</tit>
+        <id>383</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>زواج مصالح ... ولكن!</tit>
+        <id>385</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلاقة (الأمريكية-الإسرائيلية) أشبه بالزواج الكاثوليكي</tit>
+        <id>392</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اللوبي الإسرائيلي وتأثيره في قرارات الولايات المتحدة</tit>
+        <id>395</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني حصان فارسي</tit>
+        <id>403</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: تشيع أم رفض؟ وقفة تاريخية تأصيلية</tit>
+        <id>404</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أيكسر الباب أم يفتح؟</tit>
+        <id>420</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حقيقة موقف كعب الأحبار من مقتل أمير المؤمنين عمر - رضي الله عنه -</tit>
+        <id>422</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جذور البلاء</tit>
+        <id>424</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القذيفة الأولى</tit>
+        <id>427</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بيعة علي بن أبي طالب - رضي الله عنه -</tit>
+        <id>434</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وهذه المسائل الأربعة هي</tit>
+        <id>436</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: تدوين التاريخ</tit>
+        <id>436</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>تعريف الصحابي</tit>
+        <id>440</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: عدالة الصحابة</tit>
+        <id>440</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>طبقات الصحابة</tit>
+        <id>441</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>عدالة الصحابة</tit>
+        <id>442</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>عقيدتنا في الصحابة</tit>
+        <id>444</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>حكم سب الصحابة</tit>
+        <id>445</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: حقيقة الخلاف بين علي ومعاوية رضي الله عنهما</tit>
+        <id>446</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>وقعة الجمل (36هـ)</tit>
+        <id>454</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>معركة صفين (37هـ)</tit>
+        <id>458</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>قضية التحكيم (37 هـ)</tit>
+        <id>460</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>رابعا: موقف أهل السنة والجماعة من الفتنة</tit>
+        <id>465</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عودة إلى البدء: استمالة السبئية لشيعة علي - رضي الله عنه -</tit>
+        <id>470</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ولكن من هم (الشيعة الأولى)؟</tit>
+        <id>473</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تبرؤ شيعي</tit>
+        <id>474</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عام الجماعة (41هـ)</tit>
+        <id>476</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مناقب أمير المؤمنين معاوية - رضي الله عنه -</tit>
+        <id>478</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيعة بعد عام الجماعة</tit>
+        <id>479</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وفاة أمير المؤمنين معاوية - رضي الله عنه - وخلافة يزيد</tit>
+        <id>480</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ولماذا أوصى معاوية - رضي الله عنه - لابنه يزيد بالخلافة؟</tit>
+        <id>481</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>موقف أهل السنة من يزيد بن معاوية</tit>
+        <id>483</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>رأي الإمام ابن تيمية في خروج الحسين - رضي الله عنه -</tit>
+        <id>486</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>جيش التوابين</tit>
+        <id>487</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب فشل حركة التوابين</tit>
+        <id>488</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>في ثقيف كذاب ومبير</tit>
+        <id>488</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>انحراف عقدي</tit>
+        <id>492</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مع الاثني عشرية</tit>
+        <id>496</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وبداية: متى كانت بداية ظهورهم؟</tit>
+        <id>499</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإمام جعفر الصادق - رضي الله عنه -</tit>
+        <id>501</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأصابع الخفية المؤسسة لعقيدة الشيعة الإمامية</tit>
+        <id>504</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: عقيدة أهل المذهب الفقهي الخامس</tit>
+        <id>510</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>«والأدلة على بطلان مذهب الرافضة لا تحصى إلا بالمشقة، ألا فليدخلوا في الإسلام!» [الحذيفي]</tit>
+        <id>511</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عقيدة الإمامة</tit>
+        <id>512</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أصل عقيدة الإمامة</tit>
+        <id>514</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ولماذا اثنا عشر إماما؟</tit>
+        <id>518</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اعتقاد الرافضة في أئمتهم</tit>
+        <id>520</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مغالطات واضحة</tit>
+        <id>526</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المتتبع لسلسلة الأئمة يلاحظ الآتي</tit>
+        <id>526</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>حيرة!!</tit>
+        <id>528</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ولماذا اختفى؟</tit>
+        <id>528</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>في السرداب</tit>
+        <id>530</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>كم مدة غيبته؟</tit>
+        <id>531</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>وعرفت هذه بالغيبة الكبرى ..</tit>
+        <id>532</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الثورة الخمينية وولاية الفقيه</tit>
+        <id>533</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: بيان رابطة العالم الإسلامي</tit>
+        <id>539</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: بيان مفتي جمهورية تونس الحبيب بلخوجة</tit>
+        <id>539</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: فتوى علماء المغرب</tit>
+        <id>539</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>رابعا: بيان رابطة العلماء في العراق</tit>
+        <id>540</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>خامسا: فتوى الشيخ الألباني</tit>
+        <id>540</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>متى تكون التقية؟</tit>
+        <id>543</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>التقية عند الرافضة</tit>
+        <id>544</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>واقرأ معي هذه النصوص</tit>
+        <id>545</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عقيدة البداء</tit>
+        <id>548</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من أقوال الرافضة في البداء</tit>
+        <id>550</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عقيدة الرافضة في القرآن</tit>
+        <id>555</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>عقيدة الطينة</tit>
+        <id>573</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>واقرأ معي هذه النصوص</tit>
+        <id>575</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عقيدة الرافضة في أهل السنة</tit>
+        <id>577</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اعتقاد أهل السنة في آل البيت - رضي الله عنهم -</tit>
+        <id>591</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ثناء آل البيت على الصحابة - رضي الله عنهم - أجمعين</tit>
+        <id>593</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>وماذا عن باقي الأئمة آل البيت رحمهم الله؟؟</tit>
+        <id>597</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>بل أنتم الناصبة!</tit>
+        <id>599</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>واقرأ معي هذه النصوص</tit>
+        <id>600</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>موافقة الرافضة اليهود في استباحة دم المخالف</tit>
+        <id>601</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>عقيدة الرجعة</tit>
+        <id>605</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من الراجعون؟</tit>
+        <id>606</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>وما مهام المهدي الراجع؟</tit>
+        <id>608</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>إباحة الرافضة زواج المتعة</tit>
+        <id>609</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من أدلة تحريم المتعة</tit>
+        <id>611</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>نظرية الخمس</tit>
+        <id>615</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الخمس عند الرافضة</tit>
+        <id>616</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>من أقوال علماء أهل السنة في الرافضة</tit>
+        <id>619</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: شبهات وردودها</tit>
+        <id>624</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الأولى: حديث الغدير</tit>
+        <id>625</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثانية: حادثة فدك والإرث</tit>
+        <id>627</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثالثة: آية المودة</tit>
+        <id>631</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الرابعة: آية التطهير</tit>
+        <id>633</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الخامسة: آية الولاية</tit>
+        <id>635</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة السادسة: حديث المنزلة</tit>
+        <id>636</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة السابعة: «علي مني وأنا من علي»</tit>
+        <id>637</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثامنة: «يا رب أصحابي!»</tit>
+        <id>637</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة التاسعة: آية الفتح</tit>
+        <id>638</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة العاشرة: في صلح الحديبية</tit>
+        <id>639</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الحادية عشرة: «إنكن صواحب يوسف»</tit>
+        <id>640</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشبهة الثانية عشرة: «هلم أكتب لكم كتابا لا تضلوا بعده»</tit>
+        <id>641</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>643</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

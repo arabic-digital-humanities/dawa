@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>هذا الكتاب</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة الطبعة الفرنسية</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإهداء</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>توطئة</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مشكلة الحضارة</tit>
+        <id>26</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مشكلة الثقافة</tit>
+        <id>60</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مشكلة المفهومية</tit>
+        <id>84</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الديمقراطية في الإسلام</tit>
+        <id>122</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إنتاج المستشرقين</tit>
+        <id>155</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

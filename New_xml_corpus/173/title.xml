@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاشتراكية الشيوعية</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المذاهب الحديثة</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النوع الأول</tit>
+        <id>9</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أنواع الاشتراكية</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النوع الثاني</tit>
+        <id>10</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النوع الثالث</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+</dataroot>

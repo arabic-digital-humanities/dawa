@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التمهيد: أهمية الحكمة في الدعوة إلى الله تعالى:</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مفهوم الحكمة: لغة وشرعا</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: مفهوم الحكمة في اللغة:</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: مفهوم الحكمة في الاصطلاح الشرعي</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: العلاقة بين التعريف اللغوي والشرعي</tit>
+        <id>15</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النوع الأول:</tit>
+        <id>16</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: أنواع الحكمة ودرجاتها</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: أنواع الحكمة</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>النوع الثاني:</tit>
+        <id>17</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الدرجة الأولى:</tit>
+        <id>18</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: درجات الحكمة العملية</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدرجة الثانية:</tit>
+        <id>19</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الدرجة الثالثة:</tit>
+        <id>19</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأمر الأول:</tit>
+        <id>20</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الأمر الثاني:</tit>
+        <id>20</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الأمر الثالث:</tit>
+        <id>21</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: أركان الحكمة</tit>
+        <id>22</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: العلم:</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>توطئة:</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القسم الأول:</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القسم الثاني:</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>القسم الثالث:</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أسباب وطرق تحصيل العلم:</tit>
+        <id>30</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>1 - أن يسأل العبد ربه العلم النافع</tit>
+        <id>31</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>2 - الاجتهاد في طلب العلم،</tit>
+        <id>31</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>3 - اجتناب جميع المعاصي</tit>
+        <id>32</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>4 - عدم الكبر والحياء عن طلب العلم</tit>
+        <id>33</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>6 - العمل بالعلم:</tit>
+        <id>34</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: الحلم</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - أعظمها ولبها: الإخلاص في طلب العلم،</tit>
+        <id>34</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>علاج الغضب</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الطريق الأول: الوقاية:</tit>
+        <id>47</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الطريق الثاني: العلاج إذا وقع الغضب:</tit>
+        <id>48</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>النوع الأول:</tit>
+        <id>48</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>النوع الثاني:</tit>
+        <id>49</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>النوع الثالث:</tit>
+        <id>49</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>النوع الرابع:</tit>
+        <id>50</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الأناة</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: طرق اكتساب الحكمة</tit>
+        <id>67</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد:</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: السلوك الحكيم</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>السلوك</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الخلق</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الأول: قدوة الداعية في سلوكه:</tit>
+        <id>72</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسالك الحكيمة</tit>
+        <id>72</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثاني: أصول السلوك الحكيم</tit>
+        <id>77</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثالث: وصايا الحكماء باكتساب الحكمة</tit>
+        <id>82</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: العمل بالعلم المقرون بالصدق والإخلاص</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الاستقامة</tit>
+        <id>89</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: الخبرات والتجارب</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المطلب الخامس: السياسة الحكيمة</tit>
+        <id>99</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* طرق السياسة الحكيمة في الدعوة إلى الله - عز وجل -</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - تحري أوقات الفراغ، والنشاط،</tit>
+        <id>100</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - ترك الأمر الذي لا ضرر في تركه ولا إثم،</tit>
+        <id>101</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - تأليف القلوب بالمال والجاه</tit>
+        <id>102</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>4 - التأليف بالعفو في موضع الانتقام،</tit>
+        <id>104</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>5 - عدم مواجهة الداعية أحدا بعينه</tit>
+        <id>105</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>6 - إعطاء الوسائل صورة ما تصل إليه،</tit>
+        <id>107</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>7 - أن يجيب الداعية على السؤال الخاص</tit>
+        <id>108</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>8 - ضرب الأمثال،</tit>
+        <id>109</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب السادس: فقه أركان الدعوة إلى الله تعالى</tit>
+        <id>110</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسلك الأول: موضوع الدعوة</tit>
+        <id>111</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثاني: الداعي:</tit>
+        <id>114</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>1 - وظيفة الداعية:</tit>
+        <id>114</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>2 - عدة الداعية وسلاحه:</tit>
+        <id>116</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>3 - أخلاق الداعية وصفاته:</tit>
+        <id>117</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المسلك الثالث: المدعو:</tit>
+        <id>119</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المسلك الرابع: أساليب الدعوة ووسائل تبليغها:</tit>
+        <id>121</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>أولا: أساليب الدعوة:</tit>
+        <id>122</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: وسائل تبليغ الدعوة إلى الله تعالى:</tit>
+        <id>124</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>أ- التبليغ بالقول:</tit>
+        <id>125</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ج- التبليغ بالسيرة الحسنة:</tit>
+        <id>127</id>
+        <lvl>5</lvl>
+    </title>
+    <title>
+        <tit>ب- التبليغ بالعمل:</tit>
+        <id>127</id>
+        <lvl>5</lvl>
+    </title>
+</dataroot>

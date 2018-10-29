@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان في الفكر الغربي</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نقد النظرة الأوروبية لحقوق الإنسان</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خصائص النظرة الإسلامية لحقوق الإنسان</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين النظر الإسلامي والفكر الغربي في فكرة الحق</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حق الحياة وسلامة البدن والعقل والعرض</tit>
+        <id>51</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حرية الإنسان</tit>
+        <id>56</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المساواة</tit>
+        <id>64</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التكافل الاجتماعي</tit>
+        <id>77</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المملكة العربية السعودية وحقوق الإنسان</tit>
+        <id>87</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقوق الإنسان في النظام الأساسي للحكم والأنظمة الأخرى في المملكة</tit>
+        <id>92</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>106</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

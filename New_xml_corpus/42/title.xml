@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة الطبعة الثامنة</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقدمات</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقديم الطبعة الرابعة</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقديم الطبعة الثالثة</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقديم الطبعة الثانية</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقديم الطبعة الأولى</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فاتحة</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاستعمار الغربي يتسلل إلى العالم الإسلامي</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العالم الإسلامي في نظر الغرب المستعمر</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مفكرون من المسلمين مع الاستعمار</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: اتجاه حماية الاستعمار، أو الاتجاه الفكرى الممالئ</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حركة أحمد خان</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المذهب القادياني</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الأحمدية</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المستشرقون ... والاستعمار</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النزعة الأولى</tit>
+        <id>35</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>النزعة الثانية</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مقاومة مزدوجة</tit>
+        <id>50</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: اتجاه مقاومة الاستعمار الغربي</tit>
+        <id>50</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>محمد جمال الدين الأفغاني</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>محمد عبده</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث: التجديد في الفكر الإسلامي</tit>
+        <id>143</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اتجاه الفكر الإسلامي منذ بداية القرن العشرين</tit>
+        <id>143</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بشرية القرآن</tit>
+        <id>165</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام دين ... لا دولة</tit>
+        <id>183</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدين خرافة</tit>
+        <id>215</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدين مخدر</tit>
+        <id>233</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع: الإصلاح الديني</tit>
+        <id>311</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس: الإسلام غدا</tit>
+        <id>378</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مواجهة الإسلام للصليبية والماركسية</tit>
+        <id>378</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإسلام فوق الزمان والمكان</tit>
+        <id>381</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفراغ في الحياة التوجيهية العامة</tit>
+        <id>384</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأزهر</tit>
+        <id>387</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأزهر في تنظيمه الجديد</tit>
+        <id>391</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السادس: ملحقات المبشرون والمستشرقون وموقفهم من الإسلام</tit>
+        <id>394</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>394</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المستشرقون المعاصرون</tit>
+        <id>411</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المتطرفون من المستشرقين</tit>
+        <id>424</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بعض الكتب المتطرفة</tit>
+        <id>430</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب &quot;مجد الإسلام&quot; لجاستون فييت</tit>
+        <id>434</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المستشرقون الناطقون بالإنجليزية ومدى اقترابهم من حقيقة الإسلام والقومية العربية</tit>
+        <id>448</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>محتويات الكتاب</tit>
+        <id>478</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

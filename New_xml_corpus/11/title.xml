@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>النواب صديق حسن البوفالي وأصحابه</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>4</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>آثاره العلمية</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>آثاره العلمية</tit>
+        <id>5</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>من علماء أسرة النواب البوفالي</tit>
+        <id>6</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من علماء أسرة النواب البوفالي</tit>
+        <id>6</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدرسة المحدث السيد نذير حسين الدهلوى</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>7</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مؤلفاته</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مؤلفاته</tit>
+        <id>9</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الإمام المصلح المحدث العارف بالله عبد الغزنوي</tit>
+        <id>10</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تلاميذه</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشيخ المحدث بديع الزمان بن مسيح الزمان اللكنوي الحيدر آبادي</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيخ المحدث أمير حسن</tit>
+        <id>13</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ الداعية المحدث الحافظ محمد بن بارك الله اللكهوي</tit>
+        <id>14</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ عبد الوهاب الملتاني الدهلوي</tit>
+        <id>15</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيخ المحدث أبو عبد الرحمن محمد الفنجابى</tit>
+        <id>16</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحدث محمد بن هاشم السورتي السامرودي</tit>
+        <id>17</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيخ أبو النصر عبد الغفار نشتر المهدانوي</tit>
+        <id>18</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة المحدث الحافظ أبو محمد إبراهيم بن العلى الآروى</tit>
+        <id>19</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحدث محمد سعيد البنارسي</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المحدث محمد أبو القاسم البنارسي</tit>
+        <id>21</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والمحدث أبو الحسن السيالكوتي</tit>
+        <id>22</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ المحقق أبو يحيى محمد بن كفايت الله</tit>
+        <id>23</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلامة المحقق المحدث الشيخ محمد بشير بن بدر الدين الفاروقي السهسواني</tit>
+        <id>24</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة المحقق المحدث الكبير أبو الطيب محمد شمس الحق بن أمير علي العظيم آبادي</tit>
+        <id>25</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة المحدث الحافظ عبد المنان بن شرف الدين الوزير آبادي</tit>
+        <id>28</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة المحدث عبد العزيز الرحيم آبادي</tit>
+        <id>30</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة المحقق الشيخ عبد الله بن عبد الرحيم الغازيفوري</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ السيد أحمد حسن الدهلوي</tit>
+        <id>32</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلامة الشيخ أبو سعيد محمد حسين البتالوي</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلامة السيد عبد العزيز الحسيني الصمدني</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيخ فقير الله بن فتح المدراسي</tit>
+        <id>35</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>العلامة المحدث عبد السلام المباركفوري</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيخ المحدث عبد الحكيم النصير آبادي</tit>
+        <id>37</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة المحدث أبو تراب رشد الله شاه بن العلامة رشيد الدين شاه</tit>
+        <id>38</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ المحدث الحافظ عبد الجبار بن الشيخ منشى بدر الدين العمر فوري ثم الدهلوي</tit>
+        <id>39</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ المحدث العلامة أبو المكارم محمد علي بن العلامة فيض الله المئوي</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والمحدث الكبير العلامة أبو العلى عبد الرحمن بن الحافظ عبد الرحيم المباركفوري</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ المحدث أحمد الله بن أمير الله البرتابكدهي ثم الدهلوي</tit>
+        <id>44</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ المحدث الحافظ أبو تراب عبد التواب بن العلامة قمر الدين الملتاني</tit>
+        <id>45</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والعلامة شيخ الإسلام أبو الوفاء ثناء الله الامر تسري</tit>
+        <id>46</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الشيخ المحدث محمد نعمان بن الحاج عبد الرحمن المئوي الأعظمي</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>والشيخ العلامة محمد إبراهيم مير السيالكوتي</tit>
+        <id>48</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تلامذة المحدث عبد الوهاب الملتاني الدهلوي</tit>
+        <id>49</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>تلاميذ تلامذة السيد نذير حسين المحدث الدهلوي</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

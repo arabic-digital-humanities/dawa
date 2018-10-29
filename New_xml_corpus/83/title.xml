@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ما هو أسلوب الدعوة؟</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خصائص هذه الأساليب</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الأساليب العقائدية ومنهج القرآن في تقريرها</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>منهج القرآن في الإستدلال على صدق العقيدة الإسلامية</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نماذج من هذا الإستدلال</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العقيدة في الأساليب الخبرية والإنشائية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في الأساليب الإنشائية</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العقيدة في أساليب المحاورة والمحججة</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العقيدة في أسلوب القصة</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

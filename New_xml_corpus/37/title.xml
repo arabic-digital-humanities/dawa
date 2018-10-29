@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدين والحياة</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فلنسم الأشياء بأسمائها</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لماذا يظلم الإنسان أخاه؟</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أيها الزعماء ... متى ستبدأون الرحلة الجديدة وإلى أين؟!</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أمانة الكلمة</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السلمي.. عبث وسراب</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من ذا الذي يستطيع أن يعبر فوق هذا التراث</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أي إسلام تريدون؟</tit>
+        <id>26</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لا حضارة دون سلاح</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هل أنت واقعي؟!</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ما دورنا في لعبة الأمم؟</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجانب الروحي في قضايانا السياسية</tit>
+        <id>40</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لماذا يجب علينا أن نرفض الصلح والسلام مع اليهود؟</tit>
+        <id>44</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دروس من الحرب اللبنانية</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف نستعد للجولة الخامسة؟</tit>
+        <id>52</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أولا: الاستعداد السياسي:</tit>
+        <id>52</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: السلم بين البلاد العربية قبل السلم مع إسرائيل</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثالثا: البناء الاقتصادي</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>(أ) مفهوم المال العام</tit>
+        <id>61</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>(ب) مفهوم المال الخاص</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>البحث عن السلام عند تجار الحروب</tit>
+        <id>70</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إلى متى نطلب حل مشكلاتنا من الخارج؟</tit>
+        <id>75</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هذا هو اليهودي العالمي</tit>
+        <id>80</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أنقذوا الفلسطينيين في الأرض المحتلة قبل فوات الأوان</tit>
+        <id>84</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>إلى الذين أعطوا اليهود &quot;صك غفران&quot;</tit>
+        <id>89</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>خدعوك فقالوا &quot;اعرف عدوك&quot;</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لماذا يتهالك الشيوعيون على الصلح مع إسرائيل؟</tit>
+        <id>100</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجوع الروحي يجتاح العالم</tit>
+        <id>104</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفساد.. من سيحاسب من؟</tit>
+        <id>109</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجانب الخلقي في الأزمة الاقتصادية</tit>
+        <id>114</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التنفيس السياسي</tit>
+        <id>119</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>العرب والمستقبل البائس</tit>
+        <id>124</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الانتظار ليس صناعة سياسية ولا عسكرية</tit>
+        <id>130</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>على من ستطبقون حكم المرتد؟</tit>
+        <id>135</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدوامة</tit>
+        <id>139</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>لحساب من تعمل إسرائيل؟</tit>
+        <id>143</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كارتر و &quot;القاضي سليم&quot;</tit>
+        <id>150</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وااسلاماه!!</tit>
+        <id>155</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هل زيارة الرئيس للقدس هي إرادة الله وبشارة القرآن؟!</tit>
+        <id>160</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رياح الجاهلية تهب على العالم الإسلامي</tit>
+        <id>166</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشعوب والسحرة..</tit>
+        <id>171</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من نحن؟ وأين نحن الآن؟</tit>
+        <id>177</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>هل حقا سيعيد التاريخ نفسه؟</tit>
+        <id>182</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نحو رحلة جديدة للبحث عن الذات</tit>
+        <id>186</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>محاولة كشف القناع</tit>
+        <id>191</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حديث إلى الساسة</tit>
+        <id>196</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كيف نصطاد الأرانب السحرية؟</tit>
+        <id>200</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بين الفدائية والتخريب..</tit>
+        <id>205</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>من يستطيع إيقاف سقوط العربة؟</tit>
+        <id>210</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

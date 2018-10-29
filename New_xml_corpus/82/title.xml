@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: موضوع الدعوة</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: تعريف الإسلام</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: أركان الإسلام</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>11</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الركن الأول: شهادة أن لا إله إلا الله</tit>
+        <id>12</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الركن الثاني: شهادة أن محمدا رسول الله</tit>
+        <id>20</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: الركن الثالث: العمل الصالح</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: خصائص الإسلام</tit>
+        <id>40</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الخصيصة الأولى: أنه من عند الله</tit>
+        <id>41</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الخصيصة الثانية: الشمول</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: الخصيصة الثالثة: العموم</tit>
+        <id>52</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: الخصيصة الرابعة: الجزاء في الإسلام</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس: الخصيصة الخامسة: المثالية والواقعية</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: المثالية في الإسلام</tit>
+        <id>66</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: الواقعية في الإسلام</tit>
+        <id>69</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: أنظمة الإسلام</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>72</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: نظام الأخلاق في الإسلام</tit>
+        <id>74</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>98</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: النظام الاجتماعي في الإسلام</tit>
+        <id>98</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: أساس نظام المجتمع في الإسلام</tit>
+        <id>100</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: خصائص النظام الإجتماعي في الإسلام</tit>
+        <id>104</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: نظام الإفتاء</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>135</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: المستفتي</tit>
+        <id>137</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: المفتي</tit>
+        <id>148</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الإفتاء</tit>
+        <id>157</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: الفتوى</tit>
+        <id>163</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: نظام الحسبة</tit>
+        <id>169</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>169</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: التعريف بالحسبة ومشروعيتها ومكانتها في الإسلام</tit>
+        <id>170</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: المحتسب</tit>
+        <id>173</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: المحتسب عليه</tit>
+        <id>182</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: موضوع الحسبة</tit>
+        <id>184</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الخامس: الاحتساب</tit>
+        <id>191</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث الخامس: نظام الحكم</tit>
+        <id>199</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>199</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: الخليفة</tit>
+        <id>201</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: الشوري</tit>
+        <id>214</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: الخضوع لسلطان الإسلام</tit>
+        <id>223</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الرابع: مقاصد الحكم في الإسلام</tit>
+        <id>227</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث السادس: النظام الاقتصادي</tit>
+        <id>235</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>235</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الأول: الفرع الأول: الأساس الفكري للنظام الاقتصادي الإسلامي</tit>
+        <id>236</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثاني: المبادئ العامة في النظام الاقتصادي الإسلامي</tit>
+        <id>244</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المطلب الثالث: بيت المال موارده ومصارفه: الفرع الأول موارد بيت المال</tit>
+        <id>253</id>
+        <lvl>4</lvl>
+    </title>
+    <title>
+        <tit>المبحث السابع: نظام الجهاد</tit>
+        <id>269</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثامن: نظام الجريمة والعقوبة</tit>
+        <id>275</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: مقاصد الإسلام</tit>
+        <id>299</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: الداعي</tit>
+        <id>303</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>303</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: التعريف بالداعي</tit>
+        <id>304</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: عدة الداعي</tit>
+        <id>322</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>322</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الفهم الدقيق</tit>
+        <id>323</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الإيمان العميق</tit>
+        <id>330</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: الاتصال الوثيق</tit>
+        <id>340</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: أخلاق الداعي</tit>
+        <id>343</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث: المدعو</tit>
+        <id>367</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>367</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: التعريف بالمدعو وماله وما عليه</tit>
+        <id>368</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>374</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: أصناف المدعوين</tit>
+        <id>374</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الملأ</tit>
+        <id>375</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: جمهور الناس</tit>
+        <id>385</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: المنافقون</tit>
+        <id>391</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: العصاة</tit>
+        <id>401</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع: أساليب الدعوة ووسائلها</tit>
+        <id>405</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>405</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: مصادر أساليب الدعوة ووسائلها ومدى الحاجة إليها</tit>
+        <id>406</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>413</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: أساليب الدعوة</tit>
+        <id>413</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الداء والدواء</tit>
+        <id>414</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: إزالة الشبهات</tit>
+        <id>419</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: الترغيب والترهيب</tit>
+        <id>430</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الرابع: التربية والتعليم</tit>
+        <id>435</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: وسائل الدعوة</tit>
+        <id>440</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>440</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: الوسائل الخارجية للدعوة</tit>
+        <id>441</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: وسائل تبليغ الدعوة</tit>
+        <id>463</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفهارس</tit>
+        <id>481</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفهرست</tit>
+        <id>481</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فهرس الموضوعات</tit>
+        <id>504</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

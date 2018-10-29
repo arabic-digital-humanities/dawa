@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مدخل</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام سلاح في يد الأعداء</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام الطباعي</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام الصهيوني</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإذاعات التنصيرية</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفيلم وقضايا المسلمين</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مسؤولية الإعلام عن بث روح التضامن</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام وأصالة التضامن الإسلامي</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام وتحقيق التضامن الإسلامي</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أساليب الإعلام والدعوة الإسلامية</tit>
+        <id>20</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام قوة حضارية إسلامية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإعلام وإشاعة روح التضامن</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مسؤولية الإعلام ومستقبله</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

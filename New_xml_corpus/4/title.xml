@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: مفهوم التدريب وأهميته وخصائصه</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مفهوم التدريب وأهميته</tit>
+        <id>7</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: خصائص التدرب على أساليب الكلام</tit>
+        <id>22</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: التدريب على الخطابة</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مفهوم الخطابة وخصائص الأسلوب الخطابي</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: مسالك التدريب على الخطابة</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: تعريف الندوة وأنواعها ومحاورها العامة</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: التدريب على الندوة</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: مسالك التدريب على إقامة الندوة</tit>
+        <id>84</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: التدريب على الكلمة الإذاعية</tit>
+        <id>87</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: مقدمة عن الإعلام وخصائصه ووسائله ووظائفه</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثاني: الإذاعة وخصائصها</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المبحث الثالث: مسالك التدريب على الكلمات الإذاعية</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: التدريب على الكلمات المرئية</tit>
+        <id>101</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبحث الأول: تعريف الرأي وخصائصه، ونبذة عن بعض الأحكام المتعلقة به</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الخاتمة</tit>
+        <id>112</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر ومراجع</tit>
+        <id>114</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

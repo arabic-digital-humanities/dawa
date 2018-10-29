@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>بسم الله الرحمن الرحيم</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الحمد لله وكفى، وسلام على عباده الذين اصطفى</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* مدرس الفقه: -</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>&quot;الطلاق البدعى&quot;</tit>
+        <id>3</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المدافع عن السنة</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* مربي المسلمات</tit>
+        <id>4</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مقاصد الرسالة وحجم كل مقصد</tit>
+        <id>6</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الرسالة الأولى من هذه السلسلة سلم أخلاق النبوة دراسة قرآنية</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تقديم: بقلم الأديب حديوي حلاوة</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* أخلاق النبوات عند مالك بن نبي</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أخلاقه - صلى الله عليه وسلم - دليل على نبوته</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* رفض التصديق، وليس تكذيب الصادق.</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>معجزتان للنبي - صلى الله عليه وسلم -</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* المعجزة الثانية</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الحب سلاحه</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* فداء وعطاء</tit>
+        <id>32</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* سورة الأحزاب</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>- سر المعجزة عند مليك مقتدر</tit>
+        <id>38</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* القانون العام</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* وضوح المنهج</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* قوة التركيز</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سلم أخلاق النبوة (المرحلة الأولى)</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* رحلة الأخلاق عند النبي - صلى الله عليه وسلم -</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* حديث شق صدره.</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- الاستسقاء باليتيم</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الراهب بحيرا</tit>
+        <id>50</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* رعي الغنم مدرسة للقيادة</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* من يضع الحجر؟</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سلم أخلاق النبي (المرحلة الثانية)</tit>
+        <id>54</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السلم يبدأ من كمال إلى أكمل</tit>
+        <id>55</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تربية القرآن للنبي - صلى الله عليه وسلم -</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{ولا تمنن تستكثر}</tit>
+        <id>58</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{ولربك فاصبر}</tit>
+        <id>59</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{ولا تمدن عينيك إلى ما متعنا به أزواجا منهم زهرة الحياة الدنيا لنفتنهم فيه ورزق ربك خير وأبقى}</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{خذ العفو وأمر بالعرف وأعرض عن الجاهلين}</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* قصة الهجرة</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{خذ العفو وأمر بالعرف وأعرض عن الجاهلين}</tit>
+        <id>66</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>- {خذ العفو} المعنى الأول.</tit>
+        <id>66</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{خذ العفو} نظرة في الاقتصاد</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أولا: القرض الحسن</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* ضرورة السداد</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الجزاء على القرض</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثانيا: الماعون. إنفاق للعفو.</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* عارية الماعون</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* عارية المنيحة</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* استثمار الأصل</tit>
+        <id>73</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العرف في القرآن والسنة</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* نظرات في كتب السنة في الأمر بالمعروف.</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>لم يوقف العالم - كل العالم - عقوبة الضرب.</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الأمر بالمعروف قانون أخلاقي</tit>
+        <id>78</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خواطر متفرقة</tit>
+        <id>80</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- الحرص على وحدة الأمة لا يعني الطاعة في منكر</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* غرسوا فأكلنا ونغرس ليأكل الآخرون</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الرفق في الأمر بالمعروف</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* عدم كشف المستور</tit>
+        <id>86</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* من الزاني منهما؟</tit>
+        <id>87</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وامرأة العزيز ذكرها القرآن قبل حديث النساء عنها، كالقط الوادع</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* {وقلن قولا معروفا}</tit>
+        <id>90</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أين النساء المسلمات؟!!!</tit>
+        <id>93</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>- سيدة مسلمة سألتني:</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>العرف في كتب الأصول</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* (وأمر بالعرف) في مجال وصي اليتيم</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كل شيء في الحياة الزوجية بالمعروف.</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>{وأعرض عن الجاهلين}</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الجاهل غير الأمي.</tit>
+        <id>106</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* النموذج الأول للعرض والإعراض</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* النموذج الثاني.</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* النموذج الثالث للعرض والإعراض</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* النموذج الرابع في العرض والإعراض</tit>
+        <id>110</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سلم النبي - صلى الله عليه وسلم - من أدب الطعام إلى صناعة الأمراء</tit>
+        <id>111</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* منهج إعداد القادة</tit>
+        <id>113</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الثعلب والنعامة</tit>
+        <id>117</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* مساومات</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هل مجرد إعلام النبي - صلى الله عليه وسلم - بالأصول الأخلاقية، يكفي لقيادة الركب إلى الله؟</tit>
+        <id>120</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* القرب والمؤاخذة</tit>
+        <id>121</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* أسلوب الآية الكريمة</tit>
+        <id>123</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزء الثاني مكارم الأخلاق وكيف تممها النبي - صلى الله عليه وسلم - إنما بعثت لأتمم مكارم الأخلاق.</tit>
+        <id>124</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>* كل نبي على خلق عظيم</tit>
+        <id>126</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التسامي في حدود البشرية. أو قل: أخلاق للجميع.</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الذين يتطوعون بالمثالية.</tit>
+        <id>128</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* نصرة عمر</tit>
+        <id>130</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* واجب الضيافة بين الكرم والقضاء</tit>
+        <id>133</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* هذا ديننا</tit>
+        <id>135</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الغني بين المثالية والواقعية</tit>
+        <id>137</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* المال خير.</tit>
+        <id>138</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* غنى النفس</tit>
+        <id>139</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* ضيق الشباب لماذا؟</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* غني النفسي يترفع بصاحبه عن الحرام</tit>
+        <id>142</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* صدقانتا ... إلى أين؟ ولمن؟</tit>
+        <id>147</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* ملكية المال بين الفرد والجماعة</tit>
+        <id>154</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* آيات وآيات</tit>
+        <id>156</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* حقوق وواجبات</tit>
+        <id>157</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* حقوق الجماعة</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* لا تجارة في المحرمات.</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* لا احتكار في الضروريات</tit>
+        <id>159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* القرآن وأموال السفهاء</tit>
+        <id>160</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* أموال اليتامى</tit>
+        <id>162</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* الوصي كيف يعيش؟</tit>
+        <id>163</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* مال الصبي وحقوق الجماعة</tit>
+        <id>165</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* مال اليتيم والتضخم الاقتصادي</tit>
+        <id>166</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>* العسكرية الإسلامية والواقعية</tit>
+        <id>169</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

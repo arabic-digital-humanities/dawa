@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تمهيد</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المؤلف</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في منشأ دعوة الشيخ محمد بن عبد الوهاب</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في طلب الشيخ رحمه الله للعلم ومبدأ دعوته</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حال الناس في نجد وغيرها قبل دعوة الشيخ</tit>
+        <id>22</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حقيقة دعوة الشيخ وأنها سلفية</tit>
+        <id>36</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في نقض تعيير الملحد بسكنى بلاد مسيلمة</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في فرية الملحد على الشيخ بأنه يطمح للنبوة</tit>
+        <id>63</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في رد فرية بأنهم خوارج</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في رد فرية الملحد في تنقص الأنبياء والصالحين</tit>
+        <id>91</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في رد فرية الملحد على كتاب (كشف الشبهات)</tit>
+        <id>93</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في كيد الدولة التركية المصرية ورد الله له</tit>
+        <id>97</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في مسألة زيارة قبر النبي صلى الله عليه وسلم</tit>
+        <id>110</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان أن دعوة الشيخ ليس فيها من مقالات الخوارج شيء</tit>
+        <id>124</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في ذكر بعض مفتريات الملحد</tit>
+        <id>126</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الدولة السعودية القائمة الآن</tit>
+        <id>132</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في كيد الدولة العثمانية</tit>
+        <id>142</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في فرية الملحد أن الشيخ يريد النبوة</tit>
+        <id>153</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان جهمية الملحد وسنية الشيخ</tit>
+        <id>177</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في مدح الملحد للعقل وذمه لأهل السنة</tit>
+        <id>207</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في مفتريات الملحد، وردها</tit>
+        <id>209</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في زعم الملحد أن إثبات الصفات تجسيم</tit>
+        <id>215</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان كلام الملحد في الجسم، وزيغه</tit>
+        <id>243</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في إثبا الصفات وأنه لا يقتضي التجسيم</tit>
+        <id>262</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإشارة إلى السماء، وإنكار الملحد ذلك</tit>
+        <id>279</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في إنكار الملحد للنزول</tit>
+        <id>290</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في تأويل الملحد للإشارة والمعراج</tit>
+        <id>298</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في تأليه الملحد للعقل، وزعمه أن النقل يؤدي إلى الضلال</tit>
+        <id>311</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في زعم الملحد تقديم العقل لأنه الأصل</tit>
+        <id>318</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في فرية الملحد عليهم بنفي الإجماع</tit>
+        <id>347</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في فرية الملحد عليهم بإنكارهم القياس</tit>
+        <id>357</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في فرية الملحد بتكفير المقلدين</tit>
+        <id>365</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حكم أهل الأهواء</tit>
+        <id>382</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في تناقض العراقي وكلامه في الجهمية</tit>
+        <id>391</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حكم التوسل والإستغاثة والزيارة والشرك</tit>
+        <id>396</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان جهل الملحد بمعنى العبادة</tit>
+        <id>407</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في أنواع الشرك، وجهل الملحد بها</tit>
+        <id>421</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان سبب شرك الجاهلية</tit>
+        <id>431</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان أن الإستغاثة من الدعاء</tit>
+        <id>443</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في التوسل</tit>
+        <id>454</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإستغاثة الشركية</tit>
+        <id>465</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإستغاثة بالأنبياء</tit>
+        <id>475</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في آية: {وأبتغوا إليه الوسيلة}</tit>
+        <id>488</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في آية: {أيهم أقرب}</tit>
+        <id>498</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في آية: {ولو أنهم إذ ظلموا أنفسهم جاءوك}</tit>
+        <id>505</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في آية: {فاستغاثه الذي من شيعته}</tit>
+        <id>517</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في آية: {لا يملكون الشفاعة}</tit>
+        <id>525</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حديث: &quot;أسألك بحق السائلين&quot;</tit>
+        <id>533</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حديث: &quot;أغفر لأمي فاطمة بحق نبيك&quot;</tit>
+        <id>536</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حديث الضرير</tit>
+        <id>538</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في المنام والإستسقاء</tit>
+        <id>547</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في إستسقاء عمر بالعباس</tit>
+        <id>552</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الفرق بين الحي والميت في التوسل</tit>
+        <id>554</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حقيقة غلو الناس في الصالحين وغيرهم</tit>
+        <id>562</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإستغاثة وقصة هاجر</tit>
+        <id>572</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل الإستغاثة وشفاعة القيامة</tit>
+        <id>575</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حديث: &quot;يا عباد الله احبسوا&quot;</tit>
+        <id>579</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان شرك من يدعو غائبا في حاجاته</tit>
+        <id>586</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في دلالة ظاهر نداء المشرك غير الله</tit>
+        <id>590</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في عقيدة أهل السنة في الصفات</tit>
+        <id>593</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في زيارة القبور الشركية، والشفاعة</tit>
+        <id>596</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في عبادة القبور</tit>
+        <id>613</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في شد الرحال إلى القبور</tit>
+        <id>620</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في مزاعم للملحد، وردها</tit>
+        <id>651</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في النذر لغير الله</tit>
+        <id>662</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بيان الركوب إلى النصارى واتخاذهم أولياء</tit>
+        <id>680</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

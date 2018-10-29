@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المقام الأول اختلاف النصارى</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اختلاف النصارى في أمر دينهم</tit>
+        <id>10</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تحريف النصارى لدينهم</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مجامع النصارى</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مجمع نيقية الأول سنة 325 م</tit>
+        <id>26</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع قسطنطينية الأول سنة 381 م</tit>
+        <id>29</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع أفسس الأول سنة 431 م</tit>
+        <id>31</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع أفسس الثاني سنة 449 م</tit>
+        <id>33</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع خلقدونية سنة 451 م</tit>
+        <id>34</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع قسطنطينية</tit>
+        <id>36</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع القسطنطينية سنة 553 م</tit>
+        <id>39</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع القسطنطينية سنة 653 م</tit>
+        <id>40</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>مجمع القسطنطينية سنة 680 م</tit>
+        <id>42</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حال النصارى بعد المجامع</tit>
+        <id>43</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تقييم النصارى بعد المجامع</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حاجة الناس إلى بعثة محمد صلى الله عليه وسلم</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>موافقة الإسلام للشرائع السماوية</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإنذار بخروج الأمر من يد العرب إذا خالفوا أمر الله</tit>
+        <id>64</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المسلمون لم يحاربوا الترك بل حاربوا التتار</tit>
+        <id>70</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقام الثاني دعوى النصارى قتل المسيح وصلبه</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رفض دعوى النصارى قتل المسيح وصلبه</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نزول عيسى في آخر الزمان</tit>
+        <id>88</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شك النصارى في كتبهم</tit>
+        <id>92</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إتقان علماء المسلمين لرواية الحديث عن الرسول صلى الله عليه وسلم</tit>
+        <id>94</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أمثلة من اختلاف كتب النصارى</tit>
+        <id>96</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القطع بصحة القرآن وأنه جاء من عند الله</tit>
+        <id>98</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوى قتل المسيح وصلبه تنافي دعوى ألوهيته</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القرآن مصدق لما بين يديه من الكتب ومهيمن عليه</tit>
+        <id>101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مزج أهل الكتاب أخبارهم بكتب أنبيائهم</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تحريف النصارى صفة محمد وأدلة رسالته</tit>
+        <id>108</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صفة النبي في التوراة</tit>
+        <id>115</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صفة النبي في الإنجيل</tit>
+        <id>119</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أدلة رسالته في الإنجيل</tit>
+        <id>125</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أدلة رسالته في التوراة</tit>
+        <id>140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اعتراف أهل الكتاب برسالته</tit>
+        <id>147</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقام الثالث شبه النصارى حول تفضيل عيسى على محمد عليهما السلام</tit>
+        <id>161</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دفع شبه النصارى حول تفضيل عيسى على محمد عليهما السلام</tit>
+        <id>161</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ما فضل به محمد صلى الله عليه وسلم</tit>
+        <id>163</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خلق رسول الله صلى الله عليه وسلم</tit>
+        <id>168</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ترفعه صلى الله عليه وسلم عن ملاذ الدنيا</tit>
+        <id>173</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هديه صلى الله عليه وسلم في النكاح</tit>
+        <id>184</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>جاه رسول الله صلى الله عليه وسلم ومكانته في قلوب الناس</tit>
+        <id>191</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>هديه صلى الله عليه وسلم في التعامل مع المال</tit>
+        <id>194</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>من ولد من غير أب ولا أم لا يكون أفضل من غيره</tit>
+        <id>195</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عقيدة المسلمين في عيسى عليه السلام</tit>
+        <id>204</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عقيدة النصارى في عيسى عليه السلام</tit>
+        <id>209</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوى النصارى أن المسيح ابن الله والرد على ذلك</tit>
+        <id>220</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>دعوى النصارى ألوهية المسيح والرد على ذلك</tit>
+        <id>228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>التنبيه على بعض ما في صدر سورة آل عمران من الحجة على بطلان قول النصارى</tit>
+        <id>237</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الشبهات الأربع التي تعلقت بها النصارى في دعواهم ألوهية المسيح</tit>
+        <id>242</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مناظرة حكاها بعض العلماء جرت بينه وبين بعض النصارى</tit>
+        <id>251</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>شبهة النصارى حول مشروعية الجهاد في الإسلام والرد عليها</tit>
+        <id>258</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>رفع عيسى إلى السماء لا يؤدي إلى تفضيله على محمد</tit>
+        <id>265</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وجوب اتباع ما جاء به محمد صلى الله عليه وسلم</tit>
+        <id>269</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ثبوت وقوع معجزات النبي محمد صلى الله عليه وسلم وأدلة صحة رسالته</tit>
+        <id>273</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وجوه إعجاز القرآن الكريم</tit>
+        <id>278</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>القرآن الكريم آية باقية ما بقيت الدنيا</tit>
+        <id>299</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>انشقاق القمر</tit>
+        <id>304</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إخباره ببعض المغيبات</tit>
+        <id>312</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تكليم الجماد له صلى الله عليه وسلم</tit>
+        <id>334</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كلام الحيوانات وطاعتها له صلى الله عليه وسلم</tit>
+        <id>339</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>نبع الماء بين أصابعه الشريفة وتكثيره</tit>
+        <id>343</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تكثير الطعام ببركته ودعائه صلى الله عليه وسلم</tit>
+        <id>348</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إجابة دعائه صلى الله عليه وسلم</tit>
+        <id>353</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إبراء النبي صلى الله عليه وسلم ذوي العاهات</tit>
+        <id>358</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عصمة الله لنبيه وحمايته من الناس</tit>
+        <id>362</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>صحة وقوع معجزاته صلى الله عليه وسلم</tit>
+        <id>366</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأدلة على صدق معجزات النبي صلى الله عليه وسلم</tit>
+        <id>374</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إثبات نبوة موسى وعيسى بنبوة محمد عليهم السلام</tit>
+        <id>380</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معجزات الرسل لا تقتصر على حالة التحدي</tit>
+        <id>382</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>معجزات الرسل لا تكون للمتعنت</tit>
+        <id>384</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الكلام في النبوة من جنس الكلام في الخبر</tit>
+        <id>398</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الصدق والكذب يظهر أثرهما على الوجه</tit>
+        <id>403</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>قصة هرقل مع أبي سفيان ودلالتها على صدق رسالة محمد صلى الله عليه وسلم</tit>
+        <id>413</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقام الرابع ما عاناه المسلمون في سبيل نشر دعوتهم</tit>
+        <id>418</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ما قاساه المسلمون في سبيل نشر دعوتهم</tit>
+        <id>418</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بعض كرامات أتباع رسول الله صلى الله عليه وسلم</tit>
+        <id>427</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفرق بين كرامات الأولياء والأحوال الشيطانية</tit>
+        <id>441</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الإرهاصات التي بين يدي بعثة محمد صلى الله عليه وسلم</tit>
+        <id>445</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تحقيق وقوع وعد الله لنبيه بالنصر</tit>
+        <id>448</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وقوع الفتوحات الإسلامية خارقة للعادة</tit>
+        <id>450</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>تأييد الله لرسوله وتمكينه في الأرض</tit>
+        <id>451</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>انتصار الكفار في بعض المواطن لا يعد حجة على نصر الله للأنبياء</tit>
+        <id>456</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الدروس المستفادة من وقعة أحد</tit>
+        <id>459</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحكمة في مشروعية الجهاد في الإسلام</tit>
+        <id>465</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحكمة في مشروعية الجزية في الإسلام</tit>
+        <id>472</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>عموم رسالة محمد صلى الله عليه وسلم</tit>
+        <id>477</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المقام الخامس الترجيح بين الشريعتين</tit>
+        <id>478</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>شريعة الإسلام أكمل الشرائع</tit>
+        <id>478</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحدثات التي ابتدعها النصارى في دينهم</tit>
+        <id>479</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ضرب من حيل النصارى</tit>
+        <id>479</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>شريعة الإسلام أكمل الشرائع</tit>
+        <id>480</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المحدثات التي ابتدعها النصارى في دينهم</tit>
+        <id>484</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سجودهم للصور</tit>
+        <id>484</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>صلاتهم بدون طهارة</tit>
+        <id>487</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>اتجاههم في صلاتهم إلى جهة المشرق</tit>
+        <id>488</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الزيادة في فريضة صومهم</tit>
+        <id>489</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ابتداعهم أعيادا لا أصل لها</tit>
+        <id>491</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ظهور بدعة الصليب وتعظيم النصارى له</tit>
+        <id>492</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>ضرب من حيل النصارى</tit>
+        <id>500</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>حث الإسلام عن العفو عن القصاص</tit>
+        <id>505</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>إباحة الطلاق في الإسلام</tit>
+        <id>509</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فوائد إباحة تعدد الزوجات</tit>
+        <id>511</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أصول الدين الإسلامي</tit>
+        <id>514</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الختان من ملة إبراهيم عليه السلام</tit>
+        <id>522</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحكمة في تحريم أكل الخنزير</tit>
+        <id>523</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحكمة في تحريم الخمر</tit>
+        <id>527</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أوجه الكمال في الشريعة الإسلامية</tit>
+        <id>530</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>وقوع النسخ في الشرائع المتقدمة</tit>
+        <id>533</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>بطلان دعوى ختم النبوة بالمسيح</tit>
+        <id>536</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الأصول التي اتفقت عليها الشرائع السماوية</tit>
+        <id>537</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

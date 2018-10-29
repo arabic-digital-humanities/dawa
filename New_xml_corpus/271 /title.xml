@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>الجزء 1</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حرف الهمزة والألف</tit>
+        <id>5</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الباء</tit>
+        <id>430</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف التاء المثناة فوق</tit>
+        <id>453</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الجيم</tit>
+        <id>477</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الحاء المهملة</tit>
+        <id>492</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزء 2</tit>
+        <id>499</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حرف الخاء المعجمة</tit>
+        <id>625</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الدال المهملة</tit>
+        <id>636</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الذال المعجمة</tit>
+        <id>655</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الراء</tit>
+        <id>656</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الزاي</tit>
+        <id>669</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف السين المهملة</tit>
+        <id>696</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الشين المعجمة</tit>
+        <id>718</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الصاد المهملة</tit>
+        <id>734</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الضاد المعجمة خالي</tit>
+        <id>757</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الطاء المهملة المشالة</tit>
+        <id>757</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الظاء المعجمة</tit>
+        <id>758</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف العين المهملة</tit>
+        <id>759</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزء 3</tit>
+        <id>974</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بسم الله الرحمن الرحيم</tit>
+        <id>974</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الغين المعجمة</tit>
+        <id>1216</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الفاء</tit>
+        <id>1226</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف القاف</tit>
+        <id>1264</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الكاف</tit>
+        <id>1271</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف اللام</tit>
+        <id>1275</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الميم</tit>
+        <id>1279</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الجزء 4</tit>
+        <id>1468</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بسم الله الرحمن الرحيم</tit>
+        <id>1468</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف النون</tit>
+        <id>1910</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الهاء</tit>
+        <id>1925</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الواو</tit>
+        <id>1927</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف الياء</tit>
+        <id>1928</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حرف لام ألف خالى</tit>
+        <id>1928</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة إدارة الشؤون الإسلامية</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول في فضل مكة وما يتصل به</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - فصل في فضل مكة -زادها الله تشريفا وتكريما-</tit>
+        <id>9</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - فصل في أسمائها</tit>
+        <id>11</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - فصل في ألقابها وحدودها</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - فصل في جبالها وحكم زيارتها</tit>
+        <id>12</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - فصل في حكم المجاورة بها</tit>
+        <id>13</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - فصل في الموت بها، وذكر من دفن بها</tit>
+        <id>14</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - فصل في آداب المجاورة بها</tit>
+        <id>16</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>8 - فصل في مساجدها ودورها</tit>
+        <id>17</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>9 - فصل في خطاها والمشي فيها</tit>
+        <id>18</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>11 - فصل في محلات يستجاب الدعاء بها</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>10 - فصل في النظر إلى البيت</tit>
+        <id>19</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>12 - فصل في بعض آياتها</tit>
+        <id>20</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني في فضائل الحجاج والعمار والطواف وما ضاهاها</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - فصل في فضل الحاج والمعتمر</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - فصل في فضل رمضان بمكة والعمرة بها</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - فصل في فضل الطواف</tit>
+        <id>24</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - فصل فيما جاء في الحجر والركنين والملتزم</tit>
+        <id>26</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - فصل في فضل شرب ماء زمزم</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - فصل في المشي بين الصفا والمروة</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - فصل في أسماء ماء زمزم</tit>
+        <id>28</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>8 - فصل في المحافظة على الصلوات في المسجد الحرام جماعة في أوقاتها</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>9 - فصل في فضل من صبر على حرها ولأوائها</tit>
+        <id>31</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث في مبادىء الحج والعمرة</tit>
+        <id>32</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - فصل في الترغيب في الحج والعمرة</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - فصل في آداب سفر الحج، وهي كثيرة</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - فصل في وجوب الحج والعمرة لله -عز وجل-</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - فصل في وجوب الحج على الفور</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - فصل في ركوب البحر</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - فصل في اعتبار الزاد والراحلة</tit>
+        <id>44</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - فصل في حج الصبي والرقيق والحج عن الغير</tit>
+        <id>45</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>8 - فصل في أنواع الحج</tit>
+        <id>46</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>9 - فصل في بيان الأفضل من هذه الأنواع</tit>
+        <id>47</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>10 - فصل في نوع حجه - صلى الله عليه وسلم -</tit>
+        <id>48</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>11 - فصل في إدخال العمرة على الحج وفسخه إليها</tit>
+        <id>49</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>12 - فصل في مواقيت الحج</tit>
+        <id>51</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>13 - فصل في ميقات العمرة وهو الحل</tit>
+        <id>53</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>14 - فصل في كراهة الإحرام قبل أشهر الحج</tit>
+        <id>54</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>15 - فصل في جواز العمرة في جميع السنة</tit>
+        <id>55</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>16 - فصل في وجوه الإحرام</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>17 - فصل فيمن أحرم مطلقا، أو قال: أحرمت بما أحرم به فلان</tit>
+        <id>56</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>18 - فصل في الاشتراط</tit>
+        <id>57</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>19 - فصل في الفوات والإحصار ووجوب الهدي على المحصر</tit>
+        <id>58</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>20 - فصل في حكم الهدي</tit>
+        <id>60</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>21 - فصل في ركوب الهدي والحمل عليه</tit>
+        <id>61</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>22 - فصل فيما يجتنبه المحرم وما يباح له</tit>
+        <id>62</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>23 - فصل في الفدية</tit>
+        <id>67</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>24 - فصل في نكاح المحرم</tit>
+        <id>69</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>25 - فصل في صيد المحرم</tit>
+        <id>71</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>26 - فصل في جزاء الصيد</tit>
+        <id>72</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>27 - فصل في قتل المؤذيات</tit>
+        <id>73</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>28 - فصل في حرم مكة المكرمة -زادها الله تعالى تعظيما-</tit>
+        <id>74</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>29 - فصل في حرم المدينة المنورة -زاد الله شرفها-</tit>
+        <id>75</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>30 - فصل في حرم وج</tit>
+        <id>76</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>31 - فصل في التفاضل بين مكة والمدينة</tit>
+        <id>77</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع في مقاصد الحج من حين الإحرام إلى الرجوع عنه</tit>
+        <id>79</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - فصل في آداب الإحرام</tit>
+        <id>79</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - فصل في قطع التلبية</tit>
+        <id>82</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - فصل في آداب دخول مكة</tit>
+        <id>83</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>4 - فصل في آداب الطواف</tit>
+        <id>85</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>5 - فصل في صفة الطواف</tit>
+        <id>91</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>6 - فصل في السعي</tit>
+        <id>95</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>7 - فصل في المسير إلى منى، ومنها إلى عرفة</tit>
+        <id>97</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>8 - فصل في الوقوف بعرفة</tit>
+        <id>100</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>9 - فصل في الإفاضة من عرفة إلى المزدلفة</tit>
+        <id>105</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>10 - فصل في الوقوف بالمشعر الحرام</tit>
+        <id>107</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>11 - فصل في رمي جمرة العقبة يوم النحر</tit>
+        <id>109</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>12 - فصل في نحر الهدى وتحسينه</tit>
+        <id>112</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>13 - فصل في الحلق والتقصير</tit>
+        <id>114</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>14 - فصل في ترتيب الرمي والنحر والحلق</tit>
+        <id>115</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>15 - فصل في الإفاضة من منى للطواف يوم النحر</tit>
+        <id>116</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>16 - فصل في المبيت بمنى، وما يفعل في أيامها</tit>
+        <id>118</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>17 - فصل في التحصيب</tit>
+        <id>121</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>18 - فصل في دخول الكعبة</tit>
+        <id>122</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>19 - فصل في صفة العمرة المفردة، وما يتصل بها من إكثار الاعتمار والطواف، وشرب زمزم وغيرها</tit>
+        <id>123</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>20 - فصل في طواف الوداع</tit>
+        <id>126</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>21 - فصل في زيارة المساجد وأبنية مكة</tit>
+        <id>129</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>22 - فصل في الرجوع من حج أو عمرة وما يتصل به</tit>
+        <id>131</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس في زيارة سيدنا محمد المصطفى أحمد المجتبى - صلى الله عليه وسلم -</tit>
+        <id>134</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>1 - فصل في حكم الزيارة</tit>
+        <id>134</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>2 - فصل في آداب الزيارة وما يتصل بها</tit>
+        <id>145</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>3 - فصل في فضائل &quot;المدينة&quot; وما يشبهها</tit>
+        <id>154</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>خاتمة</tit>
+        <id>160</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

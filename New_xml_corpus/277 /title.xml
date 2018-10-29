@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل: مبدأ دعوة الشيخ محمد بن عبد الوهاب</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل: شيء من سيرة الشيخ رحمة الله</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل: مناظرة مع علماء مكة</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل: ترجمة الشيخ محمد رحمة الله</tit>
+        <id>95</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة من الشيخ سليمان بن عبد الوهاب في قبوله الدعوه السلفية</tit>
+        <id>98</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بعض مفتريات أعداء الدعوة</tit>
+        <id>110</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التجسيم وبراءة السلفية منه</tit>
+        <id>134</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التقليد والاجتهاد</tit>
+        <id>147</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>حقيقة الفرقة الناجية</tit>
+        <id>155</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تحذير الأئمة لاربعة من تقليدهم</tit>
+        <id>163</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الناس بالنسبة إلى الهدى ثلاث طبقات</tit>
+        <id>169</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوسل وزيارة القبور</tit>
+        <id>183</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مشركوا هذا الزمان كمشركي العرب الاقدمين</tit>
+        <id>208</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>اتخاذ القبور مساجد</tit>
+        <id>224</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>نفي تمسك الخليل بعلم النجوم</tit>
+        <id>228</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الاحاديث الموضوعة في زيارة قفبر النبي صلى الله عليه وسلم</tit>
+        <id>241</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دحض فرية القول باجماع المسلمين على جواز شد الرحال للقبور</tit>
+        <id>249</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الشيخ ابن تيمية لم يحرم زيارة القبور مطلقا</tit>
+        <id>258</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>التوسل والاستشفاع</tit>
+        <id>260</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>احاديث ضعيفة اوردها المعترض وبيان بطلانها</tit>
+        <id>267</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>بطلان جواز التوسل من الناحية العقلية</tit>
+        <id>286</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الصلاة على النبي صلى الله عليه وسلم وحكمها</tit>
+        <id>299</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>أحمد بن زيني دحلان من أئمة الضلال</tit>
+        <id>306</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مدخل</tit>
+        <id>313</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>مسائل هامة</tit>
+        <id>313</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الكفر الذي يخرج من الملة</tit>
+        <id>316</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>حكم التحاكم إلى الطاغوت</tit>
+        <id>322</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الحب والبغض</tit>
+        <id>325</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الهجر المشروع وغير المشروع</tit>
+        <id>331</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>اتخاذ بعض الطبقات البسة خاصة تميزهم عن غيرهم</tit>
+        <id>338</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>ابن تيمية لم يقل بفضل العامة</tit>
+        <id>346</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المعترض نقل من مجموع المنقور ماله وترك ماعليه</tit>
+        <id>356</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>سنية التحنيك وذؤابة</tit>
+        <id>363</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب فهارس</tit>
+        <id>366</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

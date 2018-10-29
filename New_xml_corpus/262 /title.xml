@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>المجلد الأول: (كتاب العقائد)</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب العقائد</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الثاني: (كتاب التوحيد)</tit>
+        <id>590</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كتاب التوحيد</tit>
+        <id>590</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الثالث: (كتاب الأسماء والصفات)</tit>
+        <id>949</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كتاب الأسماء والصفات</tit>
+        <id>949</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الرابع: (القسم الأول من كتاب العبادات)</tit>
+        <id>1324</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>1324</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل: في أصول مأخذهم</tit>
+        <id>1324</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: في أصول الفقه</tit>
+        <id>1428</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الطهارة</tit>
+        <id>1452</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الاستنجاء</tit>
+        <id>1464</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب السواك وسنن الفطرة</tit>
+        <id>1466</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الوضوء</tit>
+        <id>1472</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب المسح على الخفين</tit>
+        <id>1476</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب نواقض الوضوء</tit>
+        <id>1478</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الغسل</tit>
+        <id>1480</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب التيمم</tit>
+        <id>1488</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب إزالة النجاسة</tit>
+        <id>1496</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الحيض</tit>
+        <id>1507</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الصلاة</tit>
+        <id>1514</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الأذان</tit>
+        <id>1522</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب شروط الصلاة</tit>
+        <id>1532</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب صفة الصلاة</tit>
+        <id>1598</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>1598</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: أركان الصلاة</tit>
+        <id>1640</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب سجود السهو</tit>
+        <id>1648</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب صلاة التطوع</tit>
+        <id>1654</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب صلاة الجماعة</tit>
+        <id>1699</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>1699</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإمامة</tit>
+        <id>1722</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب صلاة أهل الأعذار</tit>
+        <id>1739</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الخامس: (القسم الثاني من كتاب العبادات)</tit>
+        <id>1755</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب صلاة الجمعة</tit>
+        <id>1755</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب صلاة العيدين</tit>
+        <id>1812</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب صلاة الكسوف</tit>
+        <id>1819</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الاستسقاء</tit>
+        <id>1822</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الجنائز</tit>
+        <id>1823</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>1920</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب الزكاة</tit>
+        <id>1920</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل: في زكاة الحبوب والثمار</tit>
+        <id>1922</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: في العروض</tit>
+        <id>1947</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في صدقة الفطر</tit>
+        <id>1951</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: في إخراج الزكاة</tit>
+        <id>1966</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: [في مصرف الزكاة]</tit>
+        <id>1987</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب الصيام</tit>
+        <id>2008</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الحج</tit>
+        <id>2104</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الأضاحي</tit>
+        <id>2142</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2142</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: في العقيقة</tit>
+        <id>2151</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2157</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد السادس: (كتاب البيع)</tit>
+        <id>2157</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب: الشروط في البيع</tit>
+        <id>2186</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الخيار</tit>
+        <id>2203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2203</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل في خيار العيب</tit>
+        <id>2214</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل (لزوم البيع)</tit>
+        <id>2234</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الربا</tit>
+        <id>2243</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2243</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: بيع الدين بالدين</tit>
+        <id>2272</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: (الوفاء في العقد الفاسد)</tit>
+        <id>2283</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: (حكم التعامل بالجدد حين رخصت وصارت الفضة فيها أكثر من المقابل)</tit>
+        <id>2289</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب بيع الأصول والثمار</tit>
+        <id>2305</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2316</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب السلم</tit>
+        <id>2316</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل (بعض صور المعاملات الربوية)</tit>
+        <id>2331</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب القرض</tit>
+        <id>2357</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2375</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الرهن</tit>
+        <id>2375</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل: (اختلاف الراهن والمرتهن)</tit>
+        <id>2403</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الضمان</tit>
+        <id>2408</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الحوالة</tit>
+        <id>2413</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الصلح</tit>
+        <id>2415</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2428</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الحجر</tit>
+        <id>2428</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل: (دفع إلى السفيه أو الصبي أو المجنون ماله ببيع أو قرض)</tit>
+        <id>2443</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الوكالة</tit>
+        <id>2447</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2454</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الشركة</tit>
+        <id>2454</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل (المضاربة بالعروض والمغشوش)</tit>
+        <id>2461</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل (حكم المزارعة)</tit>
+        <id>2487</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الإجارة</tit>
+        <id>2500</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب العارية</tit>
+        <id>2536</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الغصب</tit>
+        <id>2541</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الشفعة</tit>
+        <id>2586</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الوديعة</tit>
+        <id>2599</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب إحياء الموات</tit>
+        <id>2602</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الجعالة</tit>
+        <id>2621</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب اللقطة</tit>
+        <id>2624</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الوقف</tit>
+        <id>2629</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد السابع: (من كتاب الوقف إلى نهاية الإقرار)</tit>
+        <id>2629</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب الهبة والعطية</tit>
+        <id>2703</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الوصايا</tit>
+        <id>2729</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الفرائض</tit>
+        <id>2753</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب العتق</tit>
+        <id>2776</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب النكاح</tit>
+        <id>2787</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب المحرمات في النكاح</tit>
+        <id>2801</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الشروط والعيوب في النكاح</tit>
+        <id>2828</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب نكاح الكفار</tit>
+        <id>2832</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الصداق</tit>
+        <id>2837</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب وليمة العرس</tit>
+        <id>2845</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب عشرة النساء</tit>
+        <id>2878</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الخلع</tit>
+        <id>2884</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الطلاق</tit>
+        <id>2901</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب تعليق الطلاق بالشروط</tit>
+        <id>2956</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الرجعة</tit>
+        <id>2964</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الظهار</tit>
+        <id>2966</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب العدد</tit>
+        <id>2975</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>2975</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[فصل في صفة الإحداد]</tit>
+        <id>2990</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب الرضاع</tit>
+        <id>2994</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب النفقات</tit>
+        <id>2999</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الحضانة</tit>
+        <id>3004</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الجنايات</tit>
+        <id>3006</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الديات</tit>
+        <id>3026</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>3026</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[فصل في دية العين والسمع والبصر]</tit>
+        <id>3036</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[فصل في الذين لا يلزمهم عقل]</tit>
+        <id>3044</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب الحدود</tit>
+        <id>3050</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب حد القذف</tit>
+        <id>3063</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب حد المسكر</tit>
+        <id>3067</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب القطع في السرقة</tit>
+        <id>3088</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب حد قطاع الطريق</tit>
+        <id>3096</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الأطعمة</tit>
+        <id>3097</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الذكاة</tit>
+        <id>3103</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الأيمان والنذور</tit>
+        <id>3140</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>3140</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[فصل في حكم النذر]</tit>
+        <id>3145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب القضاء</tit>
+        <id>3159</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب القسمة</tit>
+        <id>3199</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الدعاوى والبينات</tit>
+        <id>3206</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب الشهادات</tit>
+        <id>3215</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الإقرار</tit>
+        <id>3228</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الثامن: (القسم الأول من: كتاب الجهاد)</tit>
+        <id>3231</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كتاب الجهاد (حكمه، وفضله، والحث عليه)</tit>
+        <id>3231</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>3231</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: [في الأمر بالمعروف والنهي عن المنكر]</tit>
+        <id>3275</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: [ترك الأمر بالمعروف والنهي عن المنكر على سبيل المداهنة]</tit>
+        <id>3297</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: [ما جاء في الأمر بالمعروف والنهي عن المنكر]</tit>
+        <id>3323</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: في ذكر الآثار عن السلف [في تحريم موالاة المشركين]</tit>
+        <id>3379</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: في التنبيه على حاصل ما تقدم [في حكم موالاة المشركين]</tit>
+        <id>3382</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>فصل: (في الإمامة، والبيعة، والسمع والطاعة)</tit>
+        <id>3728</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المجلد التاسع: (القسم الثاني من: كتاب الجهاد، وأول كتاب حكم المرتد)</tit>
+        <id>3728</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تابع كتاب الجهاد</tit>
+        <id>3728</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>فصل: [فصل في قتال من ترك التوحيد]</tit>
+        <id>3961</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب حكم المرتد</tit>
+        <id>4077</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد العاشر: (القسم الأخير من كتاب حكم المرتد)</tit>
+        <id>4171</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تابع كتاب حكم المرتد</tit>
+        <id>4171</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب مختصر الردود</tit>
+        <id>4691</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الحادي عشر: (القسم الأول من كتاب مختصرات الردود)</tit>
+        <id>4691</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المجلد الثاني عشر: (القسم الثاني من كتاب مختصرات الردود)</tit>
+        <id>5273</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تابع كتاب مختصرات الردود</tit>
+        <id>5273</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>كتاب تفسير القرآن</tit>
+        <id>5819</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>*</tit>
+        <id>5819</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المجلد الثالث عشر: (تفسير واستنباط لسور وآيات من القرآن الكريم)</tit>
+        <id>5819</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فضل حفظ القرآن</tit>
+        <id>5837</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>[ما في تفسير محمد صديق من بعض عبارات المتكلمين]</tit>
+        <id>5839</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الفاتحة</tit>
+        <id>5877</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة البقرة</tit>
+        <id>5904</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة آل عمران</tit>
+        <id>5944</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة النساء</tit>
+        <id>5952</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الأنعام</tit>
+        <id>5960</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الأعراف</tit>
+        <id>5978</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الأنفال</tit>
+        <id>6027</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة يونس</tit>
+        <id>6030</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة هود</tit>
+        <id>6038</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة يوسف</tit>
+        <id>6056</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة إبراهيم</tit>
+        <id>6106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الحجر</tit>
+        <id>6108</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة النحل</tit>
+        <id>6118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الإسراء</tit>
+        <id>6138</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الكهف</tit>
+        <id>6140</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة طه</tit>
+        <id>6157</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة المؤمنون</tit>
+        <id>6166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة النمل</tit>
+        <id>6172</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة القصص</tit>
+        <id>6174</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الزمر</tit>
+        <id>6199</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الشورى</tit>
+        <id>6217</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الفتح</tit>
+        <id>6220</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الحجرات</tit>
+        <id>6230</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الذاريات</tit>
+        <id>6235</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الجن</tit>
+        <id>6253</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الإنسان</tit>
+        <id>6261</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة العلق، والمدثر</tit>
+        <id>6262</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة التكاثر</tit>
+        <id>6271</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة العصر</tit>
+        <id>6277</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الكوثر</tit>
+        <id>6279</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الكافرون</tit>
+        <id>6283</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة تبت</tit>
+        <id>6285</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الإخلاص</tit>
+        <id>6288</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الفلق</tit>
+        <id>6290</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>سورة الناس</tit>
+        <id>6292</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب النصائح</tit>
+        <id>6295</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>المجلد الرابع عشر: (كتاب النصائح)</tit>
+        <id>6295</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المجلد الخامس عشر: (القسم الأول من البيان الواضح وأنبل النصائح عن ارتكاب الفضائح)</tit>
+        <id>6854</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة</tit>
+        <id>6854</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الأول: في الأمر بالمعروف والنهي عن المنكر</tit>
+        <id>6857</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثاني: في تحريم التتن بأنواعه</tit>
+        <id>6908</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثالث: كثرة الملاهي في هذا العصر</tit>
+        <id>6953</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الرابع: التبرج</tit>
+        <id>7101</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الخامس: التصوير</tit>
+        <id>7146</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السادس: حلق اللحى</tit>
+        <id>7186</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب السابع: لباس الشرطة</tit>
+        <id>7216</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الباب الثامن: المكس</tit>
+        <id>7259</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: في العلم وفضله وفضل أهله</tit>
+        <id>7274</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب التاسع</tit>
+        <id>7274</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: من أعظم أسباب ضعف العلم والإسلام</tit>
+        <id>7317</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>المجلد السادس عشر: (القسم الثاني من البيان الواضح، وتراجم أصحاب تلك الرسائل والأجوبة)</tit>
+        <id>7348</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الباب التاسع (تابع)</tit>
+        <id>7348</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: السبب الأعظم لضعف العلم والإسلام</tit>
+        <id>7348</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الرابع: أعظم أسباب التبرج</tit>
+        <id>7399</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الخامس: الأمر من ديوان مجلس الوزراء بمنع النساء من العمل الذي يؤدي إلى اختلاطهن بالرجال</tit>
+        <id>7443</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل السادس: مطالعة الصحف التي تسربت إلى بلاد المسلمين</tit>
+        <id>7445</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الباب العاشر: النظم</tit>
+        <id>7517</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>الفصل الأول: القضاء الشرعي الذي أوجبه الله على عباده</tit>
+        <id>7517</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثاني: الحكم الوضعي التشريعي ويسمى بالدستور وبالحقوق والقانون</tit>
+        <id>7549</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>الفصل الثالث: ما يسمى بالنظم وبالقانون لم يكن يعرف في عهد سلفنا</tit>
+        <id>7578</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب تراجم أصحاب تلك الرسائل والأجوبة</tit>
+        <id>7659</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>

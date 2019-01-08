@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة في المسائل الخمس الواجب معرفتها</tit>
+        <id>8</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة في النفاق بقسميه وصفات المنافقين</tit>
+        <id>12</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة في كلمة لا إله إلا الله</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة أخرى في الشهادتين</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة في كلمة التوحيد</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة أخرى في كلمة التوحيد وكونها تنفي أربعا وتثبت أربعا</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مذاكرة الشيخ محمد رحمه الله مع أهل بلد حرملة في كلمة التوحيد، والجمع بين التوحيد والشرك</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة أخرى في كلمة التوحيد</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رسالة في حقيقة الإسلام من الكتاب والسنة ومن خالفهما من أدعياء العلم والعرفان</tit>
+        <id>44</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

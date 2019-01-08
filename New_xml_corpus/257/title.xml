@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الفاتحة</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة البقرة</tit>
+        <id>17</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة آل عمران</tit>
+        <id>41</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الأنعام</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الأعراف</tit>
+        <id>64</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصة آدم وإبليس</tit>
+        <id>76</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة يونس</tit>
+        <id>108</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة هود</tit>
+        <id>110</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة يوسف</tit>
+        <id>122</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الحجر</tit>
+        <id>178</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة النحل</tit>
+        <id>231</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الكهف</tit>
+        <id>232</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصة موسى والخضر</tit>
+        <id>244</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة طه</tit>
+        <id>255</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة المؤمنون</tit>
+        <id>261</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة النور</tit>
+        <id>263</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة القصص</tit>
+        <id>272</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصة موسى وفرعون في السور الأخرى</tit>
+        <id>286</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الزمر</tit>
+        <id>308</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الحجرات</tit>
+        <id>340</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الجن</tit>
+        <id>346</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة المدثر</tit>
+        <id>355</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة العلق</tit>
+        <id>358</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تفسير آيات من السور القصار</tit>
+        <id>363</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>قصة سبب نزول: {تبت يدا أبي لهب وتب} إلى آخر السورة</tit>
+        <id>369</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الإخلاص</tit>
+        <id>371</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الفلق</tit>
+        <id>372</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>سورة الناس</tit>
+        <id>374</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مصادر ومراجع</tit>
+        <id>377</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

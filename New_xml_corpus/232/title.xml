@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب أحكام المياة</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب الآنية</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب الاستنجاء</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب السواك وسنن الوضوء</tit>
+        <id>16</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب فروض الوضوء وصفته</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب المسح على الخفين</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب نواقض الوضوء</tit>
+        <id>28</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب الغسل</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب التيمم</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب إزالة النجاسة الحكمية</tit>
+        <id>41</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب الحيض</tit>
+        <id>44</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب النفاس</tit>
+        <id>50</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تعريف الحج والعمرة</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>تأكد فسخ الحج إلى العمرة لمن لم يسق الهدي</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإحرام</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>محظورات الإحرام</tit>
+        <id>19</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الفدية</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>دخول مكه</tit>
+        <id>23</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الطواف بالبيت</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>السعي بين الصفا والمروة</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإحرام بالحج يوم التروية</tit>
+        <id>37</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الوقوف بعرفة</tit>
+        <id>38</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدفع إلى مزدلفة</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الدفاع إلى منى ورمي جمرة العقبة</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الإفاضة إلى البيت والتحلل</tit>
+        <id>46</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>المبيت بمنى</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>رمي الجمرات أيام التشريق</tit>
+        <id>49</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>طواف الوداع</tit>
+        <id>52</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>الوقوف بالمتلزم</tit>
+        <id>53</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة الناشر مختصر زاد المعاد</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ترجمة المؤلف</tit>
+        <id>2</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ترجمة الإمام ابن القيم</tit>
+        <id>3</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>مقدمة المؤلف</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل اختص الله نفسه بالطيب</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في وجوب معرفة هدي الرسول</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الوضوء</tit>
+        <id>7</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الصلاة</tit>
+        <id>9</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه في القراءة في باقي الصلوات</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في قراءة صلاة الفجر</tit>
+        <id>11</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في ركوعه صلى الله عليه وآله وسلم</tit>
+        <id>13</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في كيفية سجوده</tit>
+        <id>14</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في كيفية جلوسه وإشارته في التشهد</tit>
+        <id>15</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في سجود السهو</tit>
+        <id>18</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في السنن الرواتب والتطوعات</tit>
+        <id>20</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في قيام الليل</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في صلاة الضحى</tit>
+        <id>24</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الجمعة</tit>
+        <id>25</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في تعظيم يوم الجمعة</tit>
+        <id>27</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في هديه صلى الله عليه وسلم في صلاة العيدين</tit>
+        <id>29</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في صلاة الكسوف</tit>
+        <id>30</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الاستسقاء</tit>
+        <id>31</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في سفره وعباداته فيه</tit>
+        <id>33</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في قراءة القرآن</tit>
+        <id>34</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في زيارة المرضى</tit>
+        <id>35</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في صلاة الخوف</tit>
+        <id>39</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الزكاة</tit>
+        <id>41</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في من يعطى الصدقة</tit>
+        <id>42</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في زكاة الفطر</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في صدقة التطوع</tit>
+        <id>43</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الصيام</tit>
+        <id>45</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الاعتكاف</tit>
+        <id>48</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في حجه وعمرته</tit>
+        <id>50</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في إحرامه</tit>
+        <id>51</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل قد تضمنت حجته صلى الله عليه وسلم ست وقفات للدعاء</tit>
+        <id>62</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الهدايا والضحايا والعقيقة</tit>
+        <id>64</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الأضاحي</tit>
+        <id>65</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في العقيقة</tit>
+        <id>66</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الأسماء والكنى</tit>
+        <id>66</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في حفظ المنطق واختيار الألفاظ</tit>
+        <id>70</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الذكر</tit>
+        <id>75</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم عند دخوله منزله</tit>
+        <id>75</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في هديه صلى الله عليه وسلم في الأذان</tit>
+        <id>76</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في آداب الطعام</tit>
+        <id>77</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في السلام والاستئذان</tit>
+        <id>78</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في السلام على أهل الكتاب</tit>
+        <id>81</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الاستئذان</tit>
+        <id>82</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في آداب السفر</tit>
+        <id>85</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل فيما يقوله ويفعله من بلي بالوساوس</tit>
+        <id>88</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم فيما يقوله عند الغضب</tit>
+        <id>90</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في ألفاظ كان صلى الله عليه وسلم يكره أن تقال</tit>
+        <id>91</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الجهاد والغزوات</tit>
+        <id>92</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في أنواع الجهاد</tit>
+        <id>94</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في دعوة الرسول قومه إلى دينه</tit>
+        <id>98</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الهجرة إلى الحبشة</tit>
+        <id>101</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإسراء</tit>
+        <id>103</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في مبدأ الهجرة التي فرق الله بها بين أوليائه وأعدائه</tit>
+        <id>106</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في قدوم النبي المدينة</tit>
+        <id>112</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في بناء المسجد</tit>
+        <id>114</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في أحوال رسول الله والمسلمين عندما استقر بالمدينة</tit>
+        <id>117</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في القتال</tit>
+        <id>122</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الأسارى</tit>
+        <id>125</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حكم الأراضي التي يغنمها المسلمون</tit>
+        <id>126</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في الأمان والصلح</tit>
+        <id>127</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في ترتيب هديه مع الكفار والمنافقين من حين بعث بالدين إلى أن لقي الله عز وجل</tit>
+        <id>134</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في سياق مغازيه</tit>
+        <id>136</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوتي بدر وأحد</tit>
+        <id>138</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في ما اشتملت عليه هذه الغزوة من الأحكام</tit>
+        <id>141</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوة الخندق</tit>
+        <id>153</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في قصة الحديبية</tit>
+        <id>154</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوة خيبر</tit>
+        <id>158</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوة الفتح العظيم</tit>
+        <id>162</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوة حنين</tit>
+        <id>164</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوة الطائف</tit>
+        <id>165</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في غزوة تبوك</tit>
+        <id>169</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في الإشارة إلى ما تضمنته هذه القصة من الفوائد</tit>
+        <id>175</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حديث الثلاثة الذين خلفوا</tit>
+        <id>178</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حجة أبي بكر رضي الله عنه</tit>
+        <id>186</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في علاج حر المصيبة</tit>
+        <id>190</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في علاج الكرب والهم والحزن</tit>
+        <id>191</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>في هديه صلى الله عليه وسلم في علاج الفزع والأرق</tit>
+        <id>193</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم في حفظ الصحة</tit>
+        <id>194</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في هديه صلى الله عليه وسلم أقضيته وأحكامه</tit>
+        <id>196</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حكمه بالغنائم</tit>
+        <id>198</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في حكمه صلى الله عليه وسلم في قسمة الأموال</tit>
+        <id>199</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل حكمه في الوفاء بالعهد لعدوه وفي رسلهم أن لا يقتلوا ولا يحبسوا</tit>
+        <id>201</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>فصل في أحكامه في النكاح وتوابعه</tit>
+        <id>203</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

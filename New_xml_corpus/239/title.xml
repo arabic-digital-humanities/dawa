@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>شروط الصلاة تسعة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>وأركان الصلاة أربعة عشر</tit>
+        <id>4</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>والواجبات ثمانية</tit>
+        <id>10</id>
+        <lvl>1</lvl>
+    </title>
+</dataroot>

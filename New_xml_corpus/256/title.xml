@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <title>
+        <tit>مقدمة</tit>
+        <id>1</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>ترجمة موجزة عن المؤلف</tit>
+        <id>5</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>كتاب الكبائر</tit>
+        <id>21</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب أكبر الكبائر</tit>
+        <id>21</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب كبائر القلب</tit>
+        <id>23</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر الكبر</tit>
+        <id>25</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر العجب</tit>
+        <id>27</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر الرياء والسمعة</tit>
+        <id>29</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الفرح</tit>
+        <id>32</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر اليأس من روح الله والأمن من مكر الله</tit>
+        <id>33</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر سوء الظن بالله</tit>
+        <id>34</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر إرادة العلو والفساد</tit>
+        <id>36</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب العداوة والبغضاء</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الفحش</tit>
+        <id>37</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر مودة أعداء الله</tit>
+        <id>38</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر قسوة القلب</tit>
+        <id>39</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر ضعف القلب</tit>
+        <id>41</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>أبواب كبائر اللسان</tit>
+        <id>42</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب التحذير من شر اللسان</tit>
+        <id>42</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في كثرة الكلام</tit>
+        <id>47</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب التشدق وتكلف الفصاحة</tit>
+        <id>48</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب شدة الجدال</tit>
+        <id>50</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من هابه الناس خوفا من لسانه</tit>
+        <id>51</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب البذاء والفحش</tit>
+        <id>52</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الكذب</tit>
+        <id>54</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في إخلاف الوعد</tit>
+        <id>56</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في زعموا</tit>
+        <id>58</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الكذب والمزح ونحوه</tit>
+        <id>60</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في التملق ومدح الإنسان بما ليس فيه</tit>
+        <id>63</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في النهي عن كون الإنسان مداحا</tit>
+        <id>64</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما يمحق الكذب من البركة</tit>
+        <id>65</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من تحلم ولم ير شيئا</tit>
+        <id>66</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر مرض القلب وموته</tit>
+        <id>67</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر الرضا بالمعصية</tit>
+        <id>69</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر تمني المعصية والحرص عليها</tit>
+        <id>71</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر الريب</tit>
+        <id>73</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب السخط</tit>
+        <id>74</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب القلق والاضطراب</tit>
+        <id>75</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الجهالة</tit>
+        <id>77</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب القحة</tit>
+        <id>79</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الحرص على المال والشرف</tit>
+        <id>80</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الهلع والجبن</tit>
+        <id>81</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب البخل</tit>
+        <id>83</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب عقوبة البخل</tit>
+        <id>84</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ازدراء النعمة والاستخفاف بحرمات الله</tit>
+        <id>86</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب بغض الصالحين</tit>
+        <id>86</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الحسد</tit>
+        <id>88</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب سوء الظن بالمسلمين</tit>
+        <id>89</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الكذب على الله أو على رسوله</tit>
+        <id>90</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في القول على الله بلا علم</tit>
+        <id>91</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في شهادة الزور</tit>
+        <id>92</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في اليمين الغموس</tit>
+        <id>94</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في قذف المحصنات</tit>
+        <id>95</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في ذي الوجهين</tit>
+        <id>96</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في النميمة</tit>
+        <id>98</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في البهتان</tit>
+        <id>100</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء من اللعن</tit>
+        <id>101</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في إفشاء السر</tit>
+        <id>103</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في لعن المسلم</tit>
+        <id>105</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر تأكده في الأموات</tit>
+        <id>106</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر قول يا عدو الله أو يا فاسق أو يا كافر ونحوه</tit>
+        <id>107</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في لعن الرجل والديه</tit>
+        <id>109</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب النهي عن دعوى الجاهلية</tit>
+        <id>110</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب النهي عن الشفاعة في الحدود</tit>
+        <id>111</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من أعان على خصومة في الباطل</tit>
+        <id>113</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من شهد أمرا فليتكلم بخير أو ليسكت</tit>
+        <id>114</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما يحذر من الكلام في الفتن</tit>
+        <id>115</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب قول هلك الناس</tit>
+        <id>117</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الفخر</tit>
+        <id>118</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الطعن في الأنساب</tit>
+        <id>120</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من ادعى نسبا ليس له</tit>
+        <id>121</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من تبرأ من نسبه</tit>
+        <id>123</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من ادعى ما ليس له ومن إذا خاصم فجر</tit>
+        <id>124</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الدعوى في العلم افتخارا</tit>
+        <id>125</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر جحود النعمة</tit>
+        <id>126</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في لمز أهل طاعة الله والاستهزاء بضعفتهم</tit>
+        <id>128</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الاستهزاء</tit>
+        <id>129</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ترويع المسلم</tit>
+        <id>131</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب المتشبع بما لم يعط</tit>
+        <id>132</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب التحدث بالمعصية</tit>
+        <id>133</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الشتم بالزنا</tit>
+        <id>134</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب النهي عن تسمية الفاسق سيدا</tit>
+        <id>135</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب النهي عن الحلف بالأمانة</tit>
+        <id>136</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب النهي عن الحلف بملة غير الإسلام</tit>
+        <id>137</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الغيبة</tit>
+        <id>139</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في إضلال الأعمى عن الطريق</tit>
+        <id>143</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب تشييع الفاحشة في المؤمنين</tit>
+        <id>144</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الرشوة</tit>
+        <id>145</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب هدايا الأمراء غلول</tit>
+        <id>147</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الهدية على الشفاعة</tit>
+        <id>148</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الغلول</tit>
+        <id>149</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب طاعة الأمراء</tit>
+        <id>150</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الخروج عن الجماعة</tit>
+        <id>152</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الفتن</tit>
+        <id>154</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب تعظيم قتل النفس التي حرم الله إلا بالحق</tit>
+        <id>159</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب تكثير السواد في الفتن</tit>
+        <id>162</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر العقوق</tit>
+        <id>164</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ذكر القطيعة</tit>
+        <id>166</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب أذى الجار</tit>
+        <id>168</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الاستخفاف بأهل الفضل</tit>
+        <id>171</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب إغضاب الزوج</tit>
+        <id>173</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب أذى الصالحين</tit>
+        <id>175</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الأمانة والخيانة فيها وتفسير الأمانة</tit>
+        <id>176</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الولايات من الأمانة</tit>
+        <id>177</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب النهي عن طلبها</tit>
+        <id>178</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في غش الرعية</tit>
+        <id>180</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الشفقة على الرعية</tit>
+        <id>181</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الاحتجاب دون الرعية</tit>
+        <id>182</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب المحاباة في الولاية</tit>
+        <id>183</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الجور والظلم وخطر الولاية</tit>
+        <id>184</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ولاية من لا يحسن العدل</tit>
+        <id>186</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الأمانة في البيع والشراء والكيل والوزن</tit>
+        <id>188</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب قوله كلكم راع وكلكم مسئول عن رعيته</tit>
+        <id>190</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الرفق بالمملوك</tit>
+        <id>191</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الرفق بالبهائم</tit>
+        <id>192</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب إباق العبد</tit>
+        <id>194</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ظلم الأجير</tit>
+        <id>195</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب سؤال المرأة الطلاق</tit>
+        <id>196</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في الديوث</tit>
+        <id>197</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب ظلم المرأة</tit>
+        <id>198</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب الإشارة بالسلاح على وجه اللعب</tit>
+        <id>199</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب العصبية</tit>
+        <id>201</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>باب من آوى محدثا</tit>
+        <id>202</id>
+        <lvl>3</lvl>
+    </title>
+    <title>
+        <tit>كتاب المظالم</tit>
+        <id>203</id>
+        <lvl>1</lvl>
+    </title>
+    <title>
+        <tit>باب ظلم اليتيم</tit>
+        <id>203</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب غصب الأرض</tit>
+        <id>204</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الظلم في الأبدان</tit>
+        <id>205</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب الظلم في الأموال</tit>
+        <id>207</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب خذلان المظلوم</tit>
+        <id>208</id>
+        <lvl>2</lvl>
+    </title>
+    <title>
+        <tit>باب ما جاء في أخوة الإسلام وحق المسلم على المسلم</tit>
+        <id>210</id>
+        <lvl>2</lvl>
+    </title>
+</dataroot>
